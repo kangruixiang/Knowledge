@@ -11,60 +11,36 @@
 OB:
 
 - [[Normal pregnancy]]
-
 - [[Folic acid in pregnancy]]
-
 - [[HPV and pregnancy]]
-
 - [[Labor in Pregnancy]]
-
 - [[Postpartum thyroiditis]]
-
 - [[Infertility]]
-
 - [[Infections in Pregnancy]]
-
 - [[Choriocarcinoma]]
-
 - [[Cervical insufficiency]]
-
 - [[Abortions]]
-
 - [[excercise in prenancy]]
-
 - [[Peripartum Cardiomyopathy]]
-
 - [[Seizure in pregnancy]]
-
 - [[Rh Autoimmunization]]
-
 - [[Thyroid in pregnancy]]
-
 - [[Ectopic pregnancy]]
-
 - [[Postpartum depression]]
-
 - [[contraindications for pregnancy]]
-
 - [[nephrolithiasis and pregnancy]]
-
 - [[emergency contraception]]
-
 - [[appendicitis in pregnancy]]
-
 - [[getational diabetes]]
-
 - [[breast abscess in feeding]]
-
 - [[fetal growth restriction]]
-
 - [[spontaneous abortions]]
 
 ## GYN
 
 - [[Vulvodynia]]
 - [[Urinary incontinence]]
-- [[Breast Cancer]]
+- [[Breast Cancer risks]]
 - [[Uterine bleed]]
 - [[Nipple discharge]]
 - [[Cervical cancer]]
@@ -82,3 +58,4 @@ OB:
 - [[hydatidiform mole]]
 - [[oral contraceptives can decrease ovarian cancer risks]]
 - [[PCOS]]
+- [[breast cancer screening]]

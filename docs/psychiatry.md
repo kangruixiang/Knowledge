@@ -21,6 +21,7 @@
 - [[SPIKES]]
 - [[depression and anxiety 12 2020 notes]]
 - [[narcolepsy]]
+- [[treat end of life depression with methylphenidate]]
 
 # Personality Disorders
 

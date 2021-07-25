@@ -4,7 +4,7 @@
 
 # uveitis conjunctivitis keratitis
 
-- Keywords:: [[Step 3]], [[Medicine]], [[eye disorders]]
+- Keywords:: [[Step 3]], [[Medicine]], [[eye disorders]], [[conjunctivitis]]
 ---
 
 <!-- uveitis sx, dx, rx -->
@@ -23,26 +23,7 @@ To properly distinguish iritis from other causes  of a red eye, it is important 
 Patients with suspected anterior uveitis should be referred to an ophthalmologist for diagnosis.  Investigation of the underlying cause is then required. [[Patient with bilateral hilar lymphadenopathy, erythema nodosum, anterior uveitis likely has sarcoidosis]].
 
 Treatment for iritis depends on the etiology of the condition, and typically includes antimicrobial therapy for viral or bacterial causes and topical corticosteroids for noninfectious causes.
-
-## Conjunctivitis
-
- <!-- ignore -->
-
-Conjunctivitis is a diagnosis of exclusion, and is made in a patient with **red eye and  discharge** only if **vision is normal** and there is no evidence of glaucoma, iritis, or keratitis.
-
-## Conjunctivitis
-
-<!-- conjunctivitis rx -->
-
-![image-20200208091556120](https://photos.thisispiggy.com/file/wikiFiles/image-20200208091556120.png)
-
-**Bacterial conjunctivitis** is highly contagious and presents with **conjunctival erythema** and **mucopurulent discharge**.  The discharge is often thick and accumulates quickly, causing matting  of the eyelid. The condition is often unilateral although it can be  bilateral. Bacterial conjunctivitis is usually self-limited, but  topical antibiotics are prescribed to shorten symptom duration and  reduce person-to-person transmission.
-
-The most common causes of bacterial conjunctivitis are _Staphylococcus aureus, Streptococcus pneumoniae, Moraxella catarrhalis,_ and _Haemophilus influenzae_. First-line treatment is typically erythromycin ointment or polymyxin-trimethoprim drops. However, the incidence of _Pseudomonas aeruginosa_ conjunctivitis is much higher among **contact lens wearers**, such as this child. Therefore, topical **fluoroquinolones** (eg, ciprofloxacin, ofloxacin) are preferred for contact lens wearers; erythromycin, macrolides **(Choice E)**, and polymyxin-trimethoprim have limited activity against _P aeruginosa_.
-
-<!-- bacterial conjunctivitis complications -->
-
-Bacterial conjunctivitis can progress to bacterial **keratitis**, which most commonly occurs in patients who wear contact lenses improperly (eg, overnight use) or have decreased immunity (eg,  corticosteroid use).
+[[uveitis conjunctivitis keratitis]]
 
 ## Keratitis
 
