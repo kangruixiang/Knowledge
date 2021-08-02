@@ -19,6 +19,7 @@
 - [[ID]]
 - [[MSK]]
 - [[Nephrology]]
+- [[Urology]]
 - [[Neurology]]
 - [[Pulmonology]]
 

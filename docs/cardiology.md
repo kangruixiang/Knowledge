@@ -23,6 +23,7 @@
 - [[Valvular Diseases]]
 - [[heart failure]]
 - [[Cardiac Ischemia]]
+- [[drug induced lower extremity edema]]
 - [[Arrythmia]]
 - [[AAA]]
 - [[PAD]]

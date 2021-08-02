@@ -10,6 +10,7 @@ Eye disorders
 
 - [[Blepharospasm]]
 - [[orbital cellulitis]]
+- [[optic neuritis]]
 - [[eye problems]]
 - [[uveitis conjunctivitis keratitis]]
 - [[choroidal melanomas]]

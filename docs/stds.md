@@ -6,3 +6,4 @@
 
 - [[bacterial vaginosis]]
 - [[neisseria gonorrhea]]
+- [[trichomoniasis]]
