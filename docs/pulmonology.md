@@ -3,12 +3,8 @@
 ---
 
 # Pulmonology
----
-
-## typora-copy-images-to: ./images
 
 - Keywords:: [[Step 3]], [[Medicine]]
----
 
 ## Obstructive Lung Disease
 
@@ -36,3 +32,4 @@
 
 - [[airway management]]
 - [[PF ratio]]
+- [[new test file]]
