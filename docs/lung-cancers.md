@@ -4,6 +4,8 @@
 
 # Lung Cancers
 
+- related: [[Pulmonology]], [[lung nodules]]
+
 <!-- lung cancer SIADH vs hypercalcemia -->
 
 Syndrome of inappropriate antidiuretic hormone (SIADH) can be caused by a multitude of conditions, including tumors, drugs, and disorders of the  chest and central nervous system. SIADH is associated with normovolemic hyponatremia and, in this case, is caused by small cell carcinoma **(Choice D)**.  In SIADH, the urine is concentrated but the patient is not volume  depleted. Initially, the symptoms are mild and nonspecific, but as the  serum sodium declines (especially <120 mEq/L), neurologic symptoms,  seizures, and coma may ensue.

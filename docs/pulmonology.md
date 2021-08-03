@@ -23,8 +23,8 @@
 
 ## Lung Cancers
 
-- [[Lung nodules]]
-- [[Lung Cancers]]
+- [[lung nodules]]
+- [[lung cancers]]
 
 ## Restrictive Lung Diseases
 
