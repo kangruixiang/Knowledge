@@ -6,13 +6,12 @@
 
 - related: [[Urology]]
 
-
-
 ## Uncomplicated UTI
+
 - etiology: E. coli, Klebsiella, staph sapro
 	- enterococci and strep agalactiae (group B strep) often cause false positive result
 - empiric treatment: bactrim 3 days or macrobid 5 days
-- alternative: 
+- alternative:
 	- augmentin 5-7 days
 	- fosfomycin 3 gm 1 dose
 	- cipro 3 days
@@ -20,6 +19,7 @@
 - ESBL e coli often susceptible to fosfomycin or ertapenem
 
 ## Complicated UTI
+
 - pts: obstruction, reflux, azotemia, transplant, foley cather associated
 - etiology: enterobacter, pseudomonas, enterococcus, staph aureus (rare)
 - empiric therapy: ciprofloxacin or levofloxacin

@@ -3,6 +3,7 @@
 ---
 
 # Pneumonia
+
 - related: [[Pulmonology]], [[ID]], [[pneumonia vaccine]]
 
 ## Symptoms
