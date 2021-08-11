@@ -16,6 +16,7 @@
 - [[Tuberculosis]]
 - [[Pleural Disease]]
 - [[ABPA]]
+- [[Pneumonia]]
 
 ## Lung Cancers
 
