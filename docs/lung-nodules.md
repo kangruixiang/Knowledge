@@ -63,4 +63,80 @@
 
 <!-- features of lung nodules that are malignant vs benign -->
 
-Certain patterns of calcification within the pulmonary nodule are strongly suggestive of benign lesions, including **popcorn**, concentric or **laminated, central**, and **diffuse homogeneous** calcifications. Popcorn calcification is characteristically seen on  radiographic imaging in patients with pulmonary hamartoma. Eccentric  calcification (area of asymmetric calcification), as well as reticular  or punctate calcification, should raise suspicion for malignancy.
+## Certain patterns of calcification within the pulmonary nodule are strongly suggestive of benign lesions, including **popcorn**, concentric or **laminated, central**, and **diffuse homogeneous** calcifications. Popcorn calcification is characteristically seen on  radiographic imaging in patients with pulmonary hamartoma. Eccentric  calcification (area of asymmetric calcification), as well as reticular  or punctate calcification, should raise suspicion for malignancy.
+
+8/2021 notes
+
+- lung nodule spread: hilum to mediastinum to opposite hilum
+- make sure hilum/mediastinum not involved
+
+## Type
+
+- ground glass: mostly infection/inflammation
+	- adenocarcinoma in situ, grow more slowly
+		- PET scan not helpful
+		- follow 2 year interval, watch for very long time
+- Solid: most common
+- Subsolid: most likely cancer
+- Typing: acute, subacute, chronic
+
+## Size
+
+- < 3 cm
+- subsolid > 5 mm
+
+## DDx
+
+- cancer:
+	- breast: 50/50 primary breast vs lung
+	- ENT: mostly lung primary
+	- sarcoma: mostly lung mets
+- Infection: MRSA, fungal, aspergillosis (more ground glass from hemorrhage around nodule, halo effect)
+- rheumatolgy: RA, sarcoid, Wegener
+- benign
+
+## Management
+
+- high probability: PET: 30% false positive
+	- biopsy: EBUS vs TTFNA (25% pneumothorax, 5% chest tube)
+	- surgery resection
+- low probability: CT surveillaince 3 month to 1 year
+- intermediate: 10-60%, CT, PET, biopsy
+
+## Patients risk factor
+
+- smmoking
+- cancer hx
+- COPD
+- FHx
+- work exposure
+	- asbestosis: 20-30 years latency, pleural plaque
+	- BAPE: effusion, eosinophil predominant, unilateral effusion
+	- construction working
+	- ship building
+	- brake pads
+	- radon
+
+## Nodule risk factors
+
+- size
+- border/edge
+	- smooth, well circumscribed
+	- lobulated: uneven growth
+	- spiculated
+	- corona radiata
+- calcification
+	- benign: popcorn, laminar, granulomatous, central fat
+	- malignant: stippled, ecentric
+- location: higher probability in apex
+
+## Scoring
+
+- solidary pulmonary nodule malignancy (SPN) risk score
+	- mayo clinic: incidental finding
+	- Brock: lung screening
+	- Fleischner risk
+
+## Others
+
+aVS: .lungcancerscreen and .lungcancerscreenAVS

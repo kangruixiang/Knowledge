@@ -14,7 +14,7 @@
 ## Pulmonary Infections
 
 - [[Tuberculosis]]
-- [[Pleural Disease]]
+- [[pleural effusion]]
 - [[ABPA]]
 - [[Pneumonia]]
 
@@ -34,3 +34,7 @@
 - [[airway management]]
 - [[PF ratio]]
 - [[new test file]]
+
+## Thorax
+
+- [[chest tube]]
