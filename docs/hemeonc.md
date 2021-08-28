@@ -11,12 +11,10 @@
 
 - [[Bleeding disorders]]
 - [[Anemia]]
-- [[transfusion reaction]]
 - [[DVT and PE]]
 - [[Hemochromatosis]]
 - [[Sickle cell disease]]
 - [[warfarin]]
-- [[transfusion goals]]
 - [[heparin induced thrombocytopenia]]
 - [[disseminated intravascular coagulation]]
 - [[TTP]]
@@ -24,6 +22,7 @@
 - [[polycythemia vera]]
 - [[essential thrombocytosis]]
 - [[anemia lecture]]
+- [[transfusion medicine]]
 
 ## Oncology
 

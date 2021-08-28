@@ -22,6 +22,7 @@
 - [[Urology]]
 - [[Neurology]]
 - [[Pulmonology]]
+- [[Podiatry]]
 
 ## Subject Areas
 

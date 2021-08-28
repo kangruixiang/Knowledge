@@ -4,10 +4,7 @@
 
 # transfusion reaction
 
-- Keywords:: [[Step 3]], [[Allergy and Immunology]]
----
-
-## Transfusion reaction
+- related: [[transfusion medicine]]
 
 ![image-20200215205428431](https://photos.thisispiggy.com/file/wikiFiles/image-20200215205428431.png)
 
