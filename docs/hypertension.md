@@ -19,7 +19,7 @@
 
 <!-- HTN after kidney transplant causes -->
 
-![image-20200128195905805](https://photos.thisispiggy.com/file/wikiFiles/image-20200128195905805.png)
+![image-20200128195905345](https://photos.thisispiggy.com/file/wikiFiles/image-20200128195905805.png)
 
 About 90%-95% of patients with a kidney transplant have hypertension  secondary to specific transplant-related factors or recipient  characteristics. This patient presents with severe hypertension and  normal baseline renal function (creatinine of 1.1 mg/dL), which is  unlikely to be seen in allograft rejection. This patient developed  acute kidney injury (creatinine increased to 2.4 mg/dL) after the  initiation of an ACE inhibitor. This is highly suggestive of underlying transplant renal artery stenosis as the cause of his hypertension.
 

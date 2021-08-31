@@ -10,6 +10,7 @@
 ## Organ Systems
 
 - [[Allergy and Immunology]]
+- [[Rheumatology]]
 - [[Cardiology]]
 - [[Dermatology]]
 - [[Endocrine]]

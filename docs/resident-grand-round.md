@@ -14,7 +14,7 @@
 		- low BP = shock
 		- different types of shock
 		- several other factors (al mehdi slide)
-		- ![20210828135357](https://photos.thisispiggy.com/file/wikiFiles/20210828135357.png)
+		- ![](https://photos.thisispiggy.com/file/wikiFiles/20210828135357.png)
 	- weight
 	- postural hypotension
 	- dry mucous membrane
