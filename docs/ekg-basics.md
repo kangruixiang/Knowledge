@@ -9,7 +9,7 @@
 ## EKG leads
 
 - Chest leads aka precordial leads:
-![](https://photos.thisispiggy.com/file/wikiFiles/20210501162857.png)
+  ![](https://photos.thisispiggy.com/file/wikiFiles/20210501162857.png)
 - V1-V2: anteroseptal
 - V3-V4: anteroapical
 - V5-V6: anterolateral

@@ -35,6 +35,7 @@
 - [[lower GI bleed]]
 - [[IBS]]
 - [[microscopic colitis]]
+- [[bowel regimens]]
 
 ## ID
 

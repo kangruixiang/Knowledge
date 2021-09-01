@@ -6,5 +6,5 @@
 
 - related: [[Medicine]]
 ---
-- [[rheumatoid arthritis]]
 
+- [[rheumatoid arthritis]]

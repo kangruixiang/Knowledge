@@ -8,7 +8,7 @@
 
 ## Pathophysiology and Risk Factors
 
-- genetic risks: 
+- genetic risks:
 	- 60% of risks
 	- HLA class II most important, especially HLA-D
 	- These HLA code for citrullinated peptide antigen that are immunogenic since citruline is not normally in humans
@@ -17,7 +17,7 @@
 	- smoking activates PADI and citrullination
 - infection
 	- periodontal:_Porphyromonas gingivalis_
-	- Others: mycoplasma, Epstein-Barr virus, and parvovirus B19. 
+	- Others: mycoplasma, Epstein-Barr virus, and parvovirus B19.
 - hormones
 	- women more likely to develop RA
 	- estrogen appears to be proinflammatory and proautoimmune
@@ -26,9 +26,9 @@
 
 - 6 points need to classify as RA
 
-![[Pasted image 20210829203346.png]]
+![20210829203346](https://photos.thisispiggy.com/file/wikiFiles/20210829203346.png)
 
-![[Pasted image 20210829203417.png]]
+![20210829203417](https://photos.thisispiggy.com/file/wikiFiles/20210829203417.png)
 
 ## Symptoms
 
@@ -39,16 +39,16 @@
 	- but may present as persistent involvement of a single joint
 	- metacarpophalangeal joints (MCP)
 	- metatarsophalangeal joints (MTP)
-	- proximal interphalangeal joints (PIP) of the hands and feet 
+	- proximal interphalangeal joints (PIP) of the hands and feet
 	- wrists, elbows, shoulders, hip, knees, ankles
-	- spares the distal interphalangeal joints (DIP) of both the upper and lower extremities 
+	- spares the distal interphalangeal joints (DIP) of both the upper and lower extremities
 	- spares T and L spine but affects C spine, especially C1-2
-- inflammatory sx: 
+- inflammatory sx:
 	- joint swelling, palpable on exam, bogginess
 	- morning stiffness lasting hours
 	- stiffness better with activity
 - extra-articular sx:
-	- skin: 
+	- skin:
 		- rheumatoid nodules: up to 30% pts, usually in olecranon areas but also in hands/feet/lungs
 		- neutrophilic dermatoses: [[Sweet syndrome]] or pyoderma gangrenosum
 		- plapable purpura from vasculitis
@@ -72,7 +72,7 @@ Atherosclerotic heart disease remains the major cause of excess death in patient
 
 #### Related Question
 
--   Question 15
+- Question 15
 
 Anemia of inflammation is the most common RA hematologic abnormality. Felty syndrome consists of neutropenia and splenomegaly and occurs in patients with long-standing, severe, seropositive RA. These patients are at risk for serious bacterial infection, lower extremity ulceration, lymphoma, and vasculitis. With current treatment, Felty syndrome has become rare. Patients with RA can also have a large granular lymphocyte syndrome that can progress to large granular lymphocyte leukemia. Findings overlap with Felty syndrome and include neutropenia, anemia, thrombocytopenia, splenomegaly, and recurrent infections. Patients with RA are at increased risk for lymphomas (particularly large B-cell lymphomas), and risk is correlated with disease activity.
 
@@ -80,23 +80,19 @@ Anemia of inflammation is the most common RA hematologic abnormality. Felty synd
 
 A small-vessel cutaneous vasculitis occurs in a small percentage of patients with RA, leading to palpable purpura or periungual infarcts. A very rare, larger-vessel vasculitis similar to polyarteritis nodosa can affect multiple organ systems; prior to current therapy, it had a 5-year mortality of 30% to 50%.
 
-![[Pasted image 20210829204436.png]]
+![20210829204436](https://photos.thisispiggy.com/file/wikiFiles/20210829204436.png)
 
-![[Pasted image 20210829204109.png]]
+![20210829204109](https://photos.thisispiggy.com/file/wikiFiles/20210829204109.png)
 
-![[Pasted image 20210829204122.png]]
-
-
-
-
+![20210829204122](https://photos.thisispiggy.com/file/wikiFiles/20210829204122.png)
 
 ## Key Point
 
--   Extra-articular manifestations and complications of rheumatoid arthritis include rheumatoid nodules, rheumatoid vasculitis, dry eye, small airway disease, interstitial lung disease, pleural effusions, and anemia of inflammation.
+- Extra-articular manifestations and complications of rheumatoid arthritis include rheumatoid nodules, rheumatoid vasculitis, dry eye, small airway disease, interstitial lung disease, pleural effusions, and anemia of inflammation.
 
 ## Labs
 
-- anti-cyclic citrullinated peptide (anti-CCP): 
+- anti-cyclic citrullinated peptide (anti-CCP):
 	- most useful, in 70% pts but specificity of 95%
 	- predictive for erosive disease
 - Rheumatoid factor (RF): found in 70% of pts but also in other autoimmune diseases
@@ -110,6 +106,7 @@ A small-vessel cutaneous vasculitis occurs in a small percentage of patients wit
 	- modest thrombocytosis
 
 ## Images
+
 - early xray can be normal
 - plain xray hands/feet
 	- standard imaging study for diagnosis and progression
@@ -121,10 +118,10 @@ A small-vessel cutaneous vasculitis occurs in a small percentage of patients wit
 - US: standard for joint fluid, synovial tissue thickening, early erosions, increased vascularity
 - MRI: bone marrow edema, synovitis, erosions
 
-![[Pasted image 20210829205303.png]]
+![20210829205303](https://photos.thisispiggy.com/file/wikiFiles/20210829205303.png)
 Advanced RA: ulnar deviation, marginal erosions (arrows), joint space narrowing, loss of ulnar styloid (arrowhead)
 
-![[Pasted image 20210829205427.png]]
+![20210829205427](https://photos.thisispiggy.com/file/wikiFiles/20210829205427.png)
 Marginal erosions and joint-space narrowing (arrows). Erosion at the fifth metatarsophalangeal joint is often the first radiographic sign of rheumatoid arthritis foot involvement.
 
 ## Management
@@ -133,7 +130,7 @@ See [Principles of Therapeutics](https://mksap18.acponline.org/app/topics/rm/mk1
 
 ### General Considerations
 
-The 2015 ACR RA treatment guidelines ([https://www.rheumatology.org/Practice-Quality/Clinical-Support/Clinical-Practice-Guidelines/Rheumatoid-Arthritis](https://www.rheumatology.org/Practice-Quality/Clinical-Support/Clinical-Practice-Guidelines/Rheumatoid-Arthritis)) advocate for early diagnosis and aggressive early therapy of RA to prevent irreversible cartilage and bone damage. The 2010 ACR RA classification criteria emphasize sensitivity to permit early diagnosis and institution of disease-modifying therapy (see **[Table 13](https://mksap18.acponline.org/app/topics/rm/tables/mk18_a_rm_t13)**). A key treatment goal is to treat to target, with the target being achievement of remission or low disease activity. Disease activity assessment involves making a measured determination using combinations of numbers of tender and swollen joints (typically utilizing 28 joints that exclude the feet), patient and physician impressions of disease activity, and, in some activity scoring systems, measurement of the erythrocyte sedimentation rate or C-reactive protein. These parameters are combined into a composite score, thus assigning a disease activity ranging from remission, to low, moderate, or high. The Clinical Disease Activity Index (CDAI) and Disease Activity Score 28 (DAS28) are two commonly used instruments to assess disease activity and response to treatment. Treating to target in RA results in less radiographic damage, reduced cardiovascular risk, and increased work productivity compared with conventional care.
+The 2015 ACR RA treatment guidelines (<https://www.rheumatology.org/Practice-Quality/Clinical-Support/Clinical-Practice-Guidelines/Rheumatoid-Arthritis>) advocate for early diagnosis and aggressive early therapy of RA to prevent irreversible cartilage and bone damage. The 2010 ACR RA classification criteria emphasize sensitivity to permit early diagnosis and institution of disease-modifying therapy (see **[Table 13](https://mksap18.acponline.org/app/topics/rm/tables/mk18_a_rm_t13)**). A key treatment goal is to treat to target, with the target being achievement of remission or low disease activity. Disease activity assessment involves making a measured determination using combinations of numbers of tender and swollen joints (typically utilizing 28 joints that exclude the feet), patient and physician impressions of disease activity, and, in some activity scoring systems, measurement of the erythrocyte sedimentation rate or C-reactive protein. These parameters are combined into a composite score, thus assigning a disease activity ranging from remission, to low, moderate, or high. The Clinical Disease Activity Index (CDAI) and Disease Activity Score 28 (DAS28) are two commonly used instruments to assess disease activity and response to treatment. Treating to target in RA results in less radiographic damage, reduced cardiovascular risk, and increased work productivity compared with conventional care.
 
 The 2015 ACR RA treatment guidelines can assist in making initial treatment decisions in early RA. Treatment is typically advanced at 12-week intervals with the goal of reaching remission or low disease activity as rapidly as possible. Patients who remain in remission or a low disease activity state for 6 months or longer may be able to reduce treatment intensity. Treatment decisions for established RA are more complex. An initial approach to the treatment of both early and established RA is outlined in **[Figure 6](https://mksap18.acponline.org/app/topics/rm/figures/mk18_a_rm_f06)**.
 
@@ -143,8 +140,8 @@ The 2015 ACR RA treatment guidelines can assist in making initial treatment deci
 
 #### Related Questions
 
--   Question 63
--   Question 80
+- Question 63
+- Question 80
 
 Methotrexate is the anchor drug in RA, used in both monotherapy and combination therapy. It can be titrated to doses as high as 25 mg per week in partial responders; the treating physician should generally maximize methotrexate dosing before adding other agents. At doses greater than 15 mg weekly, methotrexate oral absorption approaches its effective limit; switching to subcutaneous administration allows for higher serum drug levels. Folic acid supplements minimize toxicity without diminishing efficacy. Of patients with RA taking methotrexate alone, 30% to 50% achieve remission or low disease activity.
 
@@ -170,11 +167,11 @@ Surgical therapy has become much less common in RA with current treatment strate
 
 ## Key Points
 
--   In rheumatoid arthritis, treating to target of remission or low disease activity results in less radiographic damage, reduced cardiovascular risk, and increased work productivity compared with conventional care.
--   Methotrexate is the anchor drug in rheumatoid arthritis; it is used as monotherapy and as a component of combination therapy.
--   Tumor necrosis factor α inhibitors are the most frequently used biologics to treat rheumatoid arthritis; they have a relatively rapid onset of action and demonstrate synergy with methotrexate.
--   In rheumatoid arthritis, NSAIDs are not disease modifying and do not prevent joint damage; they are used primarily to control symptoms while waiting for the full effect of disease-modifying antirheumatic drugs to be realized or in patients with postinflammatory osteoarthritis.
--   Low-dose prednisone can be used in rheumatoid arthritis to rapidly improve symptoms until long-term medications become effective, or they can be used short term for disease flares.
+- In rheumatoid arthritis, treating to target of remission or low disease activity results in less radiographic damage, reduced cardiovascular risk, and increased work productivity compared with conventional care.
+- Methotrexate is the anchor drug in rheumatoid arthritis; it is used as monotherapy and as a component of combination therapy.
+- Tumor necrosis factor α inhibitors are the most frequently used biologics to treat rheumatoid arthritis; they have a relatively rapid onset of action and demonstrate synergy with methotrexate.
+- In rheumatoid arthritis, NSAIDs are not disease modifying and do not prevent joint damage; they are used primarily to control symptoms while waiting for the full effect of disease-modifying antirheumatic drugs to be realized or in patients with postinflammatory osteoarthritis.
+- Low-dose prednisone can be used in rheumatoid arthritis to rapidly improve symptoms until long-term medications become effective, or they can be used short term for disease flares.
 
 ## Pregnancy
 
