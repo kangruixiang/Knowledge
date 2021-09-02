@@ -10,7 +10,7 @@
 
 ### Preoperative Laboratory Testing
 
-![20210826142426](https://photos.thisispiggy.com/file/wikiFiles/20210826142426.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210826142426.png)
 
 ### Perioperative Medication Management
 
@@ -18,8 +18,8 @@ Perioperative medication management begins with eliciting a complete preoperativ
 
 There is a paucity of high-quality evidence to guide perioperative medication management. Most medications are tolerated throughout the perioperative period, with some important exceptions. **[Table 91](https://mksap18.acponline.org/app/topics/gm/tables/mk18_b_gm_t91)** provides perioperative recommendations for medications with potential surgery-related risk. Patients should be provided with clear instructions on which medications to withhold preoperatively and for what duration.
 
-![20210826142526](https://photos.thisispiggy.com/file/wikiFiles/20210826142526.png)
-![20210826142539](https://photos.thisispiggy.com/file/wikiFiles/20210826142539.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210826142526.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210826142539.png)
 
 ### Postoperative Care
 
