@@ -80,3 +80,8 @@ https://www.uptodate.com/contents/etiology-clinical-manifestations-and-diagnosis
 - ICU monitoring
 - PPV, CO, frank starling curve
 - straight leg raise test
+
+## Putting it all together
+
+- low blood pressure is not indicator for low volume status
+- multiple physical exam signs are more useful as indicator, except in elderly patients
