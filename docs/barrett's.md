@@ -6,7 +6,7 @@
 
 <!-- Barrett's esophagus management -->
 
-![image-20200829082648358](https://photos.thisispiggy.com/file/wikiFiles/image-20200829082648358.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200829082648358.png)
 
 Most guidelines suggest a screening endoscopy in patients with frequent gastroesophageal reflux disease (GERD) symptoms and ≥2 risk factors for Barrett esophagus (eg, age ≥50, male sex, tobacco use).
 

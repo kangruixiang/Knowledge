@@ -6,9 +6,9 @@
 
 <!-- children inguinal hernia management -->
 
-![image-20200713173005963](https://photos.thisispiggy.com/file/wikiFiles/image-20200713173005963.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200713173005963.png)
 
-![image-20200713173023479](https://photos.thisispiggy.com/file/wikiFiles/image-20200713173023479.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200713173023479.png)
 
 This infant has an indirect **inguinal hernia**, caused by bowel protrusion through a patent processus vaginalis.  At rest, most patients are asymptomatic with no palpable mass. As  intraabdominal pressure increases (eg, crying, straining), the  intestines protrude through the defect and cause a **painless groin mass**. The hernia is typically **reducible**, allowing the bowel to return to its original location.
 

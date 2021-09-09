@@ -9,7 +9,7 @@
 
 <!-- common causes of shoulder pain, sx -->
 
-![image-20200901083051684](https://photos.thisispiggy.com/file/wikiFiles/image-20200901083051684.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200901083051684.png)
 
 ## aehesive capsulitis
 

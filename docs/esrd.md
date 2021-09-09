@@ -9,7 +9,7 @@
 
 <!-- anemia in ESRD management -->
 
-![image-20200822090610747](https://photos.thisispiggy.com/file/wikiFiles/image-20200822090610747.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200822090610747.png)
 
 ## Causes
 

@@ -77,9 +77,9 @@ Blount:
 - Labs: Radiographically there is a prominent step abnormality with beaking at the proximal tibial epiphysis.
 - Treatment: Aggressive treatment is essential, as the disease can be rapidly progressive and lead to **permanent growth disturbances**. Bracing can be effective up to the age of 3; later correction may require surgery. Blount disease can occur in several forms: infantile (ages 1-3 years), juvenile (ages 4-10 years), and adolescent (age 11 years and older). Clinically, the findings are the same; in the adolescent group, radiograph findings are less prominent.
 
-![_](https://i.imgur.com/EX4fNOS.png)
+![](https://i.imgur.com/EX4fNOS.png)
 
-![_](https://i.imgur.com/VkjvkEm.png)
+![](https://i.imgur.com/VkjvkEm.png)
 
 ## Osgood-Schlatter
 
@@ -192,7 +192,7 @@ or prolonged seizures) within 7 days of administration of the previous dose.
 	- Replacement of all commonly used brushes
 	- Advice to the mother that treatment will again be necessary in 7 to 10 days
 
-![_](https://i.imgur.com/LkINu1K.png)
+![](https://i.imgur.com/LkINu1K.png)
 
 ## TB Meningitis
 
@@ -261,7 +261,7 @@ Hypothermia, defined as core body temperature of less than 35°C, usually occurs
 
 Small, firm, **white**, **cold** patches of skin in exposed areas; treatment is **rewarming the areas** before they become numb.,
 
-![_](https://i.imgur.com/4jXxfWH.png)
+![](https://i.imgur.com/4jXxfWH.png)
 
 ## Trench Foot
 
@@ -269,7 +269,7 @@ Small, firm, **white**, **cold** patches of skin in exposed areas; treatment is 
 
 Occurs with prolonged exposure to cold and/or moisture. The foot will become cold, numb, pale, edematous, and clammy. A prolonged autonomic disturbance after this condition can persist for years.,
 
-![_](https://i.imgur.com/SRduhkr.png)
+![](https://i.imgur.com/SRduhkr.png)
 
 ## Frostbite
 
@@ -277,7 +277,7 @@ Occurs with prolonged exposure to cold and/or moisture. The foot will become col
 
 Condition in which tissue is frozen and destroyed. There is initial stinging, followed by aching, culminating in numb areas. Once rewarmed, the area becomes red, blotchy, and painful. Gangrene may develop.,
 
-![_](https://i.imgur.com/upi6ld1.png)
+![](https://i.imgur.com/upi6ld1.png)
 
 ## Chilblains
 
@@ -286,7 +286,7 @@ Condition in which tissue is frozen and destroyed. There is initial stinging, fo
 - path: Small, ulcerated lesions on exposed areas such as the ears and fingers. Lesions may last **1 to 2 weeks**.
 - symptoms: symptoms of chilblains and frostnip are actually quite different.  Chilblains presents with slight swelling of the toes and redness.  The toes and forefoot have a dull ache that is not relieved by rest.  With frostnip the affected skin blisters and has a red, brown or wheat colored crust.  Pain is described as a burning type of pain.
 
-![_](https://i.imgur.com/URo8uCm.png)
+![](https://i.imgur.com/URo8uCm.png)
 
 ## Cold panniculitis
 
@@ -296,7 +296,7 @@ Destruction of **fat cells** caused by **exposure to cold weather** or a cold ob
 
 Popsicle panniculitis:
 
-![_](https://i.imgur.com/5vPapO6.png)
+![](https://i.imgur.com/5vPapO6.png)
 
 # Vitamin Deficiencies
 
@@ -377,7 +377,7 @@ teratogenic effects including fetal death, hydrocephalus, CNS defects, **microti
 
 **Microtia** is a congenital deformity where the pinna (external ear) is underdeveloped:
 
-![_](https://i.imgur.com/cZ0I0ML.png)
+![](https://i.imgur.com/cZ0I0ML.png)
 
 # Urinary Tract
 
@@ -391,7 +391,7 @@ b. Estrogen cream
 
 <!-- labial adhesion is, cause, treatment -->
 
-![_](https://i.imgur.com/WiJ7LI4.png)
+![](https://i.imgur.com/WiJ7LI4.png)
 
 - A usually benign condition in which the labia minora are fused. Fusion ranges from a small area to the entire area between the clitoris and the fourchette.
 - Cause and demographics: It is most common in young girls who are in the low estrogen state of preadolescence. Sometimes urine pooling can cause an increased risk of urinary tract infection.
@@ -411,7 +411,7 @@ This patient has a physiologic discharge related to estrogen withdrawal. Examina
 - Symptoms: characterized by a lax, wrinkled abdominal wall, a dilated urinary tract, and intra-abdominal testes. Additional urinary tract abnormalities include significant renal dysfunction or dysplasia. Oligohydramnios and commonly associated pulmonary complications, such as pulmonary hypoplasia and pneumothorax, are seen. Congenital hip dislocation, clubfeet, and intestinal malrotation with possible secondary volvulus can occur. **Cryptoorchidism association.**
 - Inheritance: There does not appear to be a genetic predisposition to prune belly syndrome.,
 
-![_](https://i.imgur.com/5VQq1WW.png)
+![](https://i.imgur.com/5VQq1WW.png)
 
 The delivery of a newborn boy is remarkable for oligohydramnios. The infant (pictured) is also noted to have undescended testes and clubfeet, and to be in respiratory distress. Which of the following is the most likely diagnosis to explain these findings?
 
@@ -452,13 +452,13 @@ extruded from under the foreskin, is sometimes deemed abnormal by parents; it re
 Phimosis (inability to retract the foreskin) is normal in the first years of life and is considered physiologic; inability to
 retract the foreskin after an age when it would be expected (about 3 years) is considered pathologic phimosis.
 
-![_](https://i.imgur.com/qHIyJGq.png)
+![](https://i.imgur.com/qHIyJGq.png)
 
 ### Paraphimosis
 
 <!-- Paraphimosis is.. -->painful condition occurring when the foreskin gets retracted and trapped behind the glans and, because of edema and venous congestion, cannot be relocated into its normal position.,
 
-![_](https://i.imgur.com/qHIyJGq.png)
+![](https://i.imgur.com/qHIyJGq.png)
 
 ## Vesicoureteral Reflux
 
@@ -466,7 +466,7 @@ retract the foreskin after an age when it would be expected (about 3 years) is c
 
 <!-- vesicoureteral reflux management.. -->
 
-![_](https://i.imgur.com/4iT7CAf.png)
+![](https://i.imgur.com/4iT7CAf.png)
 
 The radiograph shows reflux into the ureters and into the kidney, with dilation of the renal pelvis, making the diagnosis of vesicoureteral reflux. The higher the reflux into the renal system, especially if the renal pelvis is dilated, the more likely it is for renal damage to occur; the grading system is based upon
 these radiographic observations.
@@ -483,7 +483,7 @@ Low-grade lesions (grade I and grade II) are conservatively managed with close o
 
 286. Physical examination of a baby boy shortly after birth reveals a large bladder and palpable kidneys. The nurses note that he produces a weak urinary stream. A voiding cystourethrogram is shown below. He appears to be otherwise normal. Which of the following is the most likely diagnosis?
 
-![_](https://i.imgur.com/TmoFGVH.png)
+![](https://i.imgur.com/TmoFGVH.png)
 
 b. posterior urethral valve
 
@@ -527,7 +527,7 @@ b. headache
 - The incidence of UTI and epididymitis are not affected by the position of the testes.
 - The failure of the testes to develop, and their subsequent atrophy, can be detected by 6 months of age.
 
-![_](https://i.imgur.com/pQv5JCB.png)
+![](https://i.imgur.com/pQv5JCB.png)
 
 ## HUS Symptoms
 
@@ -559,7 +559,7 @@ A number of pH-dependent substances can impart a red color to urine. Use of **ph
 
 <!-- varicocele symptoms.. -->pically, this condition is not painful but can become tender with strenuous exercise..
 
-![_](https://i.imgur.com/7x5ORaT.png)
+![](https://i.imgur.com/7x5ORaT.png)
 
 ## Torsion
 
@@ -709,7 +709,7 @@ Helminth infestation
 
 404. A 2-year-old child in shock has multiple nonblanching purple lesions of various sizes scattered about on the trunk and extremities; petechiae are noted, and oozing from the venipuncture site has been observed. The child’s peripheral blood smear is shown below. Clotting studies are likely to show which of the following?
 
-![_](https://i.imgur.com/FDluKJH.png)
+![](https://i.imgur.com/FDluKJH.png)
 
 DIC
 
@@ -741,14 +741,14 @@ d. DDAVP
 - Risks: Predisposing factors include a history of retinoblastoma, Li-Fraumeni syndrome, Paget disease, or radiotherapy. Any bone or joint “injury” not responding with conservative therapy within a short period of time should be evaluated.,
 
 Osteo:
-![_](https://i.imgur.com/MLoYxB7.png)
+![](https://i.imgur.com/MLoYxB7.png)
 
-![_](https://i.imgur.com/Mi1FG3O.png)
+![](https://i.imgur.com/Mi1FG3O.png)
 
 Ewing:
-![_](https://i.imgur.com/skYaV3r.png)
+![](https://i.imgur.com/skYaV3r.png)
 
-![_](https://i.imgur.com/p52LbnY.png)
+![](https://i.imgur.com/p52LbnY.png)
 
 Over the previous 2 to 3 weeks, a very active 13-year-old white boy is noted by his family to have developed deep pains in his leg that awaken him from sleep. The family brings him to your office with a complaint of a swelling over his distal leg, which he attributes to his being kicked while playing soccer about 1 week ago. He has had no fever, headaches, weakness, bruising, or other symptoms. A radiograph of the leg is shown below. Which of the following is the most likely explanation for his pain?
 
@@ -774,11 +774,11 @@ Case: An otherwise healthy 17-year-old complains of swollen glands in his neck a
 
 411. An otherwise healthy child has on his 1-year-old routine CBC the polymorphonuclear neutrophil shown below. This child likely has which of the following?
 
-![_](https://i.imgur.com/llM80oC.png)
+![](https://i.imgur.com/llM80oC.png)
 
 c. Folic acid deficiency
 
-![_](https://i.imgur.com/9xuNd8Y.png)
+![](https://i.imgur.com/9xuNd8Y.png)
 
 ## Sickle Cell Anemia
 

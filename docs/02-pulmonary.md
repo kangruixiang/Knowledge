@@ -771,7 +771,7 @@ Patients present with **cough**, **dyspnea**, and **flu-like symptoms**.
 
 CXR shows **bilateral, patchy infiltrates**.
 
-![Image result for cryptogenic organizing pneumonia](http://erj.ersjournals.com/content/erj/28/2/422/F3.large.jpg)
+![](http://erj.ersjournals.com/content/erj/28/2/422/F3.large.jpg)
 
 Treatment of cryptogenic organizing pneumonitis is **corticosteroids**.
 

@@ -14,4 +14,4 @@ Patients with SVT are frequently asymptomatic; however, when symptoms do occur, 
 
 The diagnosis of SVT can be confirmed directly with multiple imaging modalities, including a contrast-enhanced CT scan, Doppler ultrasonography, and MRI.  It can also be confirmed indirectly with esophagogastroduodenoscopy by identifying isolated gastric varices.  The standard treatment for patients with SVT and gastrointestinal hemorrhage is splenectomy.
 
-![20200903213254_6](https://photos.thisispiggy.com/file/wikiFiles/20200903213254_6.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200903213254_6.png)

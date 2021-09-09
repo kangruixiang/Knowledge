@@ -29,13 +29,13 @@
 
 ## Causes
 
-![20200902214000_](https://photos.thisispiggy.com/file/wikiFiles/20200902214000_.png)
-![20200902214000_1](https://photos.thisispiggy.com/file/wikiFiles/20200902214000_1.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200902214000_.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200902214000_1.png)
 
 ## Labs
 
 BNP:
-![20200902214000_2](https://photos.thisispiggy.com/file/wikiFiles/20200902214000_2.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200902214000_2.png)
 
 - For obese patient and pts with bad lungs: could be normal
 
@@ -74,12 +74,12 @@ BNP:
 - recommended for Stage B or worse
 - start this dose, call in 10 days
 
-![20200902214000_3](https://photos.thisispiggy.com/file/wikiFiles/20200902214000_3.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200902214000_3.png)
 
 ### ACE/ARB
 
 - Stage B or onward
-  ![20200902214000_4](https://photos.thisispiggy.com/file/wikiFiles/20200902214000_4.png)
+  ![](https://photos.thisispiggy.com/file/wikiFiles/20200902214000_4.png)
 
 ### Aldosterone antagonist
 
@@ -129,9 +129,9 @@ BNP:
 
 ## Inpatient Management
 
-![20200902214000_5](https://photos.thisispiggy.com/file/wikiFiles/20200902214000_5.png)
-![20200902214000_6](https://photos.thisispiggy.com/file/wikiFiles/20200902214000_6.png)
-![20200902214000_7](https://photos.thisispiggy.com/file/wikiFiles/20200902214000_7.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200902214000_5.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200902214000_6.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200902214000_7.png)
 
 - Find if someone has low CO state. Try to catch them before they get into cardiogenic shock, when they are normotensive with low JVP instead at later stages with high PCWP and low CO.
 

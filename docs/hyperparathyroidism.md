@@ -30,7 +30,7 @@
 - Asymptomatic and age >50: **regular follow up** with serum Ca, creatinine, DXA scanning
 - Symptomatic or age <50: parathyroidectomy
 
-![image-20200713170015044](https://photos.thisispiggy.com/file/wikiFiles/image-20200713170015044.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200713170015044.png)
 
 Patients with PHPT are often erroneously advised to  restrict calcium and vitamin D, leading to an increased risk for  osteoporosis. However, careful supplementation with periodic monitoring is appropriate.
 

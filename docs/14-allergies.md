@@ -75,11 +75,11 @@
 
 pale, boggy mucosa, and polyps:
 
-![_](https://i.imgur.com/1wxWHzP.png)
+![](https://i.imgur.com/1wxWHzP.png)
 
 cobblestoning:
 
-![_](https://i.imgur.com/xIMupkp.png)
+![](https://i.imgur.com/xIMupkp.png)
 
 <!-- allergic shiner and salutes are. Happens when.. -->
 
@@ -87,11 +87,11 @@ cobblestoning:
 
 **Allergic shiners** are dark circles under the eyes caused by congestion of the nose and sinuses. They're usually described as dark, shadowy pigments that resemble bruises:
 
-![_](https://i.imgur.com/nUziW8Y.png)
+![](https://i.imgur.com/nUziW8Y.png)
 
 The **allergic salute** is the characteristic and sometimes habitual gesture of wiping and/or rubbing the nose in an upwards
 
-![_](https://i.imgur.com/K51bVHB.png)
+![](https://i.imgur.com/K51bVHB.png)
 
 ## Allergic Conjunctivitis
 
@@ -100,7 +100,7 @@ The **allergic salute** is the characteristic and sometimes habitual gesture of 
 - same path, diagnosis, treatment as rhinitis
 - symptoms: shiners, injection, chemises (swelling)
 
-![_](https://i.imgur.com/qt3eFxS.png)
+![](https://i.imgur.com/qt3eFxS.png)
 
 # Food allergies
 

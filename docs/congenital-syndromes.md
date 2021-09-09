@@ -6,9 +6,9 @@
 
 <!-- tuberous sclerosis pathophysiology, sx, imaging, death causes -->
 
-![image-20200119202642946](https://photos.thisispiggy.com/file/wikiFiles/image-20200119202642946.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200119202642946.png)
 
-![image-20200119202704082](https://photos.thisispiggy.com/file/wikiFiles/image-20200119202704082.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200119202704082.png)
 
 This child's seizure, **hypopigmented skin lesions ("ash-leaf spots")**, and mild developmental delays are concerning for **tuberous sclerosis complex (TSC)**. TSC is caused by a mutation in 1 of 2 proteins, hamartin (_TSC1_ gene) or tuberin (_TSC2_ gene). These proteins form a complex that plays a role in cell division and differentiation. Mutations in these genes can be inherited in an **autosomal dominant** fashion, or they can be a de novo mutation (>80% of cases). Affected patients can develop benign tumors throughout the body, including the skin (eg, "ash-leaf spots," angiofibromas, shagreen patches), central nervous system (eg, glioneuronal hamartomas - the "tubers" of TSC), heart (eg, rhabdomyomas), and kidney (eg, angiomyolipoma).
 

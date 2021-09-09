@@ -6,9 +6,9 @@
 
 <!-- Colle's fracture -->
 
-![image-20200204195309323](https://photos.thisispiggy.com/file/wikiFiles/image-20200204195309323.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200204195309323.png)
 
-![image-20200824080937120](https://photos.thisispiggy.com/file/wikiFiles/image-20200824080937120.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200824080937120.png)
 
 A Colles fracture is another common fracture caused by falling onto an outstretched hand. It is a  dorsally angulated or displaced distal radius fracture that is typically associated with visible angulation proximal to the wrist joint ("dinner fork deformity"). Lateral radiographs can confirm Colles fracture  diagnosis.
 
@@ -18,7 +18,7 @@ Patients with Colles' fracture are also at risk for **acute carpal tunnel syndro
 
 <!-- scaphoid fracture sx, management -->
 
-![image-20200204195806594](https://photos.thisispiggy.com/file/wikiFiles/image-20200204195806594.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200204195806594.png)
 
 This patient fell onto his  outstretched hand and has acute pain at the wrist and tenderness at the  anatomic snuffbox. These are clinical features concerning for a  scaphoid fracture, which is the most common carpal bone fracture and is  typically caused by forceful dorsiflexion at the wrist. The scaphoid  can be forced against the dorsal part of the distal radius, creating a  fulcrum for injury. Patients can have swelling, decreased grip  strength, pain and tenderness at the radial aspect of the wrist in the anatomic snuffbox, and minimally decreased range of motion (unless dislocated fracture is present).
 

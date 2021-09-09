@@ -6,7 +6,7 @@
 
 <!-- endometrial hyperplasia or cancer sx, dx, rx-->
 
-![image-20200716085512953](https://photos.thisispiggy.com/file/wikiFiles/image-20200716085512953.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200716085512953.png)
 
 Uterine fibroids typically present with heavy, regular menstrual bleeding. This patient's **intermenstrual bleeding** and **sudden onset of heavy, prolonged menses** are atypical of fibroids and concerning for another etiology, particularly **endometrial cancer**. She also has multiple risk factors for endometrial cancer, including obesity, diabetes mellitus, and hypertension. Other risk factors include a history of polycystic ovary syndrome, tamoxifen use, and a history of heritable genetic disorders (eg, Lynch syndrome). Women age <45 with abnormal uterine bleeding and risk factors for endometrial cancer require evaluation of the endometrial lining with an **endometrial biopsy (EMB)**. If the EMB is normal, the uterine fibroids can be treated with either hormonal therapy (eg, oral contraceptives) or surgical intervention **(Choices D and E)**.
 
@@ -14,7 +14,7 @@ Uterine fibroids typically present with heavy, regular menstrual bleeding. This 
 
 <!-- uterine bleed causes, management -->
 
-![image-20200307135628965](https://photos.thisispiggy.com/file/wikiFiles/image-20200307135628965.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200307135628965.png)
 
 **Anovulation** is common during the first few years of menarche and can cause **irregular, heavy menstrual periods**. In the absence of ovulation, menstrual cycles lack their regular periodicity. The endometrium builds up under the influence of estrogen; however, without the influence of progesterone, the cue to slough the endometrium is lacking and menstrual-like bleeding occurs due to estrogen breakthrough bleeding. Therefore, patients often present with prolonged vaginal bleeding with passage of blood clots; initial evaluation includes assessing hemodynamic stability and estimating the volume of blood loss.
 

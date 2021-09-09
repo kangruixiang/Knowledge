@@ -14,9 +14,9 @@
 
 <!-- sarcoidosis population, sx, dx, rx, prognosis -->
 
-![image-20200121205854703](https://photos.thisispiggy.com/file/wikiFiles/image-20200121205854703.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200121205854703.png)
 
-![image-20200822054024431](https://photos.thisispiggy.com/file/wikiFiles/image-20200822054024431.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200822054024431.png)
 
 Sarcoidosis is a systemic inflammatory disease characterized by multiorgan noncaseating granulomas.  Most patients with sarcoidosis seek medical attention due to pulmonary disease (eg, cough, dyspnea), but extrapulmonary manifestations in the eyes, skin, heart, and joints are common.  Ocular disease occurs in approximately 25% of patients with sarcoidosis at some point during illness and is the presenting symptom in 5% of cases. [[Patient with bilateral hilar lymphadenopathy, erythema nodosum, anterior uveitis likely has sarcoidosis]].
 

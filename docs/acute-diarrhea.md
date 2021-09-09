@@ -6,7 +6,7 @@
 
 <!-- acute diarrhea cause, sx, dx, rx -->
 
-![image-20200901080803886](https://photos.thisispiggy.com/file/wikiFiles/image-20200901080803886.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200901080803886.png)
 
 - pathogenesis:
 	- mostly viral

@@ -52,11 +52,11 @@ First do HR CT scan. Types:
 		- consolidative ground glass
 
 subpleural sparing:
-![20200906125021_4](https://photos.thisispiggy.com/file/wikiFiles/20200906125021_4.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200906125021_4.png)
 
 reverse halo sign:
 
-## ![20200906125021_5](https://photos.thisispiggy.com/file/wikiFiles/20200906125021_5.png)
+## ![](https://photos.thisispiggy.com/file/wikiFiles/20200906125021_5.png)
 
 \`\`\`mermaid
 graph LR

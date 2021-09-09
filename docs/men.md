@@ -6,7 +6,7 @@
 
 <!-- MEN types -->
 
-![image-20200123200131073](https://photos.thisispiggy.com/file/wikiFiles/image-20200123200131073.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200123200131073.png)
 
 <!-- MEN 2 MTC management -->
 

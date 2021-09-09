@@ -11,7 +11,7 @@
 - acute or subacute disruption in blood flow
 - plaque rupture unlike narrowing in stable angina
 - no clear precipitant
-  ![20210501162539](https://photos.thisispiggy.com/file/wikiFiles/20210501162539.png)
+  ![](https://photos.thisispiggy.com/file/wikiFiles/20210501162539.png)
 - STEMI:  ST elevation of 1 mm or more in 2 or more contiguous limb or chest leads, except V2 and V3
 	- ST elevation in 2mm or more in men and 1.5mm or more in women in V2 and V3
 	- Posterior MI: 2mm ST depression in anterior leads V1-V4 with ST elevation in inferior or lateral leads
@@ -35,7 +35,7 @@
 
 ### Management
 
-![20210501192328](https://photos.thisispiggy.com/file/wikiFiles/20210501192328.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210501192328.png)
 
 - loading dose ASA
 - IV heparin, lovenox, or fondaparinux
@@ -50,7 +50,7 @@
 	- Ideal time: 90 min from first contact, 120
 	- get ASA and heparin before therapy
 	- during therapy, patients will receive heparin with or without glycoprotein 2b/3a blockade or bivalirudin, stents with P2Y12 inhibitor
-	- ![20210501193347](https://photos.thisispiggy.com/file/wikiFiles/20210501193347.png)
+	- ![](https://photos.thisispiggy.com/file/wikiFiles/20210501193347.png)
 - Clopidogrel: most common
 - Prasugrel: more potentn, quicker, increased bleeding risk.
 - Ticagrelor: more potent, faster onset, can cause dyspnea but usually self limited
@@ -67,7 +67,7 @@
 - IV nitro: for HTN. No oral nitro for recovering STEMI
 - CCB/ranolazine: do not use in acute STEMI
 - do not give O2 for STEMI with normal O2, increases mortality
-  ![20210501193611](https://photos.thisispiggy.com/file/wikiFiles/20210501193611.png)
+  ![](https://photos.thisispiggy.com/file/wikiFiles/20210501193611.png)
 
 #### Complications
 
@@ -137,7 +137,7 @@ An invasive strategy improves the composite clinical endpoint of death, recurren
 
 With an ischemia-guided treatment strategy, patients undergo noninvasive stress testing before hospital discharge; cardiac catheterization is reserved for patients with active or intermittent ischemia, including those with angina despite medical therapy or evidence of ischemia on stress testing, and patients at very high clinical risk based on risk score. The ischemia-guided approach is appropriate for low-risk patients (TIMI score <2 or GRACE score <109).
 
-![20210503152138](https://photos.thisispiggy.com/file/wikiFiles/20210503152138.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210503152138.png)
 
 ### Acute Coronary Syndromes Not Associated with Obstructive Coronary Disease
 

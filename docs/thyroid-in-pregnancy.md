@@ -16,7 +16,7 @@ However, methimazole is a potential teratogen and should not be used during the 
 
 <!-- subclinical hyperthyroidism pregnancy management -->
 
-![image-20200831075839853](https://photos.thisispiggy.com/file/wikiFiles/image-20200831075839853.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200831075839853.png)
 
 In patients with normal thyroid function, the net effect can resemble subclinical hyperthyroidism with **increased total T4**, normal (or mildly elevated) free T4, and **suppressed TSH**.  This patient is clinically euthyroid, with a physiologic increase in total T4 and decrease in TSH.  Although she has nonspecific symptoms (eg, nausea, anxiety), her vital signs and thyroid examination are normal, with no evidence of lid lag (seen in most cases of hyperthyroidism) or proptosis (seen with Graves disease).  No additional workup is necessary at this time.
 

@@ -16,7 +16,7 @@
 - diagnosis: clinical
 - treatment: stop sports or work through it (palpable nodule).,
 
-![_](https://i.imgur.com/kF8OkWt.png)
+![](https://i.imgur.com/kF8OkWt.png)
 
 ## Scoliosis
 

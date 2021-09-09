@@ -8,7 +8,7 @@
 
 <!-- TB diagnosis tests -->
 
-![image-20200128194517041](https://photos.thisispiggy.com/file/wikiFiles/image-20200128194517041.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200128194517041.png)
 
 This patient's clinical presentation is consistent with **active pulmonary tuberculosis** (TB), which is typically due to the reactivation of latent disease.  Suspicion should be raised when individuals with epidemiologic risk  factors for exposure (eg, substance abuse, homelessness, birth in a  TB-endemic region) develop characteristic clinical manifestations (eg,  fever, cough >2 weeks, weight loss).
 
@@ -38,7 +38,7 @@ Tuberculous effusions usually present with fever, cough, pleurisy, and weight lo
 
 <!-- latent TB management, when can return to work -->
 
-![20200905112101_2](https://photos.thisispiggy.com/file/wikiFiles/20200905112101_2.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200905112101_2.png)
 
 All **health care personnel** (HCP) should receive regular (eg, annual) screening for **tuberculosis** (TB) with a tuberculin skin test (TST) or interferon-gamma release assay.  HCP who have a TST with **>10-mm** induration at 48 hours are likely to be infected with _Mycobacterium tuberculosis_ and should undergo a chest x-ray.  Those with no chest x-ray abnormalities and no symptoms (eg, weight loss, night sweats, chronic cough) are considered to have **latent tuberculosis infection** (LTBI).
 
@@ -60,4 +60,4 @@ Miliary TB denotes the widespread **hematogenous** dissemination of _Myobacteriu
 
 Miliary TB is classically associated with a **diffuse nodular infiltrate** on chest imaging.  Diagnosis usually requires the identification of _M tuberculosis_ by fluid culture or biopsy with culture; **liver biopsy** is generally considered to have the highest diagnostic yield, but bone marrow and transbronchial biopsies are sometimes performed.  All patients should receive mycobacterial blood cultures, but diagnostic sensitivity is low.
 
-![20200909203145_6](https://photos.thisispiggy.com/file/wikiFiles/20200909203145_6.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200909203145_6.png)

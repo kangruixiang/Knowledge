@@ -6,7 +6,7 @@
 
 - related: [[Pediatric]]
 
-![20200908203446_22](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_22.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_22.png)
 
 This patient's presentation (calf pain, abnormal gait, and elevated creatine kinase) is consistent with **viral myositis**.  Viral myositis, also known as benign acute childhood myositis, is most common in young children who are recovering from viral infections.  **Influenza** is the most commonly implicated virus.  Viral myositis presents with the acute onset of muscle pain, usually in the **calves**.  The calves are tender to palpation and in severe cases may be visibly swollen.  Affected children have **abnormal gait**, either toe-walking (as in this case) or wide-based; some children may refuse to ambulate altogether.
 

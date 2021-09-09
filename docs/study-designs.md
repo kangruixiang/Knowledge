@@ -6,4 +6,4 @@
 
 - related: [[Biostats]]
 
-![20200912201453_](https://photos.thisispiggy.com/file/wikiFiles/20200912201453_.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200912201453_.png)

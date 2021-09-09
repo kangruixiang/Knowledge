@@ -146,7 +146,7 @@
 - factor 12 leads to synthesis of bradykinin
 - link between coagulation system and kinin system (inflammation)
 
-![img](http://www.uworld.com/media/l25959.gif)
+![](http://www.uworld.com/media/l25959.gif)
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/m36Lewj.jpg)
 

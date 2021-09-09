@@ -4,4 +4,4 @@
 
 # COVID19
 
-![image-20200827090613475](https://photos.thisispiggy.com/file/wikiFiles/image-20200827090613475.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200827090613475.png)

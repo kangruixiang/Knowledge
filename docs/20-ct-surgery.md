@@ -65,7 +65,7 @@
 - diagnosis: don't really have time. Echo
 - treatment: surgery. PGE to keep PDA open.,
 
-![_](https://i.imgur.com/wwPnQJa.png)
+![](https://i.imgur.com/wwPnQJa.png)
 
 ## Tetralogy
 

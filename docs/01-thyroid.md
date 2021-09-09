@@ -56,7 +56,7 @@ The thyroid diverticulum migrates **caudally down the midline, ventral to the hy
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/dOij8GI.jpg)
 
-![image-20200826071900429](https://photos.thisispiggy.com/file/wikiFiles/image-20200826071900429.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200826071900429.png)
 
 ## Thyroglossal duct
 

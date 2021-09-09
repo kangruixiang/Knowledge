@@ -6,7 +6,7 @@
 
 <!-- infant botulism cause, pathology, symptoms, vs MG sx, treatment -->
 
-![image-20191224100802220](https://photos.thisispiggy.com/file/wikiFiles/image-20191224100802220.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20191224100802220.png)
 
 **Infant botulism** is a flaccid neuropathy that occurs in children age <1 following the ingestion of **_Clostridium botulinum_** **spores**.  These spores are typically found in honey as well as environmental  dust/soil, particularly in rural or farm areas where the soil is  frequently disturbed. Although ingestion of the spores is unlikely to  harm a healthy adult, infants have an immature digestive system that  lacks protective enteric microbiota. Therefore, the spores are able to  colonize the gastrointestinal tract and produce toxin in situ. This  neurotoxin **inhibits presynaptic acetylcholine release** into the **neuromuscular junction**, causing dysfunction of the skeletal and smooth muscles.
 

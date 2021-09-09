@@ -6,7 +6,7 @@
 
 - related: [[UTI]]
 
-![20200907203433_5](https://photos.thisispiggy.com/file/wikiFiles/20200907203433_5.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200907203433_5.png)
 
 **Interstitial cystitis** (also known as painful bladder syndrome) is a chronic, painful bladder condition of uncertain etiology.  The pelvic pain in interstitial cystitis is classically **exacerbated by bladder filling** and **relieved by voiding**.  The onset of the symptoms is typically gradual, and the symptoms worsen over a period of months.  Other characteristic symptoms include urinary **urgency** and **frequency**, and **chronic pelvic pain**. Other presenting symptoms include urinary urgency, nocturia, and frequency.  Patients often deliberatively urinate frequently to prevent the bladder from being full. The pain can be exacerbated by exercise, sexual intercourse (dyspareunia), and alcohol consumption.
 

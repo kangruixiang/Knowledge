@@ -14,7 +14,7 @@
 
 ## Solid Nodule > 8 mm
 
-![20210802213806](https://photos.thisispiggy.com/file/wikiFiles/20210802213806.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210802213806.png)
 
 - low/moderate probability: PET scan
 	- PET neg: continued surveillance
@@ -31,9 +31,9 @@
 - usually premalignant disease, such as adenocarcinoma in situ
 - can be slow growing
 - growth rate 400-800 days
-  ![20210802214238](https://photos.thisispiggy.com/file/wikiFiles/20210802214238.png)
+  ![](https://photos.thisispiggy.com/file/wikiFiles/20210802214238.png)
 - evolution of part solid nodule from adenocarcinoma in situ to invasive adenocarcinoma
-  ![20210802214416](https://photos.thisispiggy.com/file/wikiFiles/20210802214416.png)
+  ![](https://photos.thisispiggy.com/file/wikiFiles/20210802214416.png)
 
 ## management
 
@@ -59,7 +59,7 @@
 	- spiculated appearance
 	- \>0.8 cm upper lobe location
 
-![20200905112101_1](https://photos.thisispiggy.com/file/wikiFiles/20200905112101_1.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200905112101_1.png)
 
 <!-- features of lung nodules that are malignant vs benign -->
 

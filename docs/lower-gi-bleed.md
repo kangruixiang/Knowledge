@@ -6,7 +6,7 @@
 
 - related: [[GI]]
 
-![image-20200715073927982](https://photos.thisispiggy.com/file/wikiFiles/image-20200715073927982.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200715073927982.png)
 
 Resuscitation goals for patients with LGIB should be normalization of blood pressure and heart rate, as well as the transfusion of packed red blood cells if needed to maintain the hemoglobin level **above 7 g/dL** (70 g/L), with a threshold of 9 g/dL (90 g/L) in patients with massive bleeding, or when treatment may be delayed. Platelet transfusion to maintain counts above 50,000 cells/µL (50 × 109/L) is recommended in patients with active bleeding.
 

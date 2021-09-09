@@ -8,7 +8,7 @@
 
 <!-- genu valgum age, symptom, treatment -->
 
-![image-20191205161055453](https://photos.thisispiggy.com/file/wikiFiles/image-20191205161055453.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20191205161055453.png)
 
 This patient has **physiologic** **genu valgum**, a condition in which the knees angulate toward midline, giving the appearance of **"knock-knees."** Genu valgum, part of the normal progression of lower extremity alignment, occurs in children **age 2-5**. Patients with physiologic genu valgum do not have significant pain or difficulty ambulating. They are of **normal height**. On examination, bilateral leg curvature is **symmetric** with no leg-length discrepancy and **no medial thrust** (ie, knee protrudes medially while walking); with walking, legs can appear to swing outward. With knees extended and pointed forward and distal femurs touching, <8 cm between the medial malleoli is considered physiologic genu valgum. Pes planus (ie, flatfoot) also commonly accompanies genu valgum.
 

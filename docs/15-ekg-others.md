@@ -301,7 +301,7 @@
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/ry8YAbc.jpg)
 
-![image-20200825073035402](https://photos.thisispiggy.com/file/wikiFiles/image-20200825073035402.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200825073035402.png)
 
 - P before every QRS, but QRS begins as soon as P ends
 - very short PR
@@ -311,7 +311,7 @@
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/HXFKjeZ.jpg)
 
-![img](http://www.uworld.com/media/L10429.jpg)
+![](http://www.uworld.com/media/L10429.jpg)
 
 - different from AV nodal re-entrant tachycardia
 - ortho: "correct"

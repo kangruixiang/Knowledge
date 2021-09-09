@@ -8,7 +8,7 @@
 
 <!-- medication induced esophagitis causes --> 
 
-![image-20200718074442737](https://photos.thisispiggy.com/file/wikiFiles/image-20200718074442737.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200718074442737.png)
 
 This patient's heartburn is most likely due to **medication-induced esophagitis (MIE)**. Certain medications, including **doxycycline**, nonsteroidal anti-inflammatory drugs (NSAIDs), potassium chloride, and bisphosphonates (eg, alendronate), can become stuck in the esophagus and cause a localized chemical burn to the esophageal mucosa; due to external esophageal compression by the aorta, the **level of the aortic arch** is the most common site of injury. Doxycycline causes injury by becoming **highly acidic** (pH <3) in the presence of water, whereas other medications can cause injury due to hyperosmolarity (potassium chloride) or disruption of the prostaglandin protective barrier (NSAIDs).
 

@@ -6,7 +6,7 @@
 
 <!-- amiodarone effect on thyroid -->
 
-![image-20191201194224393](https://photos.thisispiggy.com/file/wikiFiles/image-20191201194224393.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20191201194224393.png)
 
 **Amiodarone** may cause significant **thyroid dysfunction** due to its high iodine content, direct effects on thyroid follicular  cells, and changes in thyroid hormone metabolism. There are 3  thyroid-related syndromes associated with amiodarone use:
 

@@ -12,7 +12,7 @@ The three main enzymatic deficiencies are:
 - 11-OH
 - 17-OH
 
-![image-20200825073902196](https://photos.thisispiggy.com/file/wikiFiles/image-20200825073902196.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200825073902196.png)
 
 The most common cause of CAH is **21-hydroxylase deficiency**.
 
@@ -97,7 +97,7 @@ Further evaluation of CAH involves the measurement of specific hormonal levels.
 - In 11-OH deficiency, there are elevated levels of **11-deoxycortisol** (or 11 DOC for short).
 - An ACTH stimulation test is used to confirm the diagnosis and the type of CAH.
 
-![image-20200825074350018](https://photos.thisispiggy.com/file/wikiFiles/image-20200825074350018.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200825074350018.png)
 
 Marked elevation of **17-hydroxyprogesterone**, a substrate of  21-hydroxylase, confirms the diagnosis with 21-hydroxylase deficiency.  High **testosterone** levels are responsible for **virilization** of  external female genitalia. Aldosterone and cortisol levels are  abnormally low.
 

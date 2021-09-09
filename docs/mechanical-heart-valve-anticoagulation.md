@@ -6,7 +6,7 @@
 
 - related: [[Valvular Diseases]], [[Cardiology]]
 
-![20200905112055_5](https://photos.thisispiggy.com/file/wikiFiles/20200905112055_5.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200905112055_5.png)
 
 The risk of systemic thromboembolism (eg, stroke) is approximately 4% per patient per year in those with mechanical prosthetic valves with no anticoagulation, compared to about 2% in patients treated with aspirin, and <1% in patients treated with warfarin.  Patients with mechanical mitral valves have twice the risk compared to those with aortic valve prostheses.  Therefore, long-term treatment with aspirin and warfarin is recommended for all patients with mechanical aortic or mitral valve replacement to reduce the rates of systemic thromboembolism.
 

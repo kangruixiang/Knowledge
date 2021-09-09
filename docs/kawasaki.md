@@ -6,9 +6,9 @@
 
 <!-- kawasaki sx, dx, rx, complications, follow up -->
 
-![image-20200205201251221](https://photos.thisispiggy.com/file/wikiFiles/image-20200205201251221.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200205201251221.png)
 
-![image-20200205201225183](https://photos.thisispiggy.com/file/wikiFiles/image-20200205201225183.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200205201225183.png)
 
 This boy **age <5** has had **fever** for **5 days** as well as the following symptoms:
 

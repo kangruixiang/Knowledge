@@ -14,7 +14,7 @@ Bubonic plague is characterized by lymphadenopathy (buboes), fever, rigors, and 
 
 Untreated, pneumonic plague is uniformly fatal. Asymptomatic persons exposed to aerosolized _Y. pestis_ and close contacts of infected patients within the previous 7 days warrant postexposure prophylaxis. The available vaccine is ineffective at protecting against pneumonic plague. A live attenuated vaccine with protection from respiratory challenge is under investigation.
 
-![20201102072430](https://photos.thisispiggy.com/file/wikiFiles/20201102072430.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201102072430.png)
 
 The most appropriate treatment is gentamicin. This patient most likely has pneumonic plague caused by the bacteria _Yersinia pestis_, one of the biologic agents classified as an A-list bioterrorism pathogen because of its high potential lethality and ease of dissemination. Sputum Gram stain (and possibly blood smear) may identify gram-negative coccobacilli demonstrating the classic bipolar staining or “safety pin” shape shown. Although most pulmonary involvement occurs through secondary hematogenous spread to the lungs from a bubo or other source, primary pneumonic plague can occur after close contact with another person with plague pneumonia, after animal exposure, or as a result of intentional aerosol release for the purpose of terrorism, as in this case. Recommended first-line treatment is either streptomycin or gentamicin.
 

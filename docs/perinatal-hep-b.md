@@ -8,7 +8,7 @@
 
 <!-- perinatal hep B risks, dx, prevention -->
 
-![image-20200311202604502](https://photos.thisispiggy.com/file/wikiFiles/image-20200311202604502.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200311202604502.png)
 
 Infants born to mothers with active hepatitis B infection are at risk for acquiring hepatitis B either in utero or, more commonly, during **delivery** due to exposure to infected genital secretions. Maternal **viral load** is the primary risk factor and directly correlates with the risk of vertical transmission to the infant. However, with prompt administration of **hepatitis B vaccine** and **immunoglobulin** to the infant, the risk for infection decreases to <5%.
 

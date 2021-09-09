@@ -19,7 +19,7 @@
 
 <!-- Bite wounds management -->
 
-![image-20200311203158323](https://photos.thisispiggy.com/file/wikiFiles/image-20200311203158323.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200311203158323.png)
 
 **Mammalian bites** can lead to infection from either **oral flora** of the animal (eg, _Pasteurella_, oral anaerobes) or **skin flora** of the patient (eg, _Streptococcus pyogenes_, _Staphylococcus aureus_). **Cat** bites are considered particularly high-risk as feline teeth are thin and sharp, resulting in **puncture wounds** that inoculate bacteria deep into tissue. Bites also carry a higher  risk of infection if they are on the hands/feet, >12 hours old, and  in immunocompromised patients.
 

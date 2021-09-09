@@ -6,7 +6,7 @@
 
 <!-- AKI types, mechanisms, BUN/Cr, FENA, osm, UA shows -->
 
-![image-20200825072043336](https://photos.thisispiggy.com/file/wikiFiles/image-20200825072043336.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200825072043336.png)
 
 <!-- how to distinguish between prerenal azotemia and ATN -->
 

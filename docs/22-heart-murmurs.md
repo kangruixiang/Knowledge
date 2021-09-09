@@ -192,9 +192,9 @@
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/1BFFB59A-DEB9-42E0-A560-2E5E6301FB62.jpg)
 
-![image-20200824074853269](https://photos.thisispiggy.com/file/wikiFiles/image-20200824074853269.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200824074853269.png)
 
-![image-20200824074841839](https://photos.thisispiggy.com/file/wikiFiles/image-20200824074841839.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200824074841839.png)
 
 <!-- clues to diagnosing murmurs -->
 

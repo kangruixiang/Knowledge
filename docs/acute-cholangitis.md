@@ -8,7 +8,7 @@
 
 <!-- acute cholangitis cause, sx, dx, rx -->
 
-![image-20200822055453265](https://photos.thisispiggy.com/file/wikiFiles/image-20200822055453265.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200822055453265.png)
 
 - pathogenesis:
 	- common bile duct ascending bacterial infection

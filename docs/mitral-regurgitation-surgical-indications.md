@@ -6,7 +6,7 @@
 
 <!-- Mitral valve regurgitation surgical indication --> 
 
-![image-20200718091106068](https://photos.thisispiggy.com/file/wikiFiles/image-20200718091106068.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200718091106068.png)
 
 Primary **mitral valve regurgitation**  (MR) is defined as MR caused by an intrinsic defect of the mitral valve  apparatus (eg, leaflets, chordae tendineae) and is differentiated from  secondary MR, which results from other cardiac disease (eg, myocardial  ischemia, dilated cardiomyopathy). This patient's echocardiogram  reveals **severe, chronic primary MR**, which is likely due to myxomatous degeneration of the mitral valve. Atrial fibrillation  (AF) due to left atrial dilation is a common complication of severe MR.
 

@@ -6,7 +6,7 @@
 
 <!-- postpartum blues, depression, psychosis onset, symptoms, management.. -->
 
-![_](https://i.imgur.com/fTP5MeZ.png)
+![](https://i.imgur.com/fTP5MeZ.png)
 
 # Schizophrenia
 

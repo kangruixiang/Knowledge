@@ -6,9 +6,9 @@
 
 <!-- nipple discharge management -->
 
-![image-20200316201635182](https://photos.thisispiggy.com/file/wikiFiles/image-20200316201635182.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200316201635182.png)
 
-![image-20200601202230419](https://photos.thisispiggy.com/file/wikiFiles/image-20200601202230419.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200601202230419.png)
 
 **Benign (physiologic) nipple discharge** is typically **bilateral**, **multiductal**, nonbloody, and **expressed only with manipulation** of the breast. Common etiologies include endocrine abnormalities (eg, hyperprolactinemia, thyroid disease), medications (eg, antipsychotics, gastric motility agents), stress, and excessive breast/nipple stimulation.
 

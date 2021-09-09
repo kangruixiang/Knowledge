@@ -12,4 +12,4 @@ Cervical cytology, high-risk HPV testing, or co-testing with cervical cytology a
 
 <!-- cervical cancer screening in HIV, immunocompromised patients. Routine screening ages -->
 
-![image-20200305194856686](https://photos.thisispiggy.com/file/wikiFiles/image-20200305194856686.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200305194856686.png)

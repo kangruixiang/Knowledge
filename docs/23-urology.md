@@ -39,7 +39,7 @@ Urethra:
 
 <!-- pediatric hematuria differential diagnosis and management.. -->
 
-![_](https://i.imgur.com/fkZjKFM.png)
+![](https://i.imgur.com/fkZjKFM.png)
 
 ## Labs
 
@@ -146,7 +146,7 @@ Pathogenesis and Symptoms
 	- Girls: Normal urinary function + constant leaking from planting below vagina/sphincter, never dry
 	- Similar to fistula symptoms but in very young population
 
-![_](https://i.imgur.com/6ZnW4Z9.png)
+![](https://i.imgur.com/6ZnW4Z9.png)
 
 Diagnosis
 

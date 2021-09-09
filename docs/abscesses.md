@@ -10,4 +10,4 @@
 
 <!-- abscess vs cellulitis bugs, sx, management -->
 
-![image-20200601203756738](https://photos.thisispiggy.com/file/wikiFiles/image-20200601203756738.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200601203756738.png)

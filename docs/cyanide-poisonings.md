@@ -27,7 +27,7 @@ This patient's symptoms suggest acute cyanide toxicity in the setting of renal f
 
 Patients with chronic renal failure or those receiving a high-dose or prolonged infusion of sodium nitroprusside are at increased risk for cyanide toxicity.  As a result, low infusion rates (<2 µg/kg/min), short-term usage, and close monitoring are recommended.  Treatment involves cessation of nitroprusside and administration of **sodium thiosulfate**.
 
-![image-20200831085520152](https://photos.thisispiggy.com/file/wikiFiles/image-20200831085520152.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200831085520152.png)
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/L19531.jpg)
 

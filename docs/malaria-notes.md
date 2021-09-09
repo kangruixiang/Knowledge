@@ -8,4 +8,4 @@
 
 <!-- malaria rx -->
 
-![image-20200305194414199](https://photos.thisispiggy.com/file/wikiFiles/image-20200305194414199.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200305194414199.png)

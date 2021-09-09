@@ -6,7 +6,7 @@
 
 <!-- seizure in pregnancy management -->
 
-![image-20200311202857708](https://photos.thisispiggy.com/file/wikiFiles/image-20200311202857708.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200311202857708.png)
 
 Women with epilepsy are at increased risk for obstetric complications, including preeclampsia, preterm labor, and abruptio placentae. **Antiepileptic drug (AED) use** is also associated with an increased risk of **congenital abnormalities**, including neural tube defects, congenital heart anomalies, and cleft palate. Despite these risks, the majority of women with epilepsy have a normal pregnancy.
 

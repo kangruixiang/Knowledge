@@ -4,7 +4,7 @@
 
 # PPV is highest with highest specificity
 
-![image-20200823063920467](https://photos.thisispiggy.com/file/wikiFiles/image-20200823063920467.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200823063920467.png)
 
 The sensitivity of a test, given by TP / (TP + FN), is the  probability that a patient with a given disease will have a positive  result on that test; for a highly **sensitive** test, a **n**egative  result helps rule **out** a disease (**SnNout**). Higher sensitivity  means fewer FNs. Similarly, the specificity of a test, given by TN /  (TN + FP), is the probability that a patient without a given disease  will have a negative test result on that test; for a highly **specific** test, a **p**ositive result helps rule **in** a disease (**SpPin**).  Higher specificity means fewer FPs.
 

@@ -6,7 +6,7 @@
 
 - related: [[Biostats]]
 
-![20200912201453_1](https://photos.thisispiggy.com/file/wikiFiles/20200912201453_1.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200912201453_1.png)
 
 Different types of biases:
 

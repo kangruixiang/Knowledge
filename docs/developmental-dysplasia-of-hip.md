@@ -23,8 +23,8 @@ DDH:
 - prognosis:
 	- Most infants who are treated early have **no long-term sequelae**.  However, residual dysplasia can still occur, so patients require close follow-up until skeletal maturity is reached.  Residual dysplasia potentially warrants surgery and can lead to **osteoarthritis**, but this risk is low for infants treated for DDH in infancy
 
-![20200907203433_1](https://photos.thisispiggy.com/file/wikiFiles/20200907203433_1.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200907203433_1.png)
 
-![20200907203433_9](https://photos.thisispiggy.com/file/wikiFiles/20200907203433_9.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200907203433_9.png)
 
-![20200907203433_2](https://photos.thisispiggy.com/file/wikiFiles/20200907203433_2.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200907203433_2.png)

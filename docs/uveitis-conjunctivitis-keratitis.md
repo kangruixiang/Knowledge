@@ -45,6 +45,6 @@ Endophthalmitis is a bacterial infection of the deep eye (vitreous) due  to eith
 
 <!-- hordeolum is -->
 
-![image-20200208092024378](https://photos.thisispiggy.com/file/wikiFiles/image-20200208092024378.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200208092024378.png)
 
 Hordeolum (stye) is a bacterial infection of the sebaceous glands in the eyelid. Patients have tenderness, redness, and swelling at the eyelid  margins. Hordeolum is not a complication of bacterial conjunctivitis.

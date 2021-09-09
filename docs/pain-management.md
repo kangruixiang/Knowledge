@@ -31,11 +31,11 @@ Types of pain:
 
 ## 2. Match treatment to pain
 
-![20201021142530](https://photos.thisispiggy.com/file/wikiFiles/20201021142530.png)
-![20201021142736](https://photos.thisispiggy.com/file/wikiFiles/20201021142736.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201021142530.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201021142736.png)
 Naproxen: 500mg PO BID, unless AA, can increase BP
 Tylenol: 1g TID scheduled
-![20201021142938](https://photos.thisispiggy.com/file/wikiFiles/20201021142938.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201021142938.png)
 
 ## Opioids
 
@@ -44,15 +44,15 @@ Tylenol: 1g TID scheduled
 
 ## Side Effects
 
-![20201021143519](https://photos.thisispiggy.com/file/wikiFiles/20201021143519.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201021143519.png)
 
 Additional treatment:
-![20201021144748](https://photos.thisispiggy.com/file/wikiFiles/20201021144748.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201021144748.png)
 
 Muscle relaxant: use occasionally
 
 ## Before starting Opioids
 
-![20201021144830](https://photos.thisispiggy.com/file/wikiFiles/20201021144830.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201021144830.png)
 
 - Do not use opiods and benzos. 10x mortality risks

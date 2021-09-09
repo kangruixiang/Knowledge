@@ -10,7 +10,7 @@ Conjunctivitis is a diagnosis of exclusion, and is made in a patient with **red 
 
 <!-- conjunctivitis rx -->
 
-![image-20200208091556120](https://photos.thisispiggy.com/file/wikiFiles/image-20200208091556120.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200208091556120.png)
 
 **Bacterial conjunctivitis** is highly contagious and presents with **conjunctival erythema** and **mucopurulent discharge**.  The discharge is often thick and accumulates quickly, causing matting  of the eyelid. The condition is often unilateral although it can be  bilateral. Bacterial conjunctivitis is usually self-limited, but  topical antibiotics are prescribed to shorten symptom duration and  reduce person-to-person transmission.
 

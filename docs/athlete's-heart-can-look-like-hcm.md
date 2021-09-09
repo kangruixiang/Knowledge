@@ -10,4 +10,4 @@ This patient's ECG findings – high-voltage QRS complexes and lateral repolariz
 
 Because absence of a systolic ejection murmur on physical examination does not rule out HCM, a young athlete such as this patient with ECG findings of LVH and **unexplained symptoms** (eg, chest pain, palpitations, presyncope, syncope) should be evaluated for HCM or other structural heart disease (eg, aortic stenosis) with **transthoracic echocardiography**.  Left ventricular wall thickness <15 mm, among other clinical characteristics, can help distinguish athlete's heart from HCM.
 
-![20200909203145_13](https://photos.thisispiggy.com/file/wikiFiles/20200909203145_13.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200909203145_13.png)

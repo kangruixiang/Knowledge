@@ -6,7 +6,7 @@
 
 <!-- H pylori dx, treatment, confirmation of eradication -->
 
-![image-20200829083405100](https://photos.thisispiggy.com/file/wikiFiles/image-20200829083405100.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200829083405100.png)
 
 _Helicobacter pylori_ **eradication should be confirmed** for patients with the following:
 

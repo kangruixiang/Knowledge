@@ -42,7 +42,7 @@
 - any burns that's circumferential compromises vascular supplies
 - regular burn vs circumferential:
 
-![0BFFECD0-F157-4E77-97A6-8BD47C5E68BA](https://photos.thisispiggy.com/file/wikiFiles/0BFFECD0-F157-4E77-97A6-8BD47C5E68BA.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/0BFFECD0-F157-4E77-97A6-8BD47C5E68BA.png)
 
 - clinical diagnosis
 - treatment: cut the eschar to eleviate pressure
@@ -52,7 +52,7 @@
 - pt: rule of 9's, 50-50, 8-16
 - only 2nd, 3rd degree
 
-![45E34B40-2634-4E95-A583-B98D4113B527](https://photos.thisispiggy.com/file/wikiFiles/45E34B40-2634-4E95-A583-B98D4113B527.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/45E34B40-2634-4E95-A583-B98D4113B527.png)
 
 - 4xkgx%BSA = how much fluid to give
 - give 50% in first 8 hours, 50% in next 16 hours

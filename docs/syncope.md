@@ -36,7 +36,7 @@
 - sinoatrial exit block: failure of impulse to exit SA
 - secondary sinoatrial exit block:
 	- failure of p wave to form
-		- ![20210516094821](https://photos.thisispiggy.com/file/wikiFiles/20210516094821.png)
+		- ![](https://photos.thisispiggy.com/file/wikiFiles/20210516094821.png)
 	- p to p shortening, followed by drop beat
 - Treatment
 	- symptomatic patient: pacemaker
@@ -44,7 +44,7 @@
 	- most patient get RV lead for backup
 	- high vagal tone: very dramatic bradycardia with normal HR between episodes
 		- sinus slowing before bradycardia
-		- ![20210516094834](https://photos.thisispiggy.com/file/wikiFiles/20210516094834.png)
+		- ![](https://photos.thisispiggy.com/file/wikiFiles/20210516094834.png)
 		- nausea, vomiting, diaphoretic
 	- SA node dysfunction: lower HR at baseline
 
@@ -78,7 +78,7 @@
 - Mobitz 1: progressively longer P, PR longer, drops, regularly irregular
 
 - canon A waves, progressively softer 1st heart sound
-	- ![20210516094905](https://photos.thisispiggy.com/file/wikiFiles/20210516094905.png)
+	- ![](https://photos.thisispiggy.com/file/wikiFiles/20210516094905.png)
 
 - Mobitz 2: HIS. Ppx pacing
 
@@ -96,6 +96,6 @@
 
 <!-- cardiogenic syncope causes and sx -->
 
-![image-20200822091215871](https://photos.thisispiggy.com/file/wikiFiles/image-20200822091215871.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200822091215871.png)
 
 This patient has most likely experienced cardiogenic syncope due to ventricular tachycardia (VT); scarring from previous myocardial infarction (evidenced by Q waves on ECG) increases the risk of ventricular arrhythmia.  Syncope due to VT usually has no warning symptoms (other than palpitations in some patients).  The arrhythmia spontaneously terminates within a few minutes, resulting in restoration of cardiac output and rapid patient recovery with no residual symptoms.

@@ -8,7 +8,7 @@
 
 <!-- hypoplastic left heart sx, rx -->
 
-![image-20200718085531563](https://photos.thisispiggy.com/file/wikiFiles/image-20200718085531563.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200718085531563.png)
 
 This neonate with mild cyanosis at birth followed by rapid clinical deterioration on day of life 1 most likely has **hypoplastic left heart syndrome** (HLHS). Patients with HLHS, a **ductal-dependent** congenital heart defect, have an underdeveloped left ventricle and  aorta as well as an atretic mitral and/or aortic valve. The right  ventricle is therefore responsible for supplying both pulmonary and  systemic blood flow.
 

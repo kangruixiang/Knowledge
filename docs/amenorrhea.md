@@ -6,7 +6,7 @@
 
 <!-- primary ovarian insufficiency sx, cause management -->
 
-![image-20200208090840574](https://photos.thisispiggy.com/file/wikiFiles/image-20200208090840574.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200208090840574.png)
 
 This patient has amenorrhea with low estrogen, elevated FSH, and hypoestrogenic symptoms. This is consistent with **primary ovarian insufficiency** (POI), which is a common complication of cancer treatment with chemotherapy and radiation therapy. In addition, she has low bone density as evidenced by a low (age-adjusted) Z-score on DXA. Patients with POI can rapidly lose bone mass, leading to an increased risk of fragility fractures.
 
@@ -16,7 +16,7 @@ In the absence of specific risk factors (eg, history of breast cancer), most pat
 
 <!-- functional hypothalamic amenorrhea sx, hormone, complications -->
 
-![image-20200118104129751](https://photos.thisispiggy.com/file/wikiFiles/image-20200118104129751.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200118104129751.png)
 
 Patients with **functional hypothalamic amenorrhea (FHA)** typically have amenorrhea, a low BMI, and findings of estrogen deficiency (breast atrophy). Additional features include anovulatory infertility and vaginal atrophy with dyspareunia. Female **athletes** are particularly susceptible to FHA due to a **relative caloric deficiency** associated with strenuous physical activity and high energy expenditure; other causes include stress and anorexia nervosa. The relative caloric deficiency results in decreased levels of GnRH resulting in decreased LH and FSH levels, suppressed ovarian function, and low estrogen levels.
 

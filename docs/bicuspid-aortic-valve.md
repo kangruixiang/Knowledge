@@ -6,7 +6,7 @@
 
 <!-- bicuspid valve population dx, management -->
 
-![image-20200221203008716](https://photos.thisispiggy.com/file/wikiFiles/image-20200221203008716.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200221203008716.png)
 
 Bicuspid aortic valve (AV) is one of the most common (about 1% of the population) types of congenital heart disease. It can occur sporadically or as an autosomal dominant inherited disorder with  incomplete penetrance. Patients with uncomplicated bicuspid valves  typically have an ejection murmur and a sound or click best heard at the lower left sternal border.  BAV is also a risk factor for **aortic dilation**, with a  reported prevalence of 20%–80%. Progressive aortic dilation can occur  in the aortic sinuses, aortic root, or ascending aorta, leading to **aortic aneurysm formation** and risk for **aortic dissection**.
 

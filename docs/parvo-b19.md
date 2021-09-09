@@ -10,6 +10,6 @@
 
 Parvovirus B19 can also cause arthritis in adults and a transient aplastic crisis in those with underlying hematologic disorders (eg, sickle cell disease).
 
-![20200907203433_6](https://photos.thisispiggy.com/file/wikiFiles/20200907203433_6.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200907203433_6.png)
 
-![20200907203433_7](https://photos.thisispiggy.com/file/wikiFiles/20200907203433_7.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200907203433_7.png)

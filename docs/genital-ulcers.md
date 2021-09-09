@@ -22,6 +22,6 @@ After a 4- to 10-day incubation period, chancroid progresses from **erythematous
 
 A definitive diagnosis is difficult; therefore, a probable diagnosis is made if a patient has a typical presentation and if herpes simplex virus and syphilis are ruled out.  Treatment with azithromycin or ceftriaxone is curative.
 
-![20200908203446_15](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_15.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_15.png)
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/L9939.jpg)

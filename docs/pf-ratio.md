@@ -44,7 +44,7 @@ Alternative indices of oxygenation include:
 	- e.g. part of the Berlin definition of Acute Respiratory Distress Syndrome (ARDS) (P/F ratio <300mmHg), and correlates with mortality (see below)
 	-
 
-![20201121151452](https://photos.thisispiggy.com/file/wikiFiles/20201121151452.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201121151452.png)
 
 Note that the ratios for the Berlin definitions was with a PEEP setting of 5 cmH20 or more
 

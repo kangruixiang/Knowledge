@@ -122,7 +122,7 @@ Concussion:
 	- genitalia: 1
 	- Total: 100%
 
-  ![_](https://i.imgur.com/Ee38rek.png)
+  ![](https://i.imgur.com/Ee38rek.png)
 
 # Gun and Chemicals
 

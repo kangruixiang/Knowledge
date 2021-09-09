@@ -8,7 +8,7 @@
 
 <!-- lyme disease stages and sx -->
 
-![image-20200823062139874](https://photos.thisispiggy.com/file/wikiFiles/image-20200823062139874.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200823062139874.png)
 
 This patient had a tick bite in Pennsylvania 3 months ago and now has left knee swelling and synovial fluid evidence of inflammation, raising strong suspicion for **Lyme arthritis**, the most common late complication of Lyme disease.  Lyme disease is a spirochetal infection caused by _**Borrelia burgdorferi**_.  It is transmitted by the deer tick _Ixodes scapularis_ during blood feeding.  Most cases occur in rural parts of the upper midwestern and northeastern United States, where the tick is endemic.  Initial transmission is often (~80%) marked by a spreading, annular rash (erythema migrans) and systemic symptoms; however, asymptomatic or unrecognized cases often go untreated, leading to persistent infection.
 

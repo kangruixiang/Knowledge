@@ -21,7 +21,7 @@
 	- if Hgb problems, aplastic crisis
 	- hydrops fetalis: if mom pregnant with another kid, isolate from current B19 kid
 
-![_](https://i.imgur.com/TkarL2j.png)
+![](https://i.imgur.com/TkarL2j.png)
 
 # Measles and German Measles
 
@@ -107,7 +107,7 @@
 - treatment: supportive
 - prevention: no vaccine..
 
-![_](https://i.imgur.com/q6oNeYN.png)
+![](https://i.imgur.com/q6oNeYN.png)
 
 # Erythema Multiforme
 

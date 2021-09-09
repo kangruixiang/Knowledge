@@ -26,7 +26,7 @@ After recovery from fugue, previous memories **usually return intact**; however,
 
 Most patients have experienced prior trauma, especially **child abuse**.
 
-![_](https://i.imgur.com/OjIQs2r.png)
+![](https://i.imgur.com/OjIQs2r.png)
 
 **Dissociative identity disorder** has the worst prognosis of all dissociative disorders.
 
@@ -34,8 +34,8 @@ Treatment of all dissociative disorders involves **psychotherapy**. Sodium amoba
 
 <!-- dissociative amnesia vs medication induced, brain injury, Alzheimer, alcohol, malingering.. -->
 
-![_](https://i.imgur.com/caqkO7R.png)
+![](https://i.imgur.com/caqkO7R.png)
 
 <!-- dissociative identity disorder vs hallucinations.. -->
 
-![_](https://i.imgur.com/ODgpzMP.png)
+![](https://i.imgur.com/ODgpzMP.png)

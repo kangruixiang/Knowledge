@@ -8,7 +8,7 @@
 
 <!-- HIV management in pregnancy -->
 
-![image-20200310210416820](https://photos.thisispiggy.com/file/wikiFiles/image-20200310210416820.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200310210416820.png)
 
 The risk of perinatal HIV transmission directly correlates with maternal HIV viral load. **Antiretroviral therapy** (typically, highly active antiretroviral therapy \[HAART]) is **continued throughout pregnancy** as it is safe, treats maternal disease, and **prevents perinatal transmission** by suppressing viral replication and decreasing the maternal viral load.
 

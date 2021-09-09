@@ -6,7 +6,7 @@
 
 <!-- sexual assault post exposure prophylaxis -->
 
-![image-20200831100018294](https://photos.thisispiggy.com/file/wikiFiles/image-20200831100018294.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200831100018294.png)
 
 In addition, this patient does not require metronidazole due to a microscopic examination without evidence of trichomoniasis (eg, flagellated, motile organisms).
 

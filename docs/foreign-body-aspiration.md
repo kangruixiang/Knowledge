@@ -16,10 +16,10 @@
 - Asymptomatic patients with coin ingestion <24 hours earlier can be observed with repeat x-rays in 12-24 hours to ensure passage beyond the pylorus. Children who had an **unknown time of ingestion**, such as this patient, or those who are **symptomatic** should undergo **flexible endoscopy** for coin removal. Coins lodged >24 hours are at significant risk for complications (eg, erosion, perforation).
 - Emergency bronchoscopy would be appropriate for an airway foreign body causing respiratory compromise.
 
-![image-20200713165557688](https://photos.thisispiggy.com/file/wikiFiles/image-20200713165557688.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200713165557688.png)
 
-![20200905162633_2](https://photos.thisispiggy.com/file/wikiFiles/20200905162633_2.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200905162633_2.png)
 
 Double ring sign:
 
-![20200905162633_3](https://photos.thisispiggy.com/file/wikiFiles/20200905162633_3.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200905162633_3.png)

@@ -8,7 +8,7 @@
 
 <!-- secondary HTN causes -->
 
-![image-20200822051326501](https://photos.thisispiggy.com/file/wikiFiles/image-20200822051326501.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200822051326501.png)
 
 Often these patients have a history of hypertension refractory to the maximal dosage of several drugs.
 

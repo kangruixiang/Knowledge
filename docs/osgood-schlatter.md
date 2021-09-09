@@ -21,7 +21,7 @@ Like [[patellofemoral pain]] syndrome, Osgood-Schlatter disease can cause anteri
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/L14488.jpg)
 
-![image-20200831082517092](https://photos.thisispiggy.com/file/wikiFiles/image-20200831082517092.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200831082517092.png)
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/U149.jpg)
 

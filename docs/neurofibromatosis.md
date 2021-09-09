@@ -6,7 +6,7 @@
 
 <!-- NF 1 sx, management -->
 
-![image-20200303161834935](https://photos.thisispiggy.com/file/wikiFiles/image-20200303161834935.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200303161834935.png)
 
 **Neurofibromatosis type I** (NFI) is an **autosomal dominant** disorder due to a mutation in the _NF1_ tumor suppressor gene on chromosome 17q11.2. **Café-au-lait macules** (CALMs) are a hallmark feature. Although a few CALMs are common in the general population, patients with NFI have numerous, widespread CALMs  that typically increase in number during childhood. In addition, **freckling** in the inguinal and axillary skin folds, as seen in this patient, is highly concerning for NFI. Other common features include neurofibromas, which are benign peripheral nerve sheath tumors in the skin, and Lisch  nodules, which are iris hamartomas that do not affect vision.
 

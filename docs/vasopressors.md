@@ -12,7 +12,7 @@ The table below categorizes vasoactive medications.  This might seem like a lot
 
 ![](https://i0.wp.com/emcrit.org/wp-content/uploads/2020/02/pressortable.jpg?resize=750%2C657\&ssl=1)
 
-![midodrinemap](https://i2.wp.com/emcrit.org/wp-content/uploads/2016/03/midodrinemap.png?resize=400%2C305)
+![](https://i2.wp.com/emcrit.org/wp-content/uploads/2016/03/midodrinemap.png?resize=400%2C305)
 
 ### inodilators
 

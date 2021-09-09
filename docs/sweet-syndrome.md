@@ -20,13 +20,13 @@
 	- "juicy" skin lesions: painful, edematous, red to violet
 	- no infection, responsive to steroids
 
-![20210829210949](https://photos.thisispiggy.com/file/wikiFiles/20210829210949.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210829210949.png)
 
 <!-- sweet syndrome is, sx -->
 
 mimics cellulitis
 
-![20201105205124](https://photos.thisispiggy.com/file/wikiFiles/20201105205124.png)
-![20201105205134](https://photos.thisispiggy.com/file/wikiFiles/20201105205134.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201105205124.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201105205134.png)
 
-![20210829210831](https://photos.thisispiggy.com/file/wikiFiles/20210829210831.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210829210831.png)

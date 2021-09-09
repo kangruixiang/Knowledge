@@ -21,7 +21,7 @@
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/LQFMQKC.jpg)
 ![](https://photos.thisispiggy.com/file/wikiFiles/Yv6Not3.jpg)
-![20200904103120_7](https://photos.thisispiggy.com/file/wikiFiles/20200904103120_7.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200904103120_7.png)
 
 <!-- Difference between lichen sclerosis and simplex chronicus -->
 

@@ -36,7 +36,7 @@
 - treatment: decreased ICP via surgery. VP shunts, drainage
 - complication: retardation, seizures.,
 
-![_](https://i.imgur.com/LGHwFKX.png)
+![](https://i.imgur.com/LGHwFKX.png)
 
 # Necrotizing enterocolitis
 
@@ -49,4 +49,4 @@
 - treatment: NPO, TPN, IV antibiotics against bowel anaerobes, surgery
 - complication: surgery and shortgut syndrome
 
-![_](https://i.imgur.com/DuWVTjs.png)
+![](https://i.imgur.com/DuWVTjs.png)

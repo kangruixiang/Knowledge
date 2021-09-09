@@ -13,11 +13,11 @@ Human papillomavirus (HPV) is a common sexually transmitted virus that causes ce
 
 Most patients diagnosed with cervical dysplasia are asymptomatic. **Invasive cervical cancer** typically presents in patients who have not had routine Pap test screening and can be asymptomatic. However, the most common presenting features of invasive cervical cancer are **irregular vaginal bleeding** and a **friable, exophytic cervical mass**. Other features of cervical cancer include postcoital bleeding; watery, mucoid vaginal discharge; and ulcerative cervical lesions. Suspicious cervical lesions require a **cervical biopsy** to evaluate for cancer. Additional risk factors for cervical cancer include tobacco use, prior sexually transmitted infection, and multiple sexual partners.
 
-![image-20200721213201250](https://photos.thisispiggy.com/file/wikiFiles/image-20200721213201250.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200721213201250.png)
 
 A 39-year-old woman, gravida 3 para 2, at 7 weeks gestation comes to the emergency department for vaginal bleeding that began 3 hours ago and has soaked through a pad. Since her arrival, the bleeding has subsided. She reports no abdominal pain or cramping. Her first prenatal visit is in 1 week. The patient has a history of HIV, contracted 3 years ago through unprotected sexual intercourse, but she has declined treatment as she has fel"healthy." She has no previous surgeries. The patient's 2 prior pregnancies ended in uncomplicated term vaginal deliveries; the last delivery was 4 years ago. Her last Pap test, 4 years ago, was normal. She has smoked half a pack of cigarettes a day for 13 years but does not drink alcohol or use illicit drugs. Blood pressure is 130/80 mm Hg and pulse is 82/min. BMI is 24 kg/m2. Abdominal examination shows no tenderness or masses. The external genitalia have no lesions. Speculum examination reveals minimal bright red blood in the vaginal vault. The cervix is closed and there is a 3-cm, firm, white, irregular mass on the anterior cervix that bleeds when touched with a cotton applicator. Laboratory results are as follows:
 
-![image-20200721213115410](https://photos.thisispiggy.com/file/wikiFiles/image-20200721213115410.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200721213115410.png)
 
 A bedside transvaginal ultrasound reveals an intrauterine gestation with normal fetal cardiac activity. Which of the following is the best next step in management of this patient?
 
@@ -25,6 +25,6 @@ A bedside transvaginal ultrasound reveals an intrauterine gestation with normal 
 
 <!-- HPV vaccine indications -->
 
-![image-20200205201741386](https://photos.thisispiggy.com/file/wikiFiles/image-20200205201741386.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200205201741386.png)
 
 Human papillomavirus (HPV) is responsible for most cases of genital warts as well as cervical, vulvar, vaginal, penile, and anal cancers. HPV can also cause oropharyngeal cancer, which is more common in men than women. Current available **HPV vaccines** target 9 types that cause either **genital warts** (eg, **types 6 and 11**) or **cancer** (eg, **types 16 and 18**). All males and females should be offered the HPV vaccine to reduce HPV transmission and prevent disease (eg, warts, cervical cancer, oropharyngeal cancer).

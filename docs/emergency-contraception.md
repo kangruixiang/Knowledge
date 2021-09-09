@@ -6,7 +6,7 @@
 
 <!-- emergency contraception types -->
 
-![image-20200831095738713](https://photos.thisispiggy.com/file/wikiFiles/image-20200831095738713.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200831095738713.png)
 
 Victims of sexual assault should be offered information about **emergency contraception** to prevent pregnancy.  In women with regular ovulatory cycles, the probability of pregnancy is as high as 30% prior to ovulation (eg, 2 weeks after the last menstrual period).  A negative pregnancy test in this setting does not exclude the possibility of pregnancy as testing is positive only after implantation (eg, 4 weeks after last menstrual period).
 

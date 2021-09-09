@@ -6,9 +6,9 @@
 
 <!-- neisseria meningitidis who receives chemoprophylaxis -->
 
-![image-20200823061818700](https://photos.thisispiggy.com/file/wikiFiles/image-20200823061818700.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200823061818700.png)
 
-![image-20200823062007323](https://photos.thisispiggy.com/file/wikiFiles/image-20200823062007323.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200823062007323.png)
 
 _Neisseria meningitidis_ is the most common cause of acute bacterial meningitis in children and adolescents age 2-18.  _N meningitidis_ attaches to the nasopharyngeal epithelium, where it can replicate asymptomatically or cause invasive disease.  Mucosal invasion is followed by bacteremia, leading to sepsis, meningitis, or both.
 

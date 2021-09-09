@@ -98,7 +98,7 @@ The vaccines for **rotavirus** and **meningococcus** are contraindicated in case
 
 <!-- Hep B vaccine scenarios.. -->
 
-![_](https://i.imgur.com/XTN3l6e.png)
+![](https://i.imgur.com/XTN3l6e.png)
 
 - prevent vertical transmission via IVIG and hep B vaccine immediately (**both within 12 hours**)
 - mom -: start Hep B series
@@ -108,7 +108,7 @@ The vaccines for **rotavirus** and **meningococcus** are contraindicated in case
 
 <!-- Dtap vs Tdap doses and when.. -->
 
-![_](https://i.imgur.com/rcWx69r.png)
+![](https://i.imgur.com/rcWx69r.png)
 
 - DTaP: 5 doses. Big D = bigger dose
 - TdaP: 1 dose after 11, every 10 years
@@ -118,7 +118,7 @@ The vaccines for **rotavirus** and **meningococcus** are contraindicated in case
 
 <!-- HiB vaccine given why.. -->
 
-![_](https://i.imgur.com/6QVsgbX.png)
+![](https://i.imgur.com/6QVsgbX.png)
 
 - Getting Hib does not give immunity
 
@@ -126,20 +126,20 @@ The vaccines for **rotavirus** and **meningococcus** are contraindicated in case
 
 <!-- MMRV vaccine given when.. -->
 
-![_](https://i.imgur.com/nqn72Ta.png)
+![](https://i.imgur.com/nqn72Ta.png)
 
 ## Pneumococcal
 
 <!-- pneumococcal vaccine -->
 
-![_](https://i.imgur.com/JA1izTI.png)
+![](https://i.imgur.com/JA1izTI.png)
 
 - mostly for adults
 - kids: if sickle cell or asplenic
 
 ## Meningitis
 
-![_](https://i.imgur.com/QWJXd8p.png)
+![](https://i.imgur.com/QWJXd8p.png)
 
 - every one gets, especially if shared space (college, military)
 
@@ -147,19 +147,19 @@ The vaccines for **rotavirus** and **meningococcus** are contraindicated in case
 
 <!-- HPV vaccine population.. -->
 
-![_](https://i.imgur.com/0x0pu0l.png)
+![](https://i.imgur.com/0x0pu0l.png)
 
 ## Hep A, B
 
 <!-- Hep A vs B vaccine.. -->
 
-![_](https://i.imgur.com/Lr0q1sX.png)
+![](https://i.imgur.com/Lr0q1sX.png)
 
 ## Flu
 
 <!-- ignore -->
 
-![_](https://i.imgur.com/INfRXwD.png)
+![](https://i.imgur.com/INfRXwD.png)
 
 # Diseases shouldn't see
 
@@ -176,7 +176,7 @@ The vaccines for **rotavirus** and **meningococcus** are contraindicated in case
 
 <!-- managing tetanus wound.. -->
 
-![_](https://i.imgur.com/gbws6sm.png)
+![](https://i.imgur.com/gbws6sm.png)
 
 - dirty wound: metal, dirt, feces, soil, saliva
 - if more than 10 years since last dose: give tdap. Can also use Td

@@ -12,4 +12,4 @@ Prolonged glucocorticoid use is generally avoided due to side effects.  However,
 
 Low bone mass associated with **osteoporosis** increases the risk for fractures.  Any pressure (eg, coughing, bending) or minor trauma can result in a pathologic fracture, and vertebral compression fractures are among the most common.  Localized back pain that worsens with movement is typical for these fractures, as seen in this patient.  Dual-energy x-ray absorptiometry is used to diagnose osteoporosis and predict fracture risk.  Supplemental calcium and vitamin D are recommended to optimize bone health.
 
-![20200908203446_13](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_13.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_13.png)

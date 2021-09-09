@@ -20,4 +20,4 @@ Osteosarcoma
 - diagnosis: sunburst on xray, MRI, biopsy
 - treatment: resection
 
-![_](https://i.imgur.com/zRCE2NQ.png)
+![](https://i.imgur.com/zRCE2NQ.png)

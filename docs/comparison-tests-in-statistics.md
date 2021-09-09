@@ -8,7 +8,7 @@
 
 <!-- comparing variables -->
 
-![image-20200704101844589](https://photos.thisispiggy.com/file/wikiFiles/image-20200704101844589.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200704101844589.png)
 
 - The  **Two-sample t test** (also called Student's t test) is commonly employed to compare means of **two independent groups**. The basic requirements needed to perform this test are the two mean values, the sample variances, and the sample size. The t statistic is then obtained to calculate the p  value.
 - The **Paired t test is** also used to compare two means but unlike the  Student's t test it is used in situations where the **means are  dependent**. A typical situation is described in Question #3: two means  from the **same individual** (baseline BMI and BMI after treatment) are  compared.

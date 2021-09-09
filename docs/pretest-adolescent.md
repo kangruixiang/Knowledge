@@ -109,7 +109,7 @@ shoulder injuries are the most common type of problem seen. Rotator cuff tendini
 
 head and neck injuries are not uncommon, but, fortunately, serious injuries are rare. Knee injuries such as anterior cruciate, posterior cruciate, and collateral ligament tears do occur. In addition, turf toe, injury to the first metatarsophalangeal joint, is seen when play is on artificial turf.,
 
-![_](https://i.imgur.com/ZMsH3Vf.png)
+![](https://i.imgur.com/ZMsH3Vf.png)
 
 ## Basketball and volleball
 
@@ -123,7 +123,7 @@ tend to produce lower extremity problems, including those of the knee, with such
 
 frequently muscle strains in the hamstrings, adductors, soleus, and gastrocnemius muscles. Runner’s knee, anterior knee pain because of patellofemoral stress, is also seen.,
 
-![_](https://i.imgur.com/WhxVc6D.png)
+![](https://i.imgur.com/WhxVc6D.png)
 
 ## Ballet
 
@@ -143,7 +143,7 @@ frequently seen in the upper extremities, especially shoulder subluxation, and i
 
 Thumb injuries during a fall, abduction and hyperextension of the thumb, causing a sprain of the ulnar collateral ligament, remains the most common injury seen.,
 
-![_](https://i.imgur.com/SY1soZu.png)
+![](https://i.imgur.com/SY1soZu.png)
 
 ## Hockey
 

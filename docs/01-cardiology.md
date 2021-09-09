@@ -114,7 +114,7 @@ The type of diagnostic testing that is appropriate for a given patient is depend
 
 The pre-test probability of coronary artery disease is described in the **attached chart**. _As a reminder, the pre-test probability affects the false negative and false positive rates. Low probability patients are more likely to have a falsely positive test, while high probability patients are more likely to have a false negative. This is why patients with low pre-test probability for CAD are not screened._
 
-![img](https://d1z5u0o8hhxg72.cloudfront.net/attachments/files/14155/original.png?1472597462)
+![](https://d1z5u0o8hhxg72.cloudfront.net/attachments/files/14155/original.png?1472597462)
 
 - Typical: substernal pain, increased with exersion, relieved by rest/nitrate
 - Atypical: 2 of 3
@@ -190,9 +190,9 @@ The EKG in a STEMI changes over time. _It is important to recognize that these c
 - **Pathologic Q waves** develop as myocardium dies.
 - In patients who do not achieve reperfusion, **persistent T wave inversions** develop in the region of the infarct, but the **ST segment returns to baseline**
 
-![Image result for j point elevation](https://lifeinthefastlane.com/wp-content/uploads/2011/03/jpoint.jpg)
+![](https://lifeinthefastlane.com/wp-content/uploads/2011/03/jpoint.jpg)
 
-![Image result for j point elevation](https://lifeinthefastlane.com/wp-content/uploads/2011/03/Fish-hook-BER.jpg)
+![](https://lifeinthefastlane.com/wp-content/uploads/2011/03/Fish-hook-BER.jpg)
 
 Territorial ST-segment elevation typically reflects **transmural ischemia.**
 

@@ -8,7 +8,7 @@
 
 <!-- thyroid nodules management -->
 
-![Thyroid nodules work up](https://www.uworld.com/media/L8053.jpg)
+![](https://www.uworld.com/media/L8053.jpg)
 
 Patients with thyroid nodules >1 cm should be evaluated based on their cancer risk factors (eg, family history, past radiation exposure, cervical  lymphadenopathy), compressive symptoms (eg, hoarseness, difficulty  swallowing), and thyroid functional status (ie, euthyroid, hyperthyroid, or hypothyroid). In general, an **ultrasound of the thyroid** should be obtained first. Patients with suspicious ultrasound findings (eg, hypoechoic, microcalcifications, internal vascularity) or cancer  risk factors should undergo **fine-needle aspiration (FNA)**. Measurement of serum **TSH** can further stratify the risk of malignancy in patients with a thyroid  nodule. Patients with normal or elevated TSH levels have a higher risk  of malignancy and should be evaluated with FNA.
 

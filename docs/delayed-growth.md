@@ -11,7 +11,7 @@
 
 <!-- constitutional delay sx, rx -->
 
-![image-20200826092230108](https://photos.thisispiggy.com/file/wikiFiles/image-20200826092230108.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200826092230108.png)
 
 Puberty is considered delayed if no secondary sexual characteristics (typically testicular enlargement \[>4 mL] or breast development) are present by age 14 in boys or age 12 in girls.  This patient with **short stature** but **normal growth velocity** (4-6 cm/yr) most likely has **constitutional delay of puberty**.  A family history of **"late bloomers"** would support this diagnosis; however, this history is not present in every case.  In contrast to familial short stature, in which short stature and normal growth velocity are accompanied by a normal bone age, constitutional delay is associated with a **delayed bone age** on x-ray of the wrist, as seen in this patient.  Height and pubertal development typically correlate more closely with bone age than with chronological age.
 

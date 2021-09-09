@@ -11,7 +11,7 @@
 
 <!-- craniosynostosis types .. -->
 
-![_](https://i.imgur.com/stn1FDh.png)
+![](https://i.imgur.com/stn1FDh.png)
 
 - brachycephaly: coronal closed
 - scaphocephaly: saggital closed. Most common
@@ -41,6 +41,6 @@
 
 <!-- newborn vernix is -->
 
-![_](https://i.imgur.com/2WKT5iu.png)
+![](https://i.imgur.com/2WKT5iu.png)
 
 .,

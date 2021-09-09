@@ -6,7 +6,7 @@
 
 <!-- vaginal foreign body symptoms -->
 
-![image-20191205162238301](https://photos.thisispiggy.com/file/wikiFiles/image-20191205162238301.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20191205162238301.png)
 
 This **prepubertal girl** likely has a **vaginal foreign body**, a common cause of vaginitis in this patient population. Toilet paper is a common vaginal foreign body; other retained objects include small toys and rubber bands. When the foreign body becomes retained in the vagina, it irritates the vaginal mucosa and results in **intermittent vaginal bleeding** and a chronic, **malodorous vaginal discharge**. Patients typically have **no vulvar symptoms** (eg, pruritus, erythema, lacerations) and an otherwise normal examination.
 

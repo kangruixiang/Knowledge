@@ -6,7 +6,7 @@
 
 <!-- concussion management -->
 
-![image-20200826073013452](https://photos.thisispiggy.com/file/wikiFiles/image-20200826073013452.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200826073013452.png)
 
 **Concussion** is a mild traumatic brain injury caused by axonal shearing from rapid rotational acceleration of the brain during a fall or strike to the head.  Children and adolescents playing contact sports (eg, soccer) are at increased risk for concussions.
 

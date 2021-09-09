@@ -8,7 +8,7 @@
 
 <!--  types of cranial hematomas, cause, sx, rx -->
 
-![20200903213254_9](https://photos.thisispiggy.com/file/wikiFiles/20200903213254_9.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200903213254_9.png)
 
 ## Caput succedaneum
 
@@ -24,7 +24,7 @@ Caput:
 	- usually serous fluid but can have blood
 - treatment: resolves over the first few days. Observe
 
-![_](https://i.imgur.com/OaKe9sU.png)
+![](https://i.imgur.com/OaKe9sU.png)
 
 ## Cephalhematoma
 
@@ -39,7 +39,7 @@ Cephalohematoma:
 	- Can calcify or ossify leading to skull deformation
 - treatment: observe. Resolve in weeks to months
 
-![_](https://i.imgur.com/6msPbvt.png)
+![](https://i.imgur.com/6msPbvt.png)
 
 ## Subgaleal
 

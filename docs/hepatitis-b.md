@@ -6,9 +6,9 @@
 
 - related: [[GI]], [[hepatitis b vaccine]], [[hep B post exposure management]], [[Perinatal Hep B]]
 
-![20210412085031](https://photos.thisispiggy.com/file/wikiFiles/20210412085031.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210412085031.png)
 
-![image-20200225201016078](https://photos.thisispiggy.com/file/wikiFiles/image-20200225201016078.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200225201016078.png)
 
 ## Acute Infection
 
@@ -70,7 +70,7 @@
 	- usually from immunosuppression
 	- seroconversion from HBsAg- to +
 
-![20210412085201](https://photos.thisispiggy.com/file/wikiFiles/20210412085201.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210412085201.png)
 
 Treatment is advised for patients with acute liver failure, infection in the immune-active phase or reactivation phase, and cirrhosis, and in selected immunosuppressed patients. First-line treatment is entecavir or tenofovir. Lamivudine, adefovir, and telbivudine are less commonly used due to resistance. Pegylated interferon can be used for 48 weeks in patients with high ALT levels, low HBV DNA levels, and without cirrhosis. Candidates for interferon are those who have a desire for finite therapy, are not pregnant, and do not have significant psychiatric disease, cardiac disease, seizure disorder, cytopenia, or autoimmune disease.
 

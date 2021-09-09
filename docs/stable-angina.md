@@ -26,14 +26,14 @@
 - step 1: determine pretest likelihood
 - baseline ECG to rule out ischemia and guide stress test choice
 
-![20210501155041](https://photos.thisispiggy.com/file/wikiFiles/20210501155041.png)
-![20210501155122](https://photos.thisispiggy.com/file/wikiFiles/20210501155122.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210501155041.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210501155122.png)
 
 Stress testing is most useful in patients with an intermediate probability of CAD; however, when the pretest probability of CAD is high, testing may provide prognostic information. Other diagnoses should be pursued in patients with normal findings on stress testing. If the stress test yields abnormal results, additional evaluation should be considered.
 
 ### General Approach to Treatment of Stable Angina Pectoris
 
-![20210501155654](https://photos.thisispiggy.com/file/wikiFiles/20210501155654.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210501155654.png)
 
 - lifestyle: regular exercise, stop smoking, weight loss, dietary change, blood pressure goal < 130/80, DM control
 - cardioprotective meds to halt progression

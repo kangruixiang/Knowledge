@@ -20,9 +20,9 @@
 - alcoholism: klebsiella
 - MRSA: patients with HCAP. After influenza. Bilateral, necrotizing infection.
 
-![image-20191029160657786](https://photos.thisispiggy.com/file/wikiFiles/image-20191029160657786.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20191029160657786.png)
 
-![image-20191029160719636](https://photos.thisispiggy.com/file/wikiFiles/image-20191029160719636.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20191029160719636.png)
 
 ## Diagnosis
 

@@ -24,4 +24,4 @@
 
 Most experts recommend periodic (eg, every 3-5 years)  reassessment with DXA for postmenopausal women with osteopenia.
 
-![image-20200225201144239](https://photos.thisispiggy.com/file/wikiFiles/image-20200225201144239.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200225201144239.png)

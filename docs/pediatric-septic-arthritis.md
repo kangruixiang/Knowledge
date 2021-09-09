@@ -8,7 +8,7 @@
 
 <!-- pediatric septic joint criteria, risks, sx, rx -->
 
-![image-20200119203514265](https://photos.thisispiggy.com/file/wikiFiles/image-20200119203514265.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200119203514265.png)
 
 **Septic arthritis** is a joint infection that frequently involves the **hip** or knee in young children. Most cases occur in healthy children, but patients with immunodeficiencies, prior joint surgery, hemoglobinopathies, juvenile idiopathic arthritis, and diabetes mellitus are at increased risk.
 

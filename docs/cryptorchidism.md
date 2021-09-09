@@ -20,4 +20,4 @@
 	- decreases testicular torsion
 	- cancer risk decreased but not eliminated
 
-![20200906125013_2](https://photos.thisispiggy.com/file/wikiFiles/20200906125013_2.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200906125013_2.png)

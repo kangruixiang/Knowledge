@@ -60,7 +60,7 @@ Patients with a history of multiple episodes (recurrent major depressive  disord
 
 <!-- lithium toxicity cause, sx, rx -->
 
-![image-20200204200415962](https://photos.thisispiggy.com/file/wikiFiles/image-20200204200415962.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200204200415962.png)
 
 <!-- lithium and suicide -->
 
@@ -82,7 +82,7 @@ Psychodynamic psychotherapy, which traces problems back to their  origins in chi
 
 <!-- acute grief vs MDD -->
 
-![image-20200713163905872](https://photos.thisispiggy.com/file/wikiFiles/image-20200713163905872.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200713163905872.png)
 
 This patient's tearfulness, insomnia, poor appetite, weight loss,  hallucinations of her recently deceased husband, and wish that she had  died instead are consistent with **normal grief**.  Acute grief shares many symptoms with major depression (eg, sadness,  anhedonia, sleep and appetite disturbance, impaired concentration), but  the sadness is less persistent and does not involve low self-esteem,  excessive guilt, or active suicidal ideation. **Management** of **acute grief** includes expressing **empathy, education** about the range of typical grief symptoms, and **monitoring**.  Patients without mental disorders should be reassured that transient  hallucinations are also consistent with acute grief and are not  psychotic.
 

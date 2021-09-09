@@ -48,7 +48,7 @@ Perimenopause describes menstrual cycles becoming inconsistent, resulting in oli
 
 # Tanner Staging
 
-![mage-20180410074628](https://photos.thisispiggy.com/file/wikiFiles/image-201804100746286.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-201804100746286.png)
 
 The **Tanner staging** system describes **physical development based on external primary and secondary sexual characteristics**.
 

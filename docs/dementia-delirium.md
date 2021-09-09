@@ -61,7 +61,7 @@ Causes of delirium (**AEIOU TIPS**):
 The 1st line treatment of delirium is **antipsychotics**. The underlying cause must be treated as well after acute stabilization.
 (Note: The only type of delirium treated by benzodiazepines is delirium tremens!)
 
-![_](https://i.imgur.com/ksJCfC2.png)
+![](https://i.imgur.com/ksJCfC2.png)
 
 # Dementia
 

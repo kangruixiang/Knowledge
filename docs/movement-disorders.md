@@ -6,7 +6,7 @@
 
 <!-- acute dystonic reaction from antipsychotics treatment -->
 
-![image-20200225200235642](https://photos.thisispiggy.com/file/wikiFiles/image-20200225200235642.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200225200235642.png)
 
 This patient is experiencing an **acute dystonic reaction** manifested by **torticollis** and an **oculogyric crisis** (forced, sustained elevation of the eyes in an upward position). Acute dystonia is a type of **extrapyramidal symptom** (EPS) that develops within hours to days of starting or dose escalation of **antipsychotics**.  This patient's risk factors include young age, male sex, and use of a  high-potency, first-generation antipsychotic (haloperidol). Other types of EPS include akathisia (inner restlessness) and drug-induced  parkinsonism (tremor, rigidity, bradykinesia, masked facies).
 

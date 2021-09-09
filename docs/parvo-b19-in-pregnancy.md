@@ -12,4 +12,4 @@ Pregnant women with known exposures or symptoms suggestive of parvovirus B19 inf
 
 Parvovirus B19 is toxic to fetal red blood cell precursors and can lead to fetal anemia and hydrops fetalis.  Pregnant women with active parvovirus B19 are at risk for fetal loss when infection occurs at <20 weeks gestation.  Untreated, severe fetal hydrops can result in fetal demise; therefore, pregnant women with an active parvovirus infection undergo periodic ultrasonography to evaluate for anemia and hydrops fetalis.  Severe anemia is treated with intrauterine fetal transfusion.
 
-![20200909203145_7](https://photos.thisispiggy.com/file/wikiFiles/20200909203145_7.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200909203145_7.png)

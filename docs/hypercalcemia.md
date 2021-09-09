@@ -6,7 +6,7 @@
 
 <!-- hypercalcemia workup -->
 
-![image-20200204193519864](https://photos.thisispiggy.com/file/wikiFiles/image-20200204193519864.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200204193519864.png)
 
 This patient has newly discovered **hypercalcemia**.  Patients with mild hypercalcemia are often asymptomatic, but common  initial manifestations may include constipation (as in this patient),  fatigue, nausea, and nephrolithiasis.
 
@@ -22,7 +22,7 @@ Urinary calcium should be measured in patients with PTH-dependent  hypercalcemia
 
 <!-- hypercalcemia of malignancy causes, mechanism, labs -->
 
-![image-20200204193807181](https://photos.thisispiggy.com/file/wikiFiles/image-20200204193807181.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200204193807181.png)
 
 The most common cause of non-parathyroid hormone (PTH)-dependent hypercalcemia is **humoral hypercalcemia of malignancy** (HHM), which is due to secretion of **PTH-related protein** (similar to PTH and binds PTH receptors). Hypercalcemia in primary  hyperparathyroidism is usually mild (calcium <12 mg/dL) and often  asymptomatic, whereas HHM is typically more acute and severe. Renal  dysfunction may occur due to dehydration from polyuria and vomiting, and hypercalcemia-induced vasoconstriction of intrarenal blood vessels.  Other causes of cancer-associated hypercalcemia include overproduction  of 1,25-dihydroxyvitamin D (eg, certain lymphomas) and bony metastases  (eg, multiple myeloma).
 

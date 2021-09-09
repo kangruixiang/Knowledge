@@ -9,8 +9,8 @@
 ## Definition
 
 - KDIGO criteria
-- ![20210224133922](https://photos.thisispiggy.com/file/wikiFiles/20210224133922.png)
-- ![20210224134136](https://photos.thisispiggy.com/file/wikiFiles/20210224134136.png)
+- ![](https://photos.thisispiggy.com/file/wikiFiles/20210224133922.png)
+- ![](https://photos.thisispiggy.com/file/wikiFiles/20210224134136.png)
 - creatinine can be affected by medication, secretion, muscle mass
 - generation of creatinine lower in septic states
 - volume resuscitation can dull change in GFR
@@ -27,10 +27,10 @@
 
 ## Indications for dialysis
 
-![20210224134748](https://photos.thisispiggy.com/file/wikiFiles/20210224134748.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210224134748.png)
 
 - urea > 150
-  ![20210224135029](https://photos.thisispiggy.com/file/wikiFiles/20210224135029.png)
+  ![](https://photos.thisispiggy.com/file/wikiFiles/20210224135029.png)
 - iHD: mostly does not require heparin during iHD inpatient unless at risk of clotting
 	- outpatient: IV heparin during dialysis due to micro clots
 - dialysis disequilibrium syndrome: urea removal too quickly
@@ -42,7 +42,7 @@
 
 ## Hyponatremia
 
-![20210224160407](https://photos.thisispiggy.com/file/wikiFiles/20210224160407.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210224160407.png)
 
 1. is it dangerous: give 3% Na
 2. know if it's true hyponatremia (serum osm)
@@ -64,7 +64,7 @@
 - diagnosis: low serum Na, high urine Na, high urine osm
 - treatment: fluid restriction
 	- 1L very little fluid
-	- ![20210224161929](https://photos.thisispiggy.com/file/wikiFiles/20210224161929.png)
+	- ![](https://photos.thisispiggy.com/file/wikiFiles/20210224161929.png)
 	- how much urine is water vs electrolytes
 	- 3% if severe or pt NPO
 	- salt tabs
@@ -86,7 +86,7 @@
 
 ## Hypernatremia
 
-![20210224163712](https://photos.thisispiggy.com/file/wikiFiles/20210224163712.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210224163712.png)
 
 - most common cause is pt not able to communicate free water loss
 - vent/trach: high insensible loss

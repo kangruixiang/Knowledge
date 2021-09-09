@@ -29,7 +29,7 @@
 	- **unusual gait** and the unprovoked **outbursts of laughter**.
 	- large mouth with tongue protrusion, hypopigmentation with **blond hair and pale blue eyes**.,
 
-![_](https://i.imgur.com/YpopIfu.png)
+![](https://i.imgur.com/YpopIfu.png)
 
 # Cri Du Chat
 
@@ -46,6 +46,6 @@
 
 - symptoms: Features include **bushy eyebrows**, hirsutism, limb defects, VSD, and mental retardation.,
 
-![_](https://i.imgur.com/vV6uk40.png)
+![](https://i.imgur.com/vV6uk40.png)
 
-![_](https://i.imgur.com/qVmjwOk.png)
+![](https://i.imgur.com/qVmjwOk.png)

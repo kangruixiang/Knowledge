@@ -97,5 +97,5 @@
 
 -
 
-![20201208124806](https://photos.thisispiggy.com/file/wikiFiles/20201208124806.png)
-![20201208123719](https://photos.thisispiggy.com/file/wikiFiles/20201208123719.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201208124806.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201208123719.png)

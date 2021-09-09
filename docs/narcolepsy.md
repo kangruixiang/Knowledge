@@ -8,14 +8,14 @@
 
 <!-- narcolepsy sx -->
 
-![image-20200310211337671](https://photos.thisispiggy.com/file/wikiFiles/image-20200310211337671.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200310211337671.png)
 
 - Sx include: fragmented sleep, hypnagogic hallucinations, sudden onset of sleep during day
 - Population: teen to late 20s
 
 <!-- narcolepsy diagnosis -->
 
-![image-20200310211337671](https://photos.thisispiggy.com/file/wikiFiles/image-20200310211337671.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200310211337671.png)
 
 - Diagnosed by sleep study/polysomnography
 	- multiple spontaneous awakenings

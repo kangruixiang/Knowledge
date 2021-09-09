@@ -6,7 +6,7 @@
 
 <!-- palpable breast mass management -->
 
-![20200901071741](https://photos.thisispiggy.com/file/wikiFiles/20200901071741.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200901071741.png)
 
 A firm, **palpable breast mass** with **ill-defined** borders is concerning for malignancy.  Additional clinical features suggestive of malignancy include an **immobile** mass with associated lymphadenopathy, expressed nipple discharge, skin changes, or new-onset nipple inversion.  However, history and physical examination are not sufficient for diagnosing or excluding malignancy in patients with breast masses, so diagnosis requires further evaluation with imaging.
 

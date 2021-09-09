@@ -8,7 +8,7 @@
 
 <!-- ABPA is, cause, sx, dx, rx -->
 
-![image-20200827080709170](https://photos.thisispiggy.com/file/wikiFiles/image-20200827080709170.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200827080709170.png)
 
 - patients: underlying asthma, CF
 - pathogenesis: sensitization to aspergillus, intense IgE and IgG mediated immune response

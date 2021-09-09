@@ -25,10 +25,10 @@
 	- full respiratory support
 	- clinician control inspiratory pressure or volume
 	- tachypneic patient: air trapping or respiratory alkalosis, problem in asthma/copd
-	- ![20210428203818](https://photos.thisispiggy.com/file/wikiFiles/20210428203818.png)
+	- ![](https://photos.thisispiggy.com/file/wikiFiles/20210428203818.png)
 	- 4th breath: deflection, triggered by patient
 - SIMV: synchronized intermittent mandatory ventilation. Device gives pre-specified volume or pressure for set RR. Patient then takes spontaneous breaths in between
-	- ![20210428204008](https://photos.thisispiggy.com/file/wikiFiles/20210428204008.png)
+	- ![](https://photos.thisispiggy.com/file/wikiFiles/20210428204008.png)
 	- pro: takes over full work of breathing, allows more spontaneous breathing, may help with weaning
 	- cons: patient fatigue if RR or pressure support too low
 
@@ -44,7 +44,7 @@
 - Barotrauma: PEEP: 5-10 cm H2O
 - Atelectotrauma: maintain plateau pressure < 30 cm H2O
 	- plateau pressure surrogate for transpulmonary pressure as pleural pressure negligible
-	- ![20210428204816](https://photos.thisispiggy.com/file/wikiFiles/20210428204816.png)
+	- ![](https://photos.thisispiggy.com/file/wikiFiles/20210428204816.png)
 
 ## ARDS
 
@@ -73,7 +73,7 @@
 		- if plateau > 30 and pH > 7.25: decrease TV
 		- if plateau > 30 and pH < 7.25: cautious decrease in PEEP
 - PEEP
-	- ![20210428205804](https://photos.thisispiggy.com/file/wikiFiles/20210428205804.png)
+	- ![](https://photos.thisispiggy.com/file/wikiFiles/20210428205804.png)
 
 ## mechanical ventilation and hemodynamics
 
@@ -85,7 +85,7 @@
 	- decrease venous return => decrease preload
 	- compress pulmonary vasculature => increase RV afterload
 	- LV afterload decreased
-- ![20210428210309](https://photos.thisispiggy.com/file/wikiFiles/20210428210309.png)
+- ![](https://photos.thisispiggy.com/file/wikiFiles/20210428210309.png)
 	- PEEP can be bad for pt preload sensitive (RV dysfunction)
 	- PEEP decreases LV afterload: good for MR or dilated LV
 	- RV volume/pressure overload: pushes into LV, PEEP can cause less preload and less push into LV

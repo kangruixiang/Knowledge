@@ -6,7 +6,7 @@
 
 <!-- Gaucher disease cause, sx, rx -->
 
-![image-20200718090443159](https://photos.thisispiggy.com/file/wikiFiles/image-20200718090443159.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200718090443159.png)
 
 This patient had a significant transverse tibial  shaft fracture following relatively minor trauma (eg, tripping),  consistent with a pathologic fracture. Given his "growing pains,"  splenomegaly, anemia, and thrombocytopenia, this presentation raises  suspicion for **Gaucher disease** (GD).
 

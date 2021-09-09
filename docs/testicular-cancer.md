@@ -6,7 +6,7 @@
 
 <!-- testicular cancer pt, sx, dx, rx, prognosis -->
 
-![image-20200828073123368](https://photos.thisispiggy.com/file/wikiFiles/image-20200828073123368.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200828073123368.png)
 
 This patient has a firm, uniformly enlarged testicle that does not transilluminate, raising concern for **testicular cancer**.
 

@@ -6,7 +6,7 @@
 
 <!-- pseudofolliculitis barbae cause, sx, rx -->
 
-![image-20200823061703140](https://photos.thisispiggy.com/file/wikiFiles/image-20200823061703140.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200823061703140.png)
 
 This patient has small, painful papules in the beard area consistent with **pseudofolliculitis barbae** (PB).  PB is caused by **penetration of the hair shaft** into interfollicular skin, either through the lateral wall of the follicle (transfollicular penetration) or by curving back down into the skin after exiting the follicle (extrafollicular penetration).  PB occurs in all ethnic groups but is most prevalent in black men who have **tightly curled facial hair**.  Shaving with a multiblade razor, which cuts hair below the skin surface and leaves an angled tip to the hair shaft, further increases the risk.
 

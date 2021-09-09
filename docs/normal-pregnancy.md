@@ -10,15 +10,15 @@
 
 <!-- types of twins -->
 
-![image-20200224201033592](https://photos.thisispiggy.com/file/wikiFiles/image-20200224201033592.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200224201033592.png)
 
 ## Pemphigoid gestionis
 
 <!-- herpes gestionis is, sx -->
 
-![image-20200128200535369](https://photos.thisispiggy.com/file/wikiFiles/image-20200128200535369.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200128200535369.png)
 
-![image-20200128200627691](https://photos.thisispiggy.com/file/wikiFiles/image-20200128200627691.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200128200627691.png)
 
 **Pemphigoid gestationis** (previously called herpes gestationis) is an **autoimmune disease** that typically presents in the second or third trimester with pruritus that precedes a truncal rash. The characteristic rash of pemphigoid gestationis begins as **periumbilical, urticarial papules and plaques** that develop into vesicles and **bullae**. The rash spreads over the entire body but spares the mucous membranes. Diagnosis is clinical but can be confirmed by skin biopsy.
 

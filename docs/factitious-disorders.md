@@ -27,7 +27,7 @@ Factitious disorder by proxy is the simulation of illness in another person, suc
 
 ## Diagnosis
 
-![_](https://i.imgur.com/BNnyuEQ.png)
+![](https://i.imgur.com/BNnyuEQ.png)
 
 # Malingering
 
@@ -37,11 +37,11 @@ A malingering patient will generally refuse a good prognosis. Their complaints a
 
 <!-- malingering patient demographics.. -->
 
-![_](https://i.imgur.com/Mf5JM8d.png)
+![](https://i.imgur.com/Mf5JM8d.png)
 
 <!-- malingering patient presentation.. -->
 
-![_](https://i.imgur.com/xjh48sf.png)
+![](https://i.imgur.com/xjh48sf.png)
 
 # Physiological Gain
 
@@ -85,11 +85,11 @@ In contrast, patients with illness anxiety disorder fear having a specific illne
 
 Illnexx anxiety:
 
-![_](https://i.imgur.com/14AcIQH.png)
+![](https://i.imgur.com/14AcIQH.png)
 
 <!-- somatic symptoms vs panic vs schizophrenic.. -->
 
-![_](https://i.imgur.com/w1QZ3HX.png)
+![](https://i.imgur.com/w1QZ3HX.png)
 
 <!-- somatic symptoms treatment.. -->
 
@@ -99,9 +99,9 @@ Providing reassurance or repeated explanations is minimally effective as these p
 
 <!-- ignore.. -->
 
-![_](https://i.imgur.com/8iHyjs9.png)
+![](https://i.imgur.com/8iHyjs9.png)
 
-![_](https://i.imgur.com/YAv4HlB.png)
+![](https://i.imgur.com/YAv4HlB.png)
 
 # Illness Anxiety
 

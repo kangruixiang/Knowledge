@@ -6,7 +6,7 @@
 
 - related: [[Psychiatry]]
 
-![20200908203446_20](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_20.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_20.png)
 
 **First-line** treatment for **anorexia nervosa (AN)** involves **psychotherapy** and **nutritional rehabilitation** (establishing a structured and consistent meal pattern).  Pharmacotherapy is not an initial or primary treatment of AN and is generally used as an adjunct in treatment-resistant cases.
 

@@ -6,7 +6,7 @@
 
 <!-- levothyroxine interactions that include absorption, TBG concentration, thyroid hormone metabolism -->
 
-![image-20191224095821634](https://photos.thisispiggy.com/file/wikiFiles/image-20191224095821634.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20191224095821634.png)
 
 **Levothyroxine** has a **narrow therapeutic index**, and bioavailability is sensitive to a number of dietary factors. To  ensure adequate and consistent absorption, levothyroxine should be  administered on an empty stomach with water at least 30-60 minutes  before breakfast. In addition, a number of medications, including  over-the-counter drugs, **interfere** with the absorption of levothyroxine and must be administered at separate times to allow for proper uptake of the medication.
 

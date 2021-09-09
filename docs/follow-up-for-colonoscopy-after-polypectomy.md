@@ -6,7 +6,7 @@
 
 <!-- follow ups for colonoscopy after polypectomy -->
 
-![image-20191201193927925](https://photos.thisispiggy.com/file/wikiFiles/image-20191201193927925.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20191201193927925.png)
 
 Adenomatous colon polyps are considered to have malignant potential. Although not all adenomatous polyps will become malignant, they may demonstrate a typical progression from dysplasia to carcinoma _in situ_ and finally adenocarcinoma. Patients at average risk are advised to undergo screening colonoscopy at 10-year intervals, but patients with adenomatous polyps are at increased risk for future colon cancer and require more frequent follow-up colonoscopy.
 

@@ -12,7 +12,7 @@ Most patients found to have MAT present with **symptoms of an underlying pulmona
 
 The best diagnostic test is an **electrocardiogram (ECG)**, which will show an **_(irregularly) irregular_ rhythm** with an \*\*atrial rate greater than 100 bpm \*\*and **at least 3 _morphologically distinct_ P waves on the _same lead_**.
 
-![image-20200827071118138](https://photos.thisispiggy.com/file/wikiFiles/image-20200827071118138.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200827071118138.png)
 
 An ECG of MAT has the following defining features:
 

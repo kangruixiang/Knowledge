@@ -8,13 +8,13 @@
 
 Antidepressant dosing and brand name:
 
-![20201216133949](https://photos.thisispiggy.com/file/wikiFiles/20201216133949.png)
-![20201216133906](https://photos.thisispiggy.com/file/wikiFiles/20201216133906.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201216133949.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201216133906.png)
 
 Algorithm for depression treatment:
 
-![20201216134122](https://photos.thisispiggy.com/file/wikiFiles/20201216134122.png)
-![20201216134308](https://photos.thisispiggy.com/file/wikiFiles/20201216134308.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201216134122.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201216134308.png)
 
 - CT: cognitive behavior therapy
 - No huge difference after failing first SSRI
@@ -32,12 +32,12 @@ Algorithm for depression treatment:
 - Prozac: very long acting, can be too activating in elderly
 - weight gain:
 
-![20201216140026](https://photos.thisispiggy.com/file/wikiFiles/20201216140026.png)
-![20201216135455](https://photos.thisispiggy.com/file/wikiFiles/20201216135455.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201216140026.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201216135455.png)
 
 ## Sleep
 
-![20201216135937](https://photos.thisispiggy.com/file/wikiFiles/20201216135937.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201216135937.png)
 
 - doxepin low dose can also help
 
@@ -47,5 +47,5 @@ Algorithm for depression treatment:
 - second line: benzos
 	- useful for quick relief while waiting for SSRI to work
 
-![20201216140514](https://photos.thisispiggy.com/file/wikiFiles/20201216140514.png)
-![20201216140701](https://photos.thisispiggy.com/file/wikiFiles/20201216140701.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201216140514.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201216140701.png)

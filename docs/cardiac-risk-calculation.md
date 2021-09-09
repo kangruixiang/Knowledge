@@ -6,9 +6,9 @@
 
 <!-- cardiac risk stratification for noncardiac surgery -->
 
-![image-20200305195929169](https://photos.thisispiggy.com/file/wikiFiles/image-20200305195929169.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200305195929169.png)
 
-![image-20200305200005862](https://photos.thisispiggy.com/file/wikiFiles/image-20200305200005862.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200305200005862.png)
 
 Determining **perioperative cardiovascular risk** requires consideration of the type of surgery being performed as well  as the clinical comorbidities and functional status of the patient. The level of risk associated with the particular noncardiac surgery should  be considered first; patients undergoing **low-risk surgeries** (eg, breast or cataract surgery) have **<1% risk** of experiencing cardiac death or nonfatal myocardial infarction (MI).  In the absence of acutely active cardiac disease (eg, decompensated  heart failure, unstable angina), patients undergoing these low-risk  surgeries **require no further cardiac workup** regardless of underlying comorbidities.
 

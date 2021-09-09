@@ -4,7 +4,7 @@
 
 # Alternative Medicine
 
-![image-20200831090639236](https://photos.thisispiggy.com/file/wikiFiles/image-20200831090639236.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200831090639236.png)
 
 <!-- herbal supplements uses and side effects -->
 
@@ -18,4 +18,4 @@ Hypercholesterolemia is sometimes treated with garlic preparations; however, the
 
 Osteoarthritis is often treated with glucosamine and chondroitin.  Although these agents appear to be safe, studies demonstrating their clinical benefit are limited.
 
-![image-20200901074628928](https://photos.thisispiggy.com/file/wikiFiles/image-20200901074628928.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200901074628928.png)

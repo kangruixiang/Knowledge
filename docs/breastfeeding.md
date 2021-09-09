@@ -6,7 +6,7 @@
 
 <!-- breastfeeding CI -->
 
-![image-20200310210635357](https://photos.thisispiggy.com/file/wikiFiles/image-20200310210635357.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200310210635357.png)
 
 Breast milk is the optimal form of infant nutrition due to its immunologic properties; however, breastfed infants are at risk of **postnatal HIV acquisition**. In the United States and other industrialized countries with access to clean water for formula, women with HIV are advised to formula-feed their infants.
 

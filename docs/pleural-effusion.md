@@ -98,9 +98,9 @@
 
 <!-- Light criteria causes -->
 
-![image-20200128194948762](https://photos.thisispiggy.com/file/wikiFiles/image-20200128194948762.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200128194948762.png)
 
-![20200909203145_2](https://photos.thisispiggy.com/file/wikiFiles/20200909203145_2.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200909203145_2.png)
 
 ## Malignant pleural effusion
 

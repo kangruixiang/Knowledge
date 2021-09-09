@@ -6,7 +6,7 @@
 
 - related: [[Pediatric]]
 
-![20200907203433_4](https://photos.thisispiggy.com/file/wikiFiles/20200907203433_4.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200907203433_4.png)
 
 Croup (laryngotracheitis) is a viral infection that most frequently affects children age <3.  It typically begins with a brief prodrome of rhinorrhea and fever, followed by the abrupt onset of a harsh, "barking" cough; hoarseness; and stridor.  Symptoms develop due to narrowing of the subglottic space from viral inflammation, which is classically seen on neck radiographs as the steeple sign.  Many viruses cause croup; however, the most common etiologic agent is parainfluenza.
 

@@ -6,4 +6,4 @@
 
 - related: [[GI]]
 
-![20200903213254_7](https://photos.thisispiggy.com/file/wikiFiles/20200903213254_7.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200903213254_7.png)

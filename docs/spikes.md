@@ -6,4 +6,4 @@
 
 - related: [[Medicine]], [[Psychiatry]]
 
-![20201024104142](https://photos.thisispiggy.com/file/wikiFiles/20201024104142.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201024104142.png)

@@ -8,7 +8,7 @@
 
 <!-- Bacterial vagnisos sx, dx, rx -->
 
-![image-20200218203940175](https://photos.thisispiggy.com/file/wikiFiles/image-20200218203940175.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200218203940175.png)
 
 This patient has **bacterial vaginosis** (BV) based on a **thin, malodorous vaginal discharge** and **clue cells** (eg, stippled epithelial cells) on wet mount microscopy. BV occurs when the concentration of hydrogen peroxide-producing lactobacilli in the vagina decreases and the vaginal pH increases, resulting in an **overgrowth of anaerobic vaginal flora** (eg, _Gardnerella vaginalis_, _Mycoplasma hominis_). The decreased lactobacilli concentration that leads to BV can be due to hormonal fluctuation (eg, pregnancy), menses, sexual activity, antibiotic use, or douching.
 

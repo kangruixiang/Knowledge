@@ -6,7 +6,7 @@
 
 <!-- transverse myelitis vs GBS -->
 
-![image-20200823061357863](https://photos.thisispiggy.com/file/wikiFiles/image-20200823061357863.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200823061357863.png)
 
 Transverse myelitis is an **inflammation of the spinal cord**. The term _myelitis_ refers to inflammation of the spinal cord; _transverse_ refers to the pattern of changes in sensation—there is often a  band-like sensation across the trunk of the body, with sensory changes below.
 

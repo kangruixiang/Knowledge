@@ -343,7 +343,7 @@ Gout causes an inflammatory effusion and needle-shaped, negatively birefringent 
 
 Typical findings on imaging include cortical thickening and osteolytic or mixed lytic/sclerotic lesions on x-ray as well as focally increased radiotracer uptake on bone scan.,
 
-![mage-20180318150327](https://photos.thisispiggy.com/file/wikiFiles/image-201803181503277.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-201803181503277.png)
 
 ## Ichthyosis Vulgaris
 

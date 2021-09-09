@@ -12,5 +12,5 @@ emend
 
 Dopamine: use compazine for long qtc
 
-![20201021135351](https://photos.thisispiggy.com/file/wikiFiles/20201021135351.png)
-![20201021135402](https://photos.thisispiggy.com/file/wikiFiles/20201021135402.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201021135351.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201021135402.png)

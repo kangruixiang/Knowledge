@@ -6,7 +6,7 @@
 
 <!-- PTSD vs acute stress disorder -->
 
-![image-20200831080644959](https://photos.thisispiggy.com/file/wikiFiles/image-20200831080644959.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200831080644959.png)
 
 Post-traumatic stress disorder is a stress response to a generally catastrophic experience, which is **life threatening or otherwise traumatic**.
 

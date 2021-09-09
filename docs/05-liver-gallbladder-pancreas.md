@@ -7,7 +7,7 @@
 
 ## typora-copy-images-to: ./images
 
-![image-20181017153828599](https://photos.thisispiggy.com/file/wikiFiles/image-20181017153828599.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20181017153828599.png)
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/27E26F03-8456-47FE-A25C-A80D7E09FBC1.jpg)
 

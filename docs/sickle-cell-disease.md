@@ -10,11 +10,11 @@
 
 ## Pathogenesis
 
-![_](https://i.imgur.com/mgo7ZQl.png)
+![](https://i.imgur.com/mgo7ZQl.png)
 
 ## Symptoms
 
-![image-20200822050809321](https://photos.thisispiggy.com/file/wikiFiles/image-20200822050809321.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200822050809321.png)
 
 This patient with **symmetric swelling** and **pain** of the  **hands and feet** in the setting of known **sickle cell disease** (SCD) has **dactylitis** (hand-foot syndrome). Dactylitis, resulting from  **vaso-occlusion** of the blood vessels supplying the metacarpals and  metatarsals, may be the earliest manifestation of SCD in **young  children** (ages 6 months to 4 years). Similar to other vaso-occlusive  episodes, triggers include stress, illness, temperature changes, and  dehydration. Low-grade fever may also be present in addition to pain.  Initial radiographs reveal only soft-tissue swelling; recurrent episodes can lead to a mottled appearance of the bones. Although most children  with SCD are diagnosed by hemoglobin electrophoresis on newborn  screening, the presence of dactylitis in a previously healthy child  should prompt evaluation for SCD.
 

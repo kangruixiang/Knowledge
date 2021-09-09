@@ -6,7 +6,7 @@
 
 <!-- toxoplasmosis cause, sx, dx, rx -->
 
-![image-20200901075129508](https://photos.thisispiggy.com/file/wikiFiles/image-20200901075129508.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200901075129508.png)
 
 Hydrocephalus, intracranial calcifications, and hepatomegaly are signs of congenital toxoplasmosis, which is acquired by **transplacental transmission**.  Maternal infection is acquired via inadvertent ingestion of _Toxoplasma gondii_ from **cat feces**, **contaminated soil** on fruits/vegetables, or **undercooked meat**; infection rates are highest in South America, where more virulent strains exist.  Routine screening is not undertaken in the United States.
 

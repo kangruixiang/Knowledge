@@ -21,7 +21,7 @@ e---
 
 - usually 4th or 5th intercostal space
 
-![20210815133550](https://photos.thisispiggy.com/file/wikiFiles/20210815133550.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210815133550.png)
 
 1. Collection Chamber
    - collects fluid or air

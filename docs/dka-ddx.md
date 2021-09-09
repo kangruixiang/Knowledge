@@ -8,7 +8,7 @@
 
 DKA ddx:
 
-![20201208101028](https://photos.thisispiggy.com/file/wikiFiles/20201208101028.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201208101028.png)
 
 Alcoholic and fasting ketoacidosis — Alcoholic ketoacidosis (AKA) and starvation ketosis are other causes of ketoacidosis. Low-carbohydrate diets can also precipitate ketoacidosis. Metabolic acidosis can be relatively severe in patients with AKA. However, when ketoacidosis develops as a result of starvation, it is usually relatively mild. Ketoacid levels with prolonged fasting rarely exceed 8 to 10 mEq/L, and the serum bicarbonate concentration is typically greater than 17 mEq/L. More severe ketoacidosis may develop with prolonged fasting in children and pregnant women.
 

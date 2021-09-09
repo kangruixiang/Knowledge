@@ -10,7 +10,7 @@
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/L14488.jpg)
 
-![image-20200831082517092](https://photos.thisispiggy.com/file/wikiFiles/image-20200831082517092.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200831082517092.png)
 
 Prepatellar bursitis occurs with chronic irritation of the anterior knee.  Symptoms include pain with direct pressure and superficial swelling over the patella.
 

@@ -6,7 +6,7 @@
 
 <!-- neonatal polycythemia causes, sx, rx -->
 
-![image-20200225201253849](https://photos.thisispiggy.com/file/wikiFiles/image-20200225201253849.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200225201253849.png)
 
 **Neonatal polycythemia**, which affects up to 5% of newborns, is defined as a **hematocrit >65%** or hemoglobin >22 g/dL. It is most often observed at 2-3 hours of life as a result of increased hemoglobin production, possibly due to unstable newborn vasomotor factors or in response to relative uterine hypoxia. Factors that contribute to the development of polycythemia include delayed clamping of the umbilical cord, gestational diabetes, maternal hypertension, and intrauterine growth restriction.
 

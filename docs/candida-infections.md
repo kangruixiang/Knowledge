@@ -6,7 +6,7 @@
 
 <!-- candida endophthalmitis symptoms, treatments -->
 
-![image-20200223084529991](https://photos.thisispiggy.com/file/wikiFiles/image-20200223084529991.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200223084529991.png)
 
 The eye is frequently affected, and patients often have fever, decreased visual acuity, and eye pain. Funduscopic examination typically reveals focal, glistening, white, **mound-like** lesions on the retina that may extend into the vitreous, with resultant **vitreous haze**.
 

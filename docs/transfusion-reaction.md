@@ -6,13 +6,13 @@
 
 - related: [[transfusion medicine]]
 
-![image-20200215205428431](https://photos.thisispiggy.com/file/wikiFiles/image-20200215205428431.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200215205428431.png)
 
-![image-20200601203956054](https://photos.thisispiggy.com/file/wikiFiles/image-20200601203956054.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200601203956054.png)
 
-![image-20200601204012399](https://photos.thisispiggy.com/file/wikiFiles/image-20200601204012399.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200601204012399.png)
 
-![image-20200215205449578](https://photos.thisispiggy.com/file/wikiFiles/image-20200215205449578.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200215205449578.png)
 
 Leukoreduction involves reducing the number of transfused leukocytes  through filtering or other methods such as saline washing, freezing and  deglycerolizing, or buffy coat removal. It also reduces the risk of _human leukocyte antigen_ alloimmunization and transmission of cytomegalovirus (which typically  resides in leukocytes). Premedication with antipyretics and  antihistamines has not been shown to significantly reduce transfusion  reactions.
 

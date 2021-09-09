@@ -1242,7 +1242,7 @@ A physical exam finding of a **fundal height that is small for gestational age**
 
 # Placenta Accreta
 
-![img](https://i.imgur.com/eMy1Dj3.png)
+![](https://i.imgur.com/eMy1Dj3.png)
 
 **Placenta accreta** is a placental abnormality in which part or all of the placenta is implanted directly in the superficial myometrium instead of the decidua.
 
@@ -1271,7 +1271,7 @@ In this procedure, a C-section is immediately followed by an abdominal hysterect
 
 # Placenta Previa
 
-![img](https://i.imgur.com/eMy1Dj3.png)
+![](https://i.imgur.com/eMy1Dj3.png)
 
 **Placenta previa** is an improper plantation of the placenta near the cervical os, which is frequently associated with vaginal bleeding.
 
@@ -1331,7 +1331,7 @@ _Approximately 90% of placenta previas diagnosed in this manner will resolve bef
 
 # Placental Abruption
 
-![img](https://i.imgur.com/eMy1Dj3.png)
+![](https://i.imgur.com/eMy1Dj3.png)
 
 **Placental abruption** (also referred to as abruptio placentae) is a condition that occurs when the placenta prematurely separates (partial or complete) from the endometrial implantation site in the uterine wall _prior_ to delivery.
 

@@ -14,8 +14,8 @@ Treatment of mastoiditis requires **intravenous antibiotic therapy** with activi
 
 Patients should be monitored to ensure that they do not develop more severe complications due to extracranial (eg, subperiosteal abscess, hearing loss) or intracranial (eg, meningitis, brain abscess) extension.
 
-![20200903213254_4](https://photos.thisispiggy.com/file/wikiFiles/20200903213254_4.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200903213254_4.png)
 
-![20200903213254_1](https://photos.thisispiggy.com/file/wikiFiles/20200903213254_1.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200903213254_1.png)
 
-![20200903213254_2](https://photos.thisispiggy.com/file/wikiFiles/20200903213254_2.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200903213254_2.png)

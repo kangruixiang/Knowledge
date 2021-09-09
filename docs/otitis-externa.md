@@ -9,7 +9,7 @@
 
 <!-- malignant otitis externa sx, dx, rx -->
 
-![image-20200829084612379](https://photos.thisispiggy.com/file/wikiFiles/image-20200829084612379.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200829084612379.png)
 
 This patient has an acutely inflamed ear canal with purulent drainage and granulation tissue formation.  In an older patient with comorbid **diabetes** (or other immunosuppressing conditions) this is concerning for **malignant otitis externa** (MOE).  MOE usually begins as a superficial external otitis but progresses rapidly to involve the adjacent bones at the base of the skull.  A recent history of aural irrigation (ie, for cerumen disimpaction) is a common finding.
 

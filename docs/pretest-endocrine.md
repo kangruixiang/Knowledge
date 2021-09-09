@@ -41,7 +41,7 @@ isolated premature precocity:
 - Aka asphyxiating thoracic dystrophy
 - symptoms: short stature, long and narrow thorax, hypoplastic lungs, fibrotic liver, and short limbs. Death is common, a result of pneumonia or asphyxia because of the abnormally shaped thorax.,
 
-![_](https://i.imgur.com/I6TSOu9.png)
+![](https://i.imgur.com/I6TSOu9.png)
 
 ## Crouzon
 
@@ -50,7 +50,7 @@ isolated premature precocity:
 - path: autosomal dominant
 - symptoms: craniosynostosis (usually coronal), proptosis, brachycephaly, hypertelorism and strabismus, “beak” nose, midface hypoplasia, and high and narrow palate.,
 
-![_](https://i.imgur.com/5cOewWb.png)
+![](https://i.imgur.com/5cOewWb.png)
 
 ## Achondroplasia inheritance
 
@@ -90,9 +90,9 @@ case: A 15-year-old boy has been immobilized in a double hip spica cast for 6 we
 - symptoms: presents in the first months of life and includes hypothermia, **hypotonia**, and **myoclonic seizures**. These children have chubby, rosy cheeks and kinky, colorless, and **friable hair**. Severe mental retardation is always seen.
 - diagnosis: Low serum copper and ceruloplasmin levels are found.,
 
-![_](https://i.imgur.com/d67zgOr.png)
+![](https://i.imgur.com/d67zgOr.png)
 
-![_](https://i.imgur.com/BzcVv1R.png)
+![](https://i.imgur.com/BzcVv1R.png)
 
 ## Rickets
 
@@ -139,7 +139,7 @@ Medullary carcinoma of thyroid arises from the C cells of the thyroid. These tum
 
 <!-- vit D def x ray -->
 
-![_](https://i.imgur.com/cxMbmqM.png)
+![](https://i.imgur.com/cxMbmqM.png)
 
 .,
 
@@ -162,7 +162,7 @@ Medullary carcinoma of thyroid arises from the C cells of the thyroid. These tum
 - treatment: There is no known effective treatment.,
 - aka bardet biedl
 
-![_](https://i.imgur.com/VlG9HlR.png)
+![](https://i.imgur.com/VlG9HlR.png)
 
 ## Fröhlich syndrome
 
@@ -199,8 +199,8 @@ Patients with a deficiency of glucose-6-phosphatase (von Gierke disease) are, as
 
 Characterized by abnormalities in the upper extremities, hypoplastic radii, thumb abnormalities, and cardiac anomalies. Occasionally the pectoralis major muscle is missing.
 
-![_](https://i.imgur.com/SgII9RA.png)
+![](https://i.imgur.com/SgII9RA.png)
 
-![_](https://i.imgur.com/acZIxmp.png)
+![](https://i.imgur.com/acZIxmp.png)
 
 case: A newborn has low sloping shoulders, right hand attached at elbow with agenesis of the forearm, cardiac abnormalities, missing chest wall musculature, and a bifid thumb.,

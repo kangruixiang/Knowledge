@@ -6,7 +6,7 @@
 
 - related: [[General]]
 
-![20200909203145_14](https://photos.thisispiggy.com/file/wikiFiles/20200909203145_14.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200909203145_14.png)
 
 This patient has **lower urinary tract symptoms** (LUTS) (eg, urinary frequency, nocturia, hesitancy), most likely due to **benign prostatic hyperplasia** (BPH).  However, LUTS are not specific for BPH and can occur in other disorders, such as prostate or bladder cancer.  Rectal examination may help differentiate prostate cancer from BPH; nodules, induration, and asymmetry favor malignancy whereas BPH is characterized by smooth, symmetric enlargement of the prostate.
 

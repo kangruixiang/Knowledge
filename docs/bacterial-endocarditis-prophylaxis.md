@@ -6,7 +6,7 @@
 
 <!-- bacterial endocarditis prophylaxis when --> 
 
-![image-20200717142229373](https://photos.thisispiggy.com/file/wikiFiles/image-20200717142229373.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200717142229373.png)
 
 Current guidelines for the prevention of bacterial infective endocarditis (IE) recommend **antibiotic prophylaxis** for dental procedures only in patients with cardiac conditions that are associated with the **highest risk** for adverse outcomes from IE. These conditions include:
 

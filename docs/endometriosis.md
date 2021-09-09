@@ -6,7 +6,7 @@
 
 <!-- endometriosis sx, management -->
 
-![image-20200217204256577](https://photos.thisispiggy.com/file/wikiFiles/image-20200217204256577.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200217204256577.png)
 
 - Population: women 25-35, 5% to 10% of all women
 - pathogenesis: endometrial tissue outside the uterus (eg, ovaries, fallopian tubes, cul-de-sac, uterosacral ligaments).

@@ -27,6 +27,6 @@
 	- associated with TB due to impaired macrophage response
 	- bronchogenic carcinoma
 
-![20200908203446_12](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_12.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_12.png)
 
-![20200908203446_11](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_11.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_11.png)

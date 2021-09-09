@@ -6,7 +6,7 @@
 
 - related: [[Neurology]]
 
-![20200907203433_3](https://photos.thisispiggy.com/file/wikiFiles/20200907203433_3.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200907203433_3.png)
 
 ## BPPV
 

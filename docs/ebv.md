@@ -8,7 +8,7 @@
 
 <!-- mono cause, symptoms, diagnosis, management -->
 
-![image-20191205160112376](https://photos.thisispiggy.com/file/wikiFiles/image-20191205160112376.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20191205160112376.png)
 
 **Epstein-Barr virus** (EBV) is the most common causative  agent of IM and is transmitted via contact with oropharyngeal  secretions. The diagnostic test of choice in confirming EBV IM is the **heterophile antibody test**, which screens for IgM antibodies called heterophile antibodies. These  antibodies are produced in response to EBV infection and agglutinate  with erythrocytes from unrelated species (eg, horse erythrocytes in the  Monospot test, sheep erythrocytes in the classic Paul-Bunnell test).  Atypical lymphocytes are often seen on peripheral blood smears but are  not specific for IM.
 

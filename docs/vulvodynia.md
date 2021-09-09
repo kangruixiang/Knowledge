@@ -6,7 +6,7 @@
 
 <!-- vulvodynia sx, rx -->
 
-![image-20200809071004903](https://photos.thisispiggy.com/file/wikiFiles/image-20200809071004903.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200809071004903.png)
 
 **Vulvodynia** is a chronic (>3 months), **raw**, **burning vulvar pain** that occurs in the absence of a specific disorder (eg, idiopathic).  Additional features include dyspareunia, constant irritation, and  inability to wear tight-fitting clothing secondary to pain. Patients  typically have concomitant depression, irritable bowel syndrome, or  fibromyalgia. On physical examination, the external genitalia appear  normal and without lesions. Characteristic examination findings include a **positive Q-tip test** (sharp pain caused by light contact with a cotton applicator) and pain with separation of the labia.
 

@@ -6,7 +6,7 @@
 
 <!-- wallenberg syndrome symptoms -->
 
-![img](https://www.uworld.com/media/L15928.jpg)
+![](https://www.uworld.com/media/L15928.jpg)
 
 Careful assessment of a patient's signs and symptoms can help localize lesions  within the central nervous system. Lesions of the thalamus or cortex  are associated with sensory loss in the **contralateral**  face and body. Cortical lesions are also associated with specific  findings such as aphasia, neglect, or agraphesthesia. In contrast,  brainstem lesions typically involve the cranial nerves and impair  sensory perception over the **ipsilateral** face and **contralateral** body.
 

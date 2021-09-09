@@ -63,11 +63,11 @@
 
 - Low usine osm: post TURP, beer potomonia
 
-![img](http://www.uworld.com/media/L7027.jpg)
+![](http://www.uworld.com/media/L7027.jpg)
 
-![img](http://www.uworld.com/media/L21379.jpg)
+![](http://www.uworld.com/media/L21379.jpg)
 
-![img](https://photos.thisispiggy.com/file/wikiFiles/image-20190821080606702.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20190821080606702.png)
 
 ## Urinary Sodium
 
@@ -191,7 +191,7 @@ thiazide:
 
 - clinical euvolemia: absence of signs
 
-![img](https://photos.thisispiggy.com/file/wikiFiles/image-20190821080325489.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20190821080325489.png)
 
 <!-- SIADH treatment -->
 

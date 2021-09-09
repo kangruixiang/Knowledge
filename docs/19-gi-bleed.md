@@ -39,7 +39,7 @@
 	- air enema
 	- surgery if frank peritonitis, perforation, failure of air enema
 
-![_](https://i.imgur.com/d4rQgdQ.png)
+![](https://i.imgur.com/d4rQgdQ.png)
 
 - vascular supply doesn't reach tunneled part of bowel
 
@@ -71,7 +71,7 @@
 
 beets:
 
-![_](https://i.imgur.com/tuy1Wxq.png)
+![](https://i.imgur.com/tuy1Wxq.png)
 
 # Others
 

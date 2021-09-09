@@ -6,6 +6,6 @@
 
 - related: [[Allergy and Immunology]]
 
-![20210217132912](https://photos.thisispiggy.com/file/wikiFiles/20210217132912.png)
-![20210217133845](https://photos.thisispiggy.com/file/wikiFiles/20210217133845.png)
-![20210217140602](https://photos.thisispiggy.com/file/wikiFiles/20210217140602.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210217132912.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210217133845.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210217140602.png)

@@ -6,7 +6,7 @@
 
 <!-- ectopic pregnancy risks, sx, dx, management -->
 
-![image-20200203202000036](https://photos.thisispiggy.com/file/wikiFiles/image-20200203202000036.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200203202000036.png)
 
 This patient has **first-trimester vaginal bleeding** and a **positive pregnancy test**, concerning for an ectopic pregnancy. Patients with a suspected ectopic pregnancy undergo evaluation with pelvic ultrasound and a β-hCG level. An early intrauterine pregnancy can be visualized by ultrasound when the β-hCG level is above the discriminatory zone (>1500 IU/L). This patient has a level above the discriminatory zone and an ultrasound revealing an empty uterus and a **complex adnexal mass**, which are diagnostic of an **ectopic pregnancy**.
 

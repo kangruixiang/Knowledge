@@ -122,4 +122,4 @@
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/2BB7F23F-455F-4A42-9025-4112A55938B2.jpg)
 
-![img](http://www.uworld.com/media/L13480.png)
+![](http://www.uworld.com/media/L13480.png)

@@ -12,7 +12,7 @@
 - PA: same systolic, PV close and stop pressure drop at 10
 - can also take blood sample and measure O2 sat
 
-![Image result for heart chamber pressure](https://www.clicktocurecancer.info/arterial-pressure/images/2045_50_35-heart-chambers-pressures.jpg)
+![](https://www.clicktocurecancer.info/arterial-pressure/images/2045_50_35-heart-chambers-pressures.jpg)
 
 # Swan-Ganz Catheter
 

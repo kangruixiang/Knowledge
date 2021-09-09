@@ -19,7 +19,7 @@
 	- can swim but not **scuba dive** due to risk of air embolus formation and risk of fetal decompression sickness
 	- training that involves marked straining, heavy resistance, or Valsalva maneuver is not recommended as it may decrease uteroplacental blood flow temporarily.
 
-![20200906125020_1](https://photos.thisispiggy.com/file/wikiFiles/20200906125020_1.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200906125020_1.png)
 
 Exercise **contraindicated** in certain at-risk patient populations. Exercise should be avoided by:
 

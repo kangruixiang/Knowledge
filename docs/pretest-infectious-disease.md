@@ -53,14 +53,14 @@ In certain situations, such as in an infant born to an HIV-positive mother, prop
 
 Microsporum canis is an occasional cause of tinea capitis, and it **does fluoresce** under a Wood lamp.
 
-![_](https://i.imgur.com/nY415Yw.png)
+![](https://i.imgur.com/nY415Yw.png)
 
 - sprinkling salt: Diagnosed with KOH prep of skin scrapings
 - lamps in woods in trees: "Wood's lamp can be used to diagnose **Microsporum** "
 
 kerion:
 
-![_](https://i.imgur.com/MxNGLpB.png)
+![](https://i.imgur.com/MxNGLpB.png)
 
 ## Traction alopecia
 
@@ -69,7 +69,7 @@ kerion:
 - Path: typically is seen in children who have their hair tied tightly in bows or braids
 - symptoms: the hair loss is linear following the area of traction, and is often associated with regional adenopathy.,
 
-![_](https://i.imgur.com/oGKu0ZG.png)
+![](https://i.imgur.com/oGKu0ZG.png)
 
 ## Alopecia areata
 
@@ -78,9 +78,9 @@ kerion:
 - path: autoimmune
 - Symptoms: can appear similar to fungal infections, but the hairs near the active lesion often can be extracted with gentle traction resulting in an attenuated or catagen bulb at the termination of the hair shaft (exclamation hair); it does not produce a kerion as shown in the photograph.,
 
-![_](https://i.imgur.com/HxOObBs.png)
+![](https://i.imgur.com/HxOObBs.png)
 
-![_](https://i.imgur.com/nkBYQGv.png)
+![](https://i.imgur.com/nkBYQGv.png)
 
 ## Leptospirosis
 
@@ -107,7 +107,7 @@ case: A 10-year-old boy was healthy until about 10 days ago when he developed 7 
 	- Antibodies to viral capsid antigen (**VCA**) and to **anti-D** early antigen are elevated prior to the appearance of Epstein-Barr nuclear antigen (EBNA) and are therefore markers for acute infection.
 	- **IgG VCA and EBNA** persist for life, whereas anti-D disappears after 6 months.
 
-![_](https://i.imgur.com/lk8guBK.png)
+![](https://i.imgur.com/lk8guBK.png)
 
 ## Osteomyelitis
 
@@ -117,7 +117,7 @@ case: A 10-year-old boy was healthy until about 10 days ago when he developed 7 
 - symptoms: Acute osteomyelitis tends to begin abruptly, with fever and marked, localized bone tenderness that usually occurs at the **metaphysis**. Redness and swelling frequently follow.
 - diagnosis: **clinical**, **xray** shows lytic lesions. **Bone scans** with radionuclides, however, can be useful in the diagnosis of osteomyelitis within 24 to 48 hours of symptoms and in its differentiation from cellulitis and septic arthritis. Magnetic resonance imagining (**MRI**) has become more widely used for the diagnosis of osteomyelitis, as it is very sensitive and specific.
 
-![_](https://i.imgur.com/1PYKwRl.png)
+![](https://i.imgur.com/1PYKwRl.png)
 
 ## TSST
 
@@ -144,7 +144,7 @@ Has been associated with the use of tampons and nasal packing.,
 	- failure to open the duct by 6 months usually results in a referral to ophthalmology for surgical opening
 	- antibiotics to clear the infection.,
 
-![_](https://i.imgur.com/3cQUOE7.png)
+![](https://i.imgur.com/3cQUOE7.png)
 
 ## Chalazion
 
@@ -153,7 +153,7 @@ Has been associated with the use of tampons and nasal packing.,
 - Firm, nontender nodule that results from a chronic granulomatous inflammation of the meibomian gland.
 - The **Meibomian glands** are a special kind of sebaceous gland at the rim of the eyelids.,
 
-![_](https://i.imgur.com/ijGWp96.png)
+![](https://i.imgur.com/ijGWp96.png)
 
 Preseptal (periorbital) and orbital cellulitis may be distinguished by clinical examination.
 
@@ -161,7 +161,7 @@ Preseptal (periorbital) and orbital cellulitis may be distinguished by clinical 
 
 Blood in the anterior chamber of the eye.,
 
-![_](https://i.imgur.com/7T5VCkz.png)
+![](https://i.imgur.com/7T5VCkz.png)
 
 ## Puncture Wound
 

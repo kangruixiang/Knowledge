@@ -51,7 +51,7 @@
 - diagnosis: clinical and CT showing swelling of mastoid
 - treatment: surgical decompression
 
-![_](https://i.imgur.com/m7etNFw.png)
+![](https://i.imgur.com/m7etNFw.png)
 
 # Sinus
 

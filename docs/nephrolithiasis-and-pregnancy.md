@@ -6,7 +6,7 @@
 
 <!-- pregnancy, severe flank pain that radiates to labia dx, rx -->
 
-![image-20200828065252661](https://photos.thisispiggy.com/file/wikiFiles/image-20200828065252661.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200828065252661.png)
 
 This patient's **paroxysmal, severe flank pain** that **radiates to the labia** is likely due to **nephrolithiasis**.  Other clinical features of nephrolithiasis include nausea, vomiting, dysuria, hematuria, and pyuria.  During pregnancy, nephrolithiasis is most common in the second and third trimesters.  An increase in urinary calcium excretion, urinary stasis, and decreased bladder capacity predispose pregnant patients to the development of nephrolithiasis.  Additional risk factors include obesity, hyperparathyroidism, diabetes mellitus, irritable bowel syndrome, and a history of nephrolithiasis outside of pregnancy.
 

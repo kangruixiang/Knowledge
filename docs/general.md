@@ -76,7 +76,7 @@ The most important factors in matching a kidney donor to a recipient include **h
 
 <!-- brain death exams -->
 
-![img](https://photos.thisispiggy.com/file/wikiFiles/L18965.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/L18965.png)
 
 ## TURP
 
@@ -106,7 +106,7 @@ Therefore, all patients who have such polyps detected on sigmoidoscopy should ha
 
 <!-- tetanus vaccine when -->
 
-![image-20200127200708056](https://photos.thisispiggy.com/file/wikiFiles/image-20200127200708056.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200127200708056.png)
 
 Following a **mammalian bite**, the decision to administer **tetanus prophylaxis** (ie, tetanus toxoid-containing vaccine ± tetanus immune globulin) is  based on the severity of the wound and the immunization status of the  patient.
 
@@ -119,7 +119,7 @@ This child has severe wounds with evidence of contamination (eg, bite wound, spe
 
 <!-- pneumococcal vaccine schedules -->
 
-![image-20200128200131482](https://photos.thisispiggy.com/file/wikiFiles/image-20200128200131482.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200128200131482.png)
 
 The **13-valent conjugated pneumococcal vaccine (PCV13)** is recommended for all adults age >65; it should be followed by the **23-valent pneumococcal polysaccharide vaccine (PPSV23)** 6-12 months later **(Choice B)**.  Sequential PCV13 and PPSV23 are also recommended for adults age <65  with certain high risk underlying conditions (eg, cerebrospinal fluid  \[CSF] leaks, sickle cell disease, cochlear implants, congenital/acquired asplenia, immunocompromise, chronic renal failure). PPSV23 alone is  recommended for adults age <65 with other chronic medical conditions  including smoking, diabetes, heart or lung disease, and chronic liver  disease.
 
@@ -129,7 +129,7 @@ The **13-valent conjugated pneumococcal vaccine (PCV13)** is recommended for all
 
 <!-- esophageal coin ingestion management -->
 
-![image-20200713165557688](https://photos.thisispiggy.com/file/wikiFiles/image-20200713165557688.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200713165557688.png)
 
 Foreign body ingestion is common in toddlers, and **coins** are the most commonly swallowed objects. Management depends on  symptoms, time of ingestion, and the type of object ingested. Children  are not reliable historians and many events are unwitnessed. A **2-view** (posteroanterior \[PA] and lateral) neck and chest x-ray confirms the  location of the foreign body and distinguishes between a coin and  battery (the latter can cause perforation in just a few hours). A coin is seen in this patient's x-ray as a **homogenous** object with a **sharp, crisp edge**; the bilaminar structure of a button battery causes a "double-ring" sign.
 
@@ -151,9 +151,9 @@ The angiotensin II receptor blocker **losartan** has a mild **uricosuric** effec
 
 <!--varicocele sx, dx, rx, complications -->
 
-![image-20200716091041285](https://photos.thisispiggy.com/file/wikiFiles/image-20200716091041285.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200716091041285.png)
 
-![image-20200716091222595](https://photos.thisispiggy.com/file/wikiFiles/image-20200716091222595.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200716091222595.png)
 
 A **varicocele** is a tortuous dilation of veins in the pampiniform plexus surrounding  the spermatic cord and testis. It occurs in nearly 20% of postpubertal  males and presents as a soft, irregular mass ("bag of worms") that  increases in size with standing and Valsalva. Varicoceles can cause  elevated scrotal temperatures, increasing the risk for **infertility** and **testicular atrophy**. Patients with varicoceles do not have an increased risk of testicular cancer.
 
@@ -165,7 +165,7 @@ The left spermatic vein drains to the left renal vein, which then passes between
 
 <!-- acetaminophen toxicity sx, dx, rx -->
 
-![image-20200717142420452](https://photos.thisispiggy.com/file/wikiFiles/image-20200717142420452.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200717142420452.png)
 
 **Acetaminophen poisoning** can occur  from an acute intentional ingestion of a toxic dose (150 mg/kg in  children, 7.5 g in adults). Following ingestion, patients typically go  through 4 clinical stages: nonspecific symptoms or **asymptomatic** (0-24 hours), **hepatotoxicity** (24-72 hours), peak of liver function abnormalities (72-96 hours), and recovery (4-14 days).
 
@@ -181,7 +181,7 @@ Except in rare cases, gastric lavage is not recommended for gastric  decontamina
 
 <!-- obesity management --> 
 
-![image-20200717143334032](https://photos.thisispiggy.com/file/wikiFiles/image-20200717143334032.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200717143334032.png)
 
 This patient has failed to improve with an adequate  trial of dietary modification. In addition, she has continued to gain  weight and now meets the definition of **obesity** (BMI >30 kg/m2). In light of the risk of obesity-related complications, pharmacologic therapy is indicated.
 
@@ -191,7 +191,7 @@ Initial medication options for patients with obesity are listed in the flow char
 
 <!-- GBS sx, dx, rx -->
 
-![image-20200718092330205](https://photos.thisispiggy.com/file/wikiFiles/image-20200718092330205.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200718092330205.png)
 
 This patient with paresthesias, autonomic dysfunction, shortness of breath, and symmetric motor weakness likely has **Guillain-Barré syndrome (GBS)**.
 

@@ -60,7 +60,7 @@ Options for surgery include **percutaneous balloon valvuloplasty** (balloon open
 
 <!-- mitral stenosis sx, PE, dx -->
 
-![image-20200225202053528](https://photos.thisispiggy.com/file/wikiFiles/image-20200225202053528.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200225202053528.png)
 
 This patient's presentation suggests likely mitral  stenosis (MS) due to rheumatic heart disease. There is often a latency  period of 10-20 years between the initial episode of  symptomatic MS, with most patients manifesting during the 4th or 5th  decade of life.
 

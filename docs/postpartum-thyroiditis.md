@@ -16,6 +16,6 @@ However, a significant minority of patients (20%-40%) may develop persistent or 
 
 Because patients with PT are unlikely to develop chronic hyperthyroidism, there is no indication for radioiodine therapy or thyroidectomy.
 
-![image-20200718094713478](https://photos.thisispiggy.com/file/wikiFiles/image-20200718094713478.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200718094713478.png)
 
 This patient has primary **hyperthyroidism** (elevated T4, suppressed TSH). In light of her **nontender goiter** and recent **pregnancy**, this is consistent with **postpartum thyroiditis** (PT). PT (by definition occurring <1 year following pregnancy) is similar to silent thyroiditis; both are associated with **thyroid peroxidase antibody** and are considered variants of chronic lymphocytic (Hashimoto)  thyroiditis. Both PT and silent thyroiditis typically have a transient  hypothyroid phase before returning to a normal euthyroid state, whereas  most patients with classic [[Hashimoto thyroiditis]] have residual hypothyroidism.

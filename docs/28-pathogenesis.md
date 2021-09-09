@@ -429,7 +429,7 @@
 
 <!-- renal stones overview cause and treatment. Ca ox stones treatment -->
 
-![image-20200825070613953](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070613953.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070613953.png)
 
 - Dried up river deposits: all renal stones form due to supersaturation (adequate hydration is cornerstone of treatment)
 - Pale thighs: hydrochlorothiazide can help prevent calcium stone formation by increasing reabsorption of calcium in the distal tubule
@@ -440,7 +440,7 @@
 
 <!-- 2 causes of Ca ox renal stones -->
 
-![image-20200825070613953](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070613953.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070613953.png)
 
 - Milk dripping into river bed: high concentration of calcium in the renal tubule → calcium stones (calcium oxalate most common)
 - Ox in river bed: too much oxalate in the renal tubule → calcium oxalate stones
@@ -448,7 +448,7 @@
 
 <!-- hypercalciuria calcium ox stone causes -->
 
-![image-20200825070613953](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070613953.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070613953.png)
 
 - Normal milk bucket: hypercalciuria with normocalcemia → calcium stones
 - First place dairy cow: hypercalciuria with normocalcemia is the most common metabolic abnormality causing calcium stones
@@ -459,7 +459,7 @@
 
 <!-- pH, citrate, and calcium ox stones -->
 
-![image-20200825070613953](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070613953.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070613953.png)
 
 - Acid on bones: acidosis can cause hypercalciuria and calcium stones (calcium-phosphate buffer system)
 - Citrus crate with milk: citrate binds calcium in the renal tubules (soluble complex prevents stone formation
@@ -468,7 +468,7 @@
 
 <!-- other causes of calcium ox stones -->
 
-![image-20200825070613953](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070613953.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070613953.png)
 
 - Spewing mud: diarrhea can cause calcium stones (due to volume depletion, and acidemia with hypocitraturia)
 - Meat eater: high protein diets can cause calcium stones (acidemia causes hypocitraturia)
@@ -478,7 +478,7 @@
 
 <!-- oxalate and calcium ox stones -->
 
-![image-20200825070613953](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070613953.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070613953.png)
 
 - Spilling milk: decreased dietary calcium promotes calcium oxalate stone formation (due to increased GI absorption of unbound oxalate)
 - Oxen stampede: increased oxalate GI absorption (e.g. due to decreased dietary Ca2+, vegan diet, malabsorption) promotes calcium oxalate stone formation
@@ -486,7 +486,7 @@
 
 <!-- calcium phosphate stones causes -->
 
-![image-20200825070613953](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070613953.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070613953.png)
 
 - Fossil mining kids: calcium phosphate stones are the most common stone found in children
 - Acid cylinder: type 1 renal tubular acidosis (RTA) promotes calcium phosphate stone formation (acidemia, plus alkaline urine environment). Can also form with hyperparathyroidism
@@ -498,7 +498,7 @@
 
 <!-- ca stone shapes -->
 
-![image-20200825070613953](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070613953.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070613953.png)
 
 - Envelopes from ox cart: calcium oxalate crystals have an “envelope” shape on microscopy
 - Wedge shaped fossil mine car: calcium phosphate crystals have an “elongated wedge” shape on microscopy
@@ -511,7 +511,7 @@
 
 <!-- MAP stone is, epidemiology, gross appearance, form when -->
 
-![image-20200825070527650](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070527650.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070527650.png)
 
 - Frontier MAP: magnesium-ammonium-phosphate (MAP) renal stones (second most common in adult)
 - Stag antlers: MAP stones can present as “struvite” or “staghorn” calculi
@@ -531,7 +531,7 @@
 
 <!-- uric acid stones cause, treatment -->
 
-![image-20200825070535014](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070535014.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070535014.png)
 
 - Needles in uric acid yarn: uric acid (urate) stones
 - Yarn ball on toe: gout causes hyperuricemia → uric acid stones
@@ -545,7 +545,7 @@
 
 <!-- cystine stones cause, demographics, gross appearance -->
 
-![image-20200825070538170](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070538170.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070538170.png)
 
 - “Cistern”: cystine stones (occur in cystinuria)
 - Acid pools: cystine stones form preferentially in an acidic urine environment
@@ -556,7 +556,7 @@
 
 <!-- uric acid, MAP, cystine stones shapes on microscopy -->
 
-![image-20200825070542431](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070542431.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070542431.png)
 
 - Diamond windows: uric acid stones have characteristic diamond-shaped, yellow-brown crystals on microscopy
 - Coffin lid: MAP crystals have a characteristic “coffin lid” or rectangular prism shape on microscopy
@@ -566,21 +566,21 @@
 
 <!-- cystine stone diagnosis -->
 
-![image-20200825070546841](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070546841.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070546841.png)
 
 - Blue “Nitro-pressure” smoke: the diagnostic test for cystinuria is the  sodium cyanide-nitroprusside urine test
 - Pink stream in the smoke: urine of a patient with cystinuria will turn red-purple in a positive sodium cyanide-nitroprusside test
 
 <!-- cysteine stone treatment -->
 
-![image-20200825070550949](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070550949.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070550949.png)
 
 - Pencil MINE: in severe cases, penicillamine can be used to chelate and lower cystine levels (prevent cystine stones)
 - Grasping crane: chelating agent (penicillamine)
 
 <!-- radiolucent vs radiopaque stones -->
 
-![image-20200825070554088](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070554088.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200825070554088.png)
 
 - Translucent X-ray flag on church: uric acid and cystine stones are radiolucent (Calcium and MAP stones are radiopaque)
 - Translucent X-ray flag on COAL mine: uric acid and cystine stones are radiolucent (Calcium and MAP stones are radiopaque)

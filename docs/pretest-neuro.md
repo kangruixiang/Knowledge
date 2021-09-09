@@ -85,9 +85,9 @@ Common in the older child and adolescent. They will worsen during the day, and m
 - diagnosis: The **CT scan with contrast** can be an excellent clue for diagnosing tuberculous meningitis. Exudate (enhancement) in the basal cisterns that shows enhancement by contrast material is typical; tuberculomas, ringed lucencies, edema, and infarction can be apparent; and hydrocephalus can develop. **Confirmation with culture** is mandatory. The **x-ray** of the chest will be likely to show signs of pulmonary tuberculosis.
 - bacterial: Acute bacterial disease must be considered for this patient, but typically causes polymorphonuclear cells and positive Gram stains.
 
-![_](https://i.imgur.com/oJpsZRB.png)
+![](https://i.imgur.com/oJpsZRB.png)
 
-![_](https://i.imgur.com/vAbYPGf.png)
+![](https://i.imgur.com/vAbYPGf.png)
 
 ## Glioma
 
@@ -124,19 +124,19 @@ The unscientific, but sometimes useful, way of keeping intracranial calcificatio
 
 cafe au lait: hyperpigmentation
 
-![_](https://i.imgur.com/a5TpRGd.png)
+![](https://i.imgur.com/a5TpRGd.png)
 
 ash leaf: hypopigmentation
 
-![_](https://i.imgur.com/XwQ0jvg.png)
+![](https://i.imgur.com/XwQ0jvg.png)
 
 Neurofibromas:
 
-![_](https://i.imgur.com/1D3vvnd.png)
+![](https://i.imgur.com/1D3vvnd.png)
 
 Angriofibromas:
 
-![_](https://i.imgur.com/k4j8Vqv.png)
+![](https://i.imgur.com/k4j8Vqv.png)
 
 ## Spinal Muscular Atrophy
 
@@ -187,6 +187,6 @@ Tourette syndrome is a lifelong condition that is characterized by **motor and v
 
 <!-- mccune albright symptoms -->
 
-![_](https://i.imgur.com/soAiqs2.png)
+![](https://i.imgur.com/soAiqs2.png)
 
 - skin (ash leaf), bone (fractures), endocrine (goiter, precocious puberty).,

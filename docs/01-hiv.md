@@ -46,7 +46,7 @@
 - decreased window period of 10 days
 - If negative and suspect HIV, use RNA PCR and retest in 4-12 wks
 
-![image-20191028141907193](https://photos.thisispiggy.com/file/wikiFiles/image-20191028141907193.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20191028141907193.png)
 
 ### RNA PCR
 
@@ -75,7 +75,7 @@
 	- Statin/topical steroids with protease inhibitors
 	- metformin with dolutegravir
 
-![image-20191028144936640](https://photos.thisispiggy.com/file/wikiFiles/image-20191028144936640.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20191028144936640.png)
 
 ## Interval Testing
 

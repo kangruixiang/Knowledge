@@ -6,7 +6,7 @@
 
 <!-- hereditary hemochromatosis sx -->
 
-![image-20200718073426005](https://photos.thisispiggy.com/file/wikiFiles/image-20200718073426005.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200718073426005.png)
 
 This patient with a family history of cirrhosis has  fatigue, poor libido (possibly due to secondary hypogonadism), mild  elevations in hepatic transaminases, and an elevated ferritin and  transferrin saturation. This presentation is concerning for possible **hereditary hemochromatosis** (HH). HH is an autosomal recessive disorder characterized by iron deposition in a variety of tissues, leading to multisystem organ damage.  Clinical manifestations usually start to appear in the 4th to 6th  decade, with women presenting later due to menstrual iron loss.
 

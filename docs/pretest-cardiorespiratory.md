@@ -24,7 +24,7 @@ The minor criteria are:
 
 To make the diagnosis of rheumatic fever, the following criteria should be met: two major manifestations, one major and two minor manifestations plus strong evidence of a preceding group A β-hemolytic streptococcal infection (culture, rapid antigen-antibody rise, or elevation), or scarlet fever.
 
-![_](https://i.imgur.com/2A2Tqed.png)
+![](https://i.imgur.com/2A2Tqed.png)
 
 - erythema marginatum
 
@@ -52,13 +52,13 @@ To make the diagnosis of rheumatic fever, the following criteria should be met: 
 - symptoms: Disproportionate dwarfism, postaxial polydactyly, ectodermal dysplasia, a small chest, and a high frequency of congenital heart defects
 - association: (defect 4p16) is associated with ASD.,
 
-![_](https://i.imgur.com/JBRHBRe.png)
+![](https://i.imgur.com/JBRHBRe.png)
 
-![_](https://i.imgur.com/FGNmP1c.png)
+![](https://i.imgur.com/FGNmP1c.png)
 
-![_](https://i.imgur.com/nLdA84b.png)
+![](https://i.imgur.com/nLdA84b.png)
 
-![_](https://i.imgur.com/W6BiKPn.png)
+![](https://i.imgur.com/W6BiKPn.png)
 
 ## CHD incidence
 
@@ -156,7 +156,7 @@ In pulmonic atresia with an intact ventricular septum, cyanosis appears early, t
 - association: Cardiac lesions include TOF and ASD.
 - prognosis: About 40% of patients die in the newborn period as a result of low-plateletinduced bleeding.,
 
-![_](https://i.imgur.com/onFLIQ4.png)
+![](https://i.imgur.com/onFLIQ4.png)
 
 ## Noonan
 
@@ -256,7 +256,7 @@ Initially, the foreign ody may cause a cough, drooling, and choking. Later, pain
 	- Large lesions (as that noted on the radiograph on the right side) may compress the affected lung and cause pulmonary hypoplasia, which may cause midline shift away from the lesion (note the heart is shifted toward the left on the radiograph).
 - treatment: Treatment is typically surgical excision of the affected lobe. Some patients may be at risk for **primary pulmonary malignancy**.,
 
-![_](https://i.imgur.com/GsZizEm.png)
+![](https://i.imgur.com/GsZizEm.png)
 
 ## Asthma
 

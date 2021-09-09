@@ -8,7 +8,7 @@
 - link: [[Medicine]], [[General]]
 ---
 
-![image-20200901075623476](https://photos.thisispiggy.com/file/wikiFiles/image-20200901075623476.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200901075623476.png)
 
 This patient has signs and symptoms of cholinergic toxicity after playing outside, which is suggestive of **organophosphate poisoning**.  Organophosphates have historically been used in bioterrorism as nerve agents but are also used in insecticides and pesticides.  Intoxication occurs after absorption via contact, inhalation, or ingestion.  Organophosphates act through inhibition of acetylcholinesterase, the enzyme that breaks down acetylcholine.  This inhibition leads to excessive acetylcholine activity at the neuromuscular junction, thereby causing **cholinergic toxicity**.
 

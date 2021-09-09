@@ -7,14 +7,14 @@
 - Related: [[Medicine]]
 
 roller clamp:
-![20201216223146](https://photos.thisispiggy.com/file/wikiFiles/20201216223146.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201216223146.png)
 
 dial-a-flow:
-![20201216223208](https://photos.thisispiggy.com/file/wikiFiles/20201216223208.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201216223208.png)
 
 ## Flow Rates
 
-![20201216222242](https://photos.thisispiggy.com/file/wikiFiles/20201216222242.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201216222242.png)
 
 - max flow rate in cc/min
 - massive transfusion: 150 cc/min
@@ -23,7 +23,7 @@ dial-a-flow:
 - French sizes are larger than gauge and starts from 4F after 16G
 - Triple lumen: flow rate is decreased because increased length, total 100 cc/min:
 
-![20201216222510](https://photos.thisispiggy.com/file/wikiFiles/20201216222510.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201216222510.png)
 
 ## IV Infusion
 
@@ -51,6 +51,6 @@ dial-a-flow:
 	- Arrowgard Blue is pressure injectable with max ml/sec marked on catheter
 - Dialysis catheter: cannot be used for power inject except BARD Trialysis catheter (vas cath with pigtail).
 
-![20201216232721](https://photos.thisispiggy.com/file/wikiFiles/20201216232721.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201216232721.png)
 
 [[indication for dialysis]]

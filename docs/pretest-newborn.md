@@ -160,7 +160,7 @@ In this disease, lung compliance is reduced; lung volume is also reduced, and a 
 
 <!-- TEF types and symptoms.. -->
 
-![_](https://i.imgur.com/3QEedzD.png)
+![](https://i.imgur.com/3QEedzD.png)
 
 Abdominal distention, choking, drooling, and coughing associated with feedings are symptoms of esophageal anomalies. The anomaly illustrated by D is the most common; that of A can be diagnosed after repeated episodes of pneumonia. The anomalies in E and C are associated with all the same symptoms except abdominal distention, which cannot develop because air cannot enter the gastrointestinal tract. B and C are the least common; in these, the upper esophageal segment is connected directly to the trachea, and massive entry of fluid into the lungs occurs.
 
@@ -198,9 +198,9 @@ If black: normal. If white: check for other problems. Some syndromes that are as
 - path: autosomal dominant trait with variable penetrance.
 - symptoms: It includes, in decreasing order of frequency, the following anomalies: lateral displacement of the medial canthi, broad nasal bridge, medial hyperplasia of the eyebrows, partial albinism commonly expressed by a white forelock or heterochromia (or both), and deafness in 20% of cases.,
 
-![_](https://i.imgur.com/TOqef8T.png)
+![](https://i.imgur.com/TOqef8T.png)
 
-![_](https://i.imgur.com/4Y4CCWq.png)
+![](https://i.imgur.com/4Y4CCWq.png)
 
 ## Sturge Weber
 

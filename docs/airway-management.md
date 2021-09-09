@@ -8,7 +8,7 @@
 
 ## FiO2 and liters
 
-![20201121143051](https://photos.thisispiggy.com/file/wikiFiles/20201121143051.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201121143051.png)
 
 - Each liter is 4% increase
 
@@ -32,7 +32,7 @@ Patients are able to tolerate the high flow rates from a HFNC because of heating
 
 ## Nonbreather mask
 
-![20201121141917](https://photos.thisispiggy.com/file/wikiFiles/20201121141917.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201121141917.png)
 
 - Use
 	- delivery of high FiO2 in the spontaneously breathing patient
@@ -47,7 +47,7 @@ Patients are able to tolerate the high flow rates from a HFNC because of heating
 
 ## High Flow NC
 
-![20201121142315](https://photos.thisispiggy.com/file/wikiFiles/20201121142315.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201121142315.png)
 
 - Use
 	- hypoxic respiratory failure, e.g.:
@@ -87,7 +87,7 @@ Patients are able to tolerate the high flow rates from a HFNC because of heating
 
 ## Bag Valve Mask
 
-![20201121144826](https://photos.thisispiggy.com/file/wikiFiles/20201121144826.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201121144826.png)
 
 - Uses
 	- administration of high flow O2

@@ -6,7 +6,7 @@
 
 <!-- nonaccidental trauma risks, features, management, vs OI and osteomalacia -->
 
-![image-20200713170233539](https://photos.thisispiggy.com/file/wikiFiles/image-20200713170233539.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200713170233539.png)
 
 **Nonaccidental trauma** (NAT), or  child abuse, occurs most frequently in infants age <1. Delayed  presentation to medical care is typical, and red flags for abuse include a vague history of injury and a supposed mechanism that is inconsistent with the child's development. Siblings or pets are also commonly  blamed for the injury.
 
@@ -20,8 +20,8 @@ Osteogenesis imperfecta, due to defective type 1  collagen, causes fractures, re
 
 Osteomalacia, soft bones due to decreased bone mineralization, can be  caused by rickets (vitamin D deficiency) in children. Pathologic  fractures are common, but epiphyseal widening, metaphyseal cupping, and  osteopenia are expected on radiograph.
 
-![image-20200713170353510](https://photos.thisispiggy.com/file/wikiFiles/image-20200713170353510.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200713170353510.png)
 
 Metaphyseal corner:
 
-![image-20200713170433887](https://photos.thisispiggy.com/file/wikiFiles/image-20200713170433887.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200713170433887.png)

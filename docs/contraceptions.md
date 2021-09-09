@@ -6,7 +6,7 @@
 
 <!-- effectiveness of different contraceptions -->
 
-![20200901073051](https://photos.thisispiggy.com/file/wikiFiles/20200901073051.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200901073051.png)
 
 - **progestin subdermal implant** is the **most effective contraceptive method** with a **>99% efficacy rate**.
 

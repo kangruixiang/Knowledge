@@ -6,4 +6,4 @@
 
 - related: [[pharmacology]]
 
-![20210213111556](https://photos.thisispiggy.com/file/wikiFiles/20210213111556.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210213111556.png)

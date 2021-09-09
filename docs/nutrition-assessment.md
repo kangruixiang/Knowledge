@@ -10,9 +10,9 @@
 
 - Key elements of nutrition assessment
 
-![20200908203446_1](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_1.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_1.png)
 
-![20200908203446_](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_.png)
 
 ## Social History
 
@@ -54,7 +54,7 @@
 - edema as sx of depleted albumin storage
 - pica: urge to chew ice
 
-![20200908203446_2](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_2.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_2.png)
 
 ## Weight Hx
 
@@ -73,7 +73,7 @@
 - weight/height kg/m2
 - surrogate for adiposity (fat mass/total mass)
 
-![20200908203446_3](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_3.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_3.png)
 
 ## Adiposity
 
@@ -81,8 +81,8 @@
 - DEXA: in research setting
 - underwater weighing: uses buoyancy of fat
 
-![20200908203446_4](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_4.png)
-![20200908203446_5](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_5.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_4.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_5.png)
 
 ## fat distribution
 
@@ -92,7 +92,7 @@
 ## Longitudinal weight history
 
 - most dangerous: emergency if loses more than in box
-  ![20200908203446_8](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_8.png)
+  ![](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_8.png)
 
 ## Daily energy requirements
 
@@ -100,7 +100,7 @@
 - indirect calorimetry: measures O2 consumption, CO2 consumption
 - rule of thumb:
 
-![20200908203446_9](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_9.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_9.png)
 
 ## Protein requirements
 
@@ -111,7 +111,7 @@
 - nitrogen balance: calorie count (cumbersome)
 - rule of thumb:
 
-![20200908203446_10](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_10.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_10.png)
 
 ## Vitamin and mineral
 

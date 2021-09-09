@@ -6,7 +6,7 @@
 
 <!-- newborn unconjugated hyperbilirubinemia rx -->
 
-![image-20200225200600975](https://photos.thisispiggy.com/file/wikiFiles/image-20200225200600975.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200225200600975.png)
 
 Bilirubin levels in newborns are physiologically elevated due to liver immaturity, lack of intestinal bacteria to break down bilirubin, and high hemoglobin turnover. This infant has pathologic **unconjugated hyperbilirubinemia**, likely caused by increased red blood cell turnover from a cephalohematoma. Additional risk factors in developing hyperbilirubinemia include prematurity (<37 weeks gestation), exclusive breastfeeding, sibling requiring phototherapy, and East Asian race. The danger of very high bilirubin levels (>20-25 mg/dL) is kernicterus, or bilirubin encephalopathy, which results in severe neurologic dysfunction (eg, movement disorder, sensorineural hearing loss). The above nomogram for full-term infants helps to determine the need for phototherapy based on bilirubin level at a given hour of life.
 

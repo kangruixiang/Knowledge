@@ -8,7 +8,7 @@
 
 <!-- PAD rx -->
 
-![image-20200303161603821](https://photos.thisispiggy.com/file/wikiFiles/image-20200303161603821.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200303161603821.png)
 
 - manage risks: e.g. smoking cessation
 - initial management: **supervised exercise program** best for **claudication**
@@ -23,7 +23,7 @@
 
 <!-- limb ischemia types, deficit, doppler, management -->
 
-![image-20200118103823130](https://photos.thisispiggy.com/file/wikiFiles/image-20200118103823130.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200118103823130.png)
 
 - **acute limb ischemia (ALI)**
 - pathogenesis: sudden decrease in limb perfusion, often caused by acute arterial occlusion due to systemic embolism from a  cardiac source (eg, atrial fibrillation, left ventricular thrombus, or  septic emboli from infective endocarditis).

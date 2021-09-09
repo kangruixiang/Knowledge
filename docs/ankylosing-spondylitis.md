@@ -23,4 +23,4 @@
 	- restrictive lung disease, apical pulmonary fibrosis
 	- anterior uveitis, AR, MVP
 
-![20200908203454_14](https://photos.thisispiggy.com/file/wikiFiles/20200908203454_14.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200908203454_14.png)

@@ -8,6 +8,6 @@
 
 <!-- colon cancer screening average risk and high risk -->
 
-![20200905162632_](https://photos.thisispiggy.com/file/wikiFiles/20200905162632_.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200905162632_.png)
 
-![20200905162632_1](https://photos.thisispiggy.com/file/wikiFiles/20200905162632_1.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200905162632_1.png)

@@ -106,7 +106,7 @@ Do not use balloon catheter. Use endoscopy. However, this does not allow direct 
 	- nl saline
 	- DO NOT use 1/4 nl saline: Use of 1/4 normal saline (38.5 mEq sodium/L) or D10 water (100 g glucose/L) in this dehydrated child would not expand the intravascular space and its hyponatremic nature might lead to cerebral edema.
 
-![_](https://i.imgur.com/XPDzc09.png)
+![](https://i.imgur.com/XPDzc09.png)
 
 ## Glucose in hypernatremia
 
@@ -133,7 +133,7 @@ In general, **mandibular** teeth erupt before maxillary teeth; teeth tend to eru
 - the cuspids (16-20 months)
 - second molars (20-30 months)
 
-![_](https://i.imgur.com/BzO7nOQ.png)
+![](https://i.imgur.com/BzO7nOQ.png)
 
 ## Abd pain
 
@@ -147,7 +147,7 @@ Any signs or symptoms of organic causes, such as growth failure, should be pursu
 
 <!-- bottle use tooth decay pattern.. -->
 
-![_](https://i.imgur.com/aeh4dXz.png)
+![](https://i.imgur.com/aeh4dXz.png)
 
 The pattern of dental disease found with the use of bottles that contain high concentrations of sugars, which promotes dental disease, includes extensive **maxillary decay (especially frontal) and posterior maxillary** and **mandibular decay**, but essentially **normal mandibular frontal teeth.**
 

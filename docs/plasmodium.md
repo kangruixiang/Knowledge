@@ -12,7 +12,7 @@ Accurate identification of _P. falciparum_ and _Plasmodium knowlesi_ is critical
 
 _Plasmodium malariae_, _Plasmodium ovale_, and _Plasmodium vivax_ are all associated with a low or very low degree of parasitemia, typically less than 2%, and although the risk of recurrence is high, with the exception of _P. vivax_, the risk for severe disease is low.
 
-![20201102074300](https://photos.thisispiggy.com/file/wikiFiles/20201102074300.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201102074300.png)
 
 A 27-year-old woman is hospitalized with a 5-day history of intermittent fever, headache, muscle pains, and abdominal cramps. She returned 8 days ago from a 1-week trip to Kenya and Tanzania. She spent time outdoors in the evening and went hiking in a wooded park. She is pregnant at 20 weeks' gestation. She declined pretravel immunizations as well as antimalarial chemoprophylaxis. Her only medication is a prenatal vitamin.
 

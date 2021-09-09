@@ -11,9 +11,9 @@
 
 <!-- cervical insufficiency risks, sx, management, prognosis -->
 
-![image-20200601202633882](https://photos.thisispiggy.com/file/wikiFiles/image-20200601202633882.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200601202633882.png)
 
-![image-20200821065148038](https://photos.thisispiggy.com/file/wikiFiles/image-20200821065148038.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200821065148038.png)
 
 This patient has **cervical insufficiency**, a structural weakness of the cervix that predisposes to **painless** (ie, no uterine contractions) **cervical dilation** and second-trimester pregnancy loss. However, such patients can present with **pelvic pressure** when the gestation distends the vagina, with an increase in **vaginal discharge** due to loss of the mucus plug, or with **light vaginal bleeding** (eg, bloody show). Bulging or prolapsing amniotic membranes can also be present.
 

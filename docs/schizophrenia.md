@@ -6,4 +6,4 @@
 
 <!-- schizophrenia good vs poor prognosis -->
 
-![image-20200827084455368](https://photos.thisispiggy.com/file/wikiFiles/image-20200827084455368.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200827084455368.png)

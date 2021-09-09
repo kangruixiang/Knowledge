@@ -6,7 +6,7 @@
 
 <!-- menopause supplements -->
 
-![20200903213254_10](https://photos.thisispiggy.com/file/wikiFiles/20200903213254_10.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200903213254_10.png)
 
 - Postmenopausal women who are getting adequate calcium from dietary intake alone (approximately 1200 mg daily) do not need to take calcium supplements.
 - Women with inadequate dietary intake should take supplemental elemental calcium (**generally 500 to 1000 mg/day**), in divided doses at mealtime, such that their total calcium intake (diet plus supplements) approximates 1200 mg/day.

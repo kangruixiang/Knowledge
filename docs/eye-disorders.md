@@ -77,7 +77,7 @@ The cause of MLF syndrome is **damage to the medial longitudinal fasciculus**, w
 
 <!-- central retinal artery occlusion cause, sx, rx, vs vein -->
 
-![image-20200303155944592](https://photos.thisispiggy.com/file/wikiFiles/image-20200303155944592.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200303155944592.png)
 
 This patient's presentation—acute, painless monocular vision loss—suggests **central retinal artery occlusion (CRAO)**, which usually affects patients age >60 with underlying cardiovascular risk factors. CRAO is most commonly due to **carotid atherosclerosis** as the central retinal artery is a branch of the ophthalmic artery,  which arises from the internal carotid artery. Other etiologies include cardiac embolism, small vessel disease (eg, hypertension, diabetes),  and vasculitis (eg, giant cell arteritis). Funduscopic examination  usually shows diffuse ischemic retinal pallor and a cherry red spot at the macula (due to preserved circulation via posterior ciliary  arteries). Evaluation includes laboratory studies to exclude giant cell arteritis (erythrocyte sedimentation rate, C-reactive protein), carotid artery imaging, and cardiac evaluation in patients with a suspected  cardioembolic source.
 

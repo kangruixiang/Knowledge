@@ -6,7 +6,7 @@
 
 <!-- peds UTI maangement -->
 
-![image-20200128200737625](https://photos.thisispiggy.com/file/wikiFiles/image-20200128200737625.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200128200737625.png)
 
 All children **age <24 months** with a **febrile** UTI should undergo **renal** and **bladder ultrasound** to evaluate for hydronephrosis and ureteral dilation, which may suggest an underlying anatomic abnormality. Ultrasound should be performed after the acute illness has been treated as renal inflammation during infection can lead to false-positive results.
 

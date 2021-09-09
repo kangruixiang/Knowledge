@@ -6,7 +6,7 @@
 
 <!-- subclinical hyperthyroidism cause, sx, indication for treatment -->
 
-![image-20191201192906816](https://photos.thisispiggy.com/file/wikiFiles/image-20191201192906816.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20191201192906816.png)
 
 **Subclinical hyperthyroidism** is defined as low TSH with **normal** thyroid hormone concentrations. Transient fluctuations in thyroid  markers can be seen (particularly with acute illness), but patients who  have persistently suppressed TSH levels warrant further evaluation.  This patient has a diffusely increased radioiodine uptake consistent  with Graves disease, with worsening of thyroid function test results  possibly due to iodinated dye administration during his recent cardiac  catheterization. Other common causes of subclinical hyperthyroidism  include exogenous thyroid hormone, nodular thyroid disease (thyroid  adenoma or toxic multinodular goiter), and inflammatory thyroiditis (eg, silent thyroiditis, subacute \[de Quervain] thyroiditis).
 

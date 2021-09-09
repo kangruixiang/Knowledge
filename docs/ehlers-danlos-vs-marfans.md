@@ -9,9 +9,9 @@
 
 <!-- ehlers danlos vs marfans -->
 
-![image-20200218202449332](https://photos.thisispiggy.com/file/wikiFiles/image-20200218202449332.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200218202449332.png)
 
-![image-20200218202352386](https://photos.thisispiggy.com/file/wikiFiles/image-20200218202352386.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200218202352386.png)
 
 This patient most likely has **Ehlers-Danlos syndrome** (EDS), a connective tissue disorder characterized by joint hypermobility, recurrent joint dislocations, hyperextensible skin with easy bruisability, and delayed healing with atrophic scars. Patients may have associated skeletal abnormalities, including thoracolumbar **scoliosis**, pectus excavatum, and pes planus. Other features include hernias, cervical insufficiency, and uterine prolapse. **Mitral valve prolapse** with myxomatous degeneration of the valvular apparatus is a  complication of EDS and can lead to rupture of the chordae tendineae and acute mitral valve regurgitation (MR).
 

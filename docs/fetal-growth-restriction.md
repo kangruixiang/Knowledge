@@ -27,4 +27,4 @@
 	- Growth measurements are performed every 3-4 weeks.
 	- **Absent or reversed umbilical artery end-diastolic flow** suggests placental insufficiency and impending **fetal hypoxia**, particularly with concomitant oligohydramnios, and is an **indication for delivery**.
 
-![20200906125013_3](https://photos.thisispiggy.com/file/wikiFiles/20200906125013_3.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200906125013_3.png)

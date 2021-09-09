@@ -6,7 +6,7 @@
 
 <!-- compartment syndrome other organ damage -->
 
-![image-20200901080238906](https://photos.thisispiggy.com/file/wikiFiles/image-20200901080238906.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200901080238906.png)
 
 Increased edema in an enclosed compartment leads to compression of neurovascular bundles.  Arterial and venous occlusion in the extremity results in anoxic muscle necrosis (rhabdomyolysis).  The released myoglobin is filtered and degraded in the kidney.  Heme pigment from myoglobin degradation:
 

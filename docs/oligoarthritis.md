@@ -4,4 +4,4 @@
 
 # oligoarthritis
 
-![20200905112055_](https://photos.thisispiggy.com/file/wikiFiles/20200905112055_.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200905112055_.png)

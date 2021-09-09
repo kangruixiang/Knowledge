@@ -975,7 +975,7 @@ Thin basement membrane disease is a disorder of type IV collagen that typically 
 
 ## Major Depressive
 
-![img](http://uworld.com/media/L24759.jpg)
+![](http://uworld.com/media/L24759.jpg)
 
 This patient's month-long history of **depressed mood, low energy, loss of interest, insomnia, weight loss**, and **poor concentration** meets the criteria for **major depressive disorder**.  Depressed mood must be present most of the day, almost every day for **≥2 weeks**.  Appetite, sleep, and motor activity can be increased or decreased.  Accurate diagnosis requires ruling out bipolar disorder (no lifetime history of manic or hypomanic episodes) and medical and substance-induced causes.  Untreated hypothyroidism is a known medical cause of depression.  However, this patient's normal TSH level indicates that her hypothyroidism is well controlled with levothyroxine.
 
@@ -1031,7 +1031,7 @@ Baclofen is a GABA-B agonist that can treat **muscle spasticity**, which is char
 
 ## Gonadal Arteries
 
-![img](http://uworld.com/media/L18168.jpg)
+![](http://uworld.com/media/L18168.jpg)
 
 The **gonadal arteries** arise from the abdominal aorta slightly below the renal arteries.  Each gonadal artery courses obliquely downward and laterally within the retroperitoneal space near the psoas major muscle.  The right gonadal artery travels in front of the inferior vena cava and behind the ileum, whereas the left gonadal artery courses behind the left colic and sigmoid arteries and iliac colon.  After crossing anteriorly over the ureter, the gonadal arteries run parallel to the external iliac vessels and eventually traverse the inguinal canal to supply the testes via the spermatic cord.
 

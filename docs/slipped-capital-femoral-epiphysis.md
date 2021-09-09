@@ -33,10 +33,10 @@ Treatment options are **primarily surgical** with percutaneous pinning of the sl
 
 Complications of slipped capital femoral epiphysis include **avascular necrosis, chondrolysis, and premature osteoarthritis**.
 
-![_](https://i.imgur.com/6jBCf0y.png)
+![](https://i.imgur.com/6jBCf0y.png)
 
 frog leg xray:
-![_](https://i.imgur.com/YW08LFX.png)
+![](https://i.imgur.com/YW08LFX.png)
 
 | Dz   | Age     | Symptoms                                 | Diagnosis                | Treatment                 |
 | ---- | ------- | ---------------------------------------- | ------------------------ | ------------------------- |

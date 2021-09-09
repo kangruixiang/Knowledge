@@ -34,7 +34,7 @@ Newborn constipation has to causes:
 
 cross table X-ray:
 
-![_](https://i.imgur.com/PXEdAn0.png)
+![](https://i.imgur.com/PXEdAn0.png)
 
 ## VACTERL
 
@@ -66,9 +66,9 @@ a surgical operation in which a piece of the colon is diverted to an artificial 
 	- water-enema to diagnose and dissolve plug
 	- CF: sweet chloride test to confirm, ADEK supplement, pancreatic enzyme, pulmonary toilet to prevent respiratory infections
 
-![_](https://i.imgur.com/NvcrJTj.png)
+![](https://i.imgur.com/NvcrJTj.png)
 
-![_](https://i.imgur.com/lBKe4Ci.png)
+![](https://i.imgur.com/lBKe4Ci.png)
 
 # Hirschsprung
 

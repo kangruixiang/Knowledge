@@ -41,9 +41,9 @@ Just as sensitivity and specificity are independent of disease prevalence, LRs d
 
 Other advantages of LRs are that they can be used with tests that have >2 possible test results and they can be used to combine the results of multiple diagnostic tests. For all these reasons, LRs would be the most appealing choice for the government agency officials in this scenario.
 
-![image-20200821070909419](https://photos.thisispiggy.com/file/wikiFiles/image-20200821070909419.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200821070909419.png)
 
-![20201216144105](https://photos.thisispiggy.com/file/wikiFiles/20201216144105.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20201216144105.png)
 
 ## Predicative Values
 
@@ -55,7 +55,7 @@ Positive predictive value (PPV) refers to the probability that a positive test r
 
 <!-- end of life care steps when disagreeing -->
 
-![image-20191224101348284](https://photos.thisispiggy.com/file/wikiFiles/image-20191224101348284.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20191224101348284.png)
 
 **End-of-life care** may involve discontinuation of ongoing therapies and/or shift to palliative therapies. This phase of treatment may begin when curative therapy is likely **futile**. Futility may be physiologic if the treatment is extremely unlikely to allow survival, or qualitative if it offers only minimal benefit at the cost of significant pain and suffering. When this point is reached, the primary goals of therapy shift toward minimizing discomfort, anxiety, and distress for the patient and family.
 
@@ -71,7 +71,7 @@ The **relative risk reduction** (RRR) quantifies the **proportion of risk reduct
 
 RRR = (risk in unexposed − risk in exposed) / (risk in unexposed)
 
-![image-20200120203845916](https://photos.thisispiggy.com/file/wikiFiles/image-20200120203845916.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200120203845916.png)
 
 In this case, the exposed/intervention group is the DASH diet in the highest fifth, and the unexposed/control group is the DASH diet in the third fifth; the risks are reported in person-years (incidence densities). The risk of gout among subjects adopting a DASH diet in the third fifth (unexposed/control group) is 354 / 196,510 = 0.0018, or 1.8 per 1,000 person-years; the risk of gout among subjects adopting a DASH diet in the highest fifth (exposed group) is 252 / 193,455 = 0.0013, or 1.3 per 1,000 person-years. Therefore, the RRR is calculated as:
 
@@ -87,7 +87,7 @@ This means that, compared to patients who adopt a diet DASH diet in the third fi
 
 <!-- funnel plot uses -->
 
-![image-20200123195244427](https://photos.thisispiggy.com/file/wikiFiles/image-20200123195244427.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200123195244427.png)
 
 A **funnel plot** is helpful in assessing **publication bias**. Each study's treatment effect (on the _x_-axis) is plotted against a measure of that study's size or precision, usually using the standard error of the treatment effect (on the _y_-axis). The triangle is centered on a summary estimate of the treatment effect (eg, pooled estimate of odds ratio, usually in log scale) with its sides corresponding to standard errors. If there is no bias, any scatter between the study results should be due to sampling variation, and 95% of studies should lie within the triangle centered on the summary estimate and extending 1.96 standard errors on either side. Because a larger sample size is associated with increased precision, larger studies (more powerful) will be at the top and have a narrow spread whereas small studies will be scattered widely at the base of the triangle.
 
@@ -135,7 +135,7 @@ Although the authors randomized patients to these 4 arms, the results in the tab
 
 <!-- noninferiority test -->
 
-![image-20200218202627408](https://photos.thisispiggy.com/file/wikiFiles/image-20200218202627408.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200218202627408.png)
 
 In the figure, each effect estimate for drug A is represented by a black square, with the horizontal black line representing the confidence interval.
 

@@ -16,6 +16,6 @@
 	- moxifloxacin inpatient
 	- levofloxacin ambulatory
 
-![photo5123275537903626305](https://photos.thisispiggy.com/file/wikiFiles/photo5123275537903626305.jpg)
+![](https://photos.thisispiggy.com/file/wikiFiles/photo5123275537903626305.jpg)
 
 - maintain gram negative coverage until ANC resolves

@@ -14,6 +14,6 @@ Symptoms reflect the worm lifecycle, and patients often have **mild** manifestat
 
 Stool examination has low sensitivity (<50%) for diagnosis due to periodic shedding of organisms; diagnosis is typically confirmed with **serology**.  Treatment with ivermectin or albendazole is usually curative, but repeat serologies should be performed at 3-6 months as treatment failures can occur.
 
-![20200908203446_16](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_16.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_16.png)
 
-![20200908203446_17](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_17.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200908203446_17.png)

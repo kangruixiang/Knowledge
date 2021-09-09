@@ -10,7 +10,7 @@ Entamoeba infection
 
 <!-- entamoeba histolytica risk, sx, dx, rx -->
 
-![image-20200713164843369](https://photos.thisispiggy.com/file/wikiFiles/image-20200713164843369.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200713164843369.png)
 
 This patient who recently spent several weeks in  South America has fever, right upper quadrant pain, and a hypoechoic  liver lesion indicating likely extraintestinal **_Entamoeba histolytica_**.
 

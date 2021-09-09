@@ -16,4 +16,4 @@ Case:
 
 A 4-year-old girl is noticed by her grandmother to have a limp and a somewhat swollen left knee. The parents report that the patient occasionally complains of pain in that knee. An ophthalmologic examination reveals findings as depicted in the photograph. Which of the following conditions is most likely to be associated with these findings?
 
-![_](https://i.imgur.com/tmb0wVY.png)
+![](https://i.imgur.com/tmb0wVY.png)

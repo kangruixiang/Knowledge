@@ -48,7 +48,8 @@
 	- morning stiffness lasting hours
 	- stiffness better with activity
 
-### extra-articular 
+### extra-articular
+
 - skin:
 	- rheumatoid nodules: up to 30% pts, usually in olecranon areas but also in hands/feet/lungs
 	- neutrophilic dermatoses: [[Sweet syndrome]] or pyoderma gangrenosum
@@ -72,9 +73,7 @@
 		- mononuclear inflammatory cells: lymphocytes, monocytes
 - heart
 	- mostly atherosclerosis
-- 
-
-
+-
 
 Anemia of inflammation is the most common RA hematologic abnormality. Felty syndrome consists of neutropenia and splenomegaly and occurs in patients with long-standing, severe, seropositive RA. These patients are at risk for serious bacterial infection, lower extremity ulceration, lymphoma, and vasculitis. With current treatment, Felty syndrome has become rare. Patients with RA can also have a large granular lymphocyte syndrome that can progress to large granular lymphocyte leukemia. Findings overlap with Felty syndrome and include neutropenia, anemia, thrombocytopenia, splenomegaly, and recurrent infections. Patients with RA are at increased risk for lymphomas (particularly large B-cell lymphomas), and risk is correlated with disease activity.
 
@@ -82,11 +81,11 @@ Anemia of inflammation is the most common RA hematologic abnormality. Felty synd
 
 A small-vessel cutaneous vasculitis occurs in a small percentage of patients with RA, leading to palpable purpura or periungual infarcts. A very rare, larger-vessel vasculitis similar to polyarteritis nodosa can affect multiple organ systems; prior to current therapy, it had a 5-year mortality of 30% to 50%.
 
-![20210829204436](https://photos.thisispiggy.com/file/wikiFiles/20210829204436.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210829204436.png)
 
-![20210829204109](https://photos.thisispiggy.com/file/wikiFiles/20210829204109.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210829204109.png)
 
-![20210829204122](https://photos.thisispiggy.com/file/wikiFiles/20210829204122.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210829204122.png)
 
 ## Key Point
 
@@ -120,10 +119,10 @@ A small-vessel cutaneous vasculitis occurs in a small percentage of patients wit
 - US: standard for joint fluid, synovial tissue thickening, early erosions, increased vascularity
 - MRI: bone marrow edema, synovitis, erosions
 
-![20210829205303](https://photos.thisispiggy.com/file/wikiFiles/20210829205303.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210829205303.png)
 Advanced RA: ulnar deviation, marginal erosions (arrows), joint space narrowing, loss of ulnar styloid (arrowhead)
 
-![20210829205427](https://photos.thisispiggy.com/file/wikiFiles/20210829205427.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210829205427.png)
 Marginal erosions and joint-space narrowing (arrows). Erosion at the fifth metatarsophalangeal joint is often the first radiographic sign of rheumatoid arthritis foot involvement.
 
 ## Management

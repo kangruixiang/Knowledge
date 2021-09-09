@@ -6,7 +6,7 @@
 
 <!-- gastric reflux in infants -->
 
-![image-20191224103118587](https://photos.thisispiggy.com/file/wikiFiles/image-20191224103118587.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20191224103118587.png)
 
 Gastroesophageal reflux (GER), or **spit-up**, is common and **normal** in the majority of infants as they have a relatively relaxed lower esophageal sphincter. The esophagus is also shorter and the stomach is smaller compared with that of older children. Breastmilk and formula are easily regurgitated up the esophagus and out of the mouth; however, the episodes do not cause injury, weight loss, or other complications. Infants are commonly described as "happy spitters," and GER is colloquially referred to as "a laundry problem, not a medical problem."
 
@@ -18,7 +18,7 @@ This patient has appropriate **weight gain** and **no pain** with feeds, which i
 
 <!-- IDA in kids risks, dx, rx -->
 
-![image-20200204194757235](https://photos.thisispiggy.com/file/wikiFiles/image-20200204194757235.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200204194757235.png)
 
 **Iron deficiency** is the most common nutritional deficiency in children and should be suspected in any child drinking >24 oz of cow's milk per day. Fatigue and pallor may occur, but patients are often asymptomatic and detected on universal screen around age 1. Given the high prevalence of iron deficiency anemia in infants and toddlers, a presumptive diagnosis of iron deficiency is made when **hemoglobin <11 g/dL**. Lead level should also be measured, but additional studies are usually not needed in the initial workup. An empiric trial of **ferrous sulfate** is considered the most cost-effective treatment, and the doses should be given with juice between meals as **vitamin C** facilitates iron absorption. Patients should also be advised to limit milk intake to <20 oz per day and to increase intake of iron-rich foods (eg, meats, fortified cereals).
 
@@ -26,7 +26,7 @@ This patient has appropriate **weight gain** and **no pain** with feeds, which i
 
 <!-- infant of diabetic mother complications -->
 
-![image-20200225201744129](https://photos.thisispiggy.com/file/wikiFiles/image-20200225201744129.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200225201744129.png)
 
 This newborn with respiratory distress (tachypnea, nasal flaring, retractions) and a heart murmur likely has **transient hypertrophic cardiomyopathy**, a cardiac anomaly found in infants of mothers with gestational diabetes. This disease occurs in the late second to early third trimesters due to **fetal hyperinsulinemia** in response to maternal and fetal hyperglycemia. Insulin triggers glycogen synthesis, and **excess glycogen** and fat are deposited within the myocardium, particularly the interventricular septum. Increased oxidative stress of the interventricular septum may contribute to this selective thickening.
 

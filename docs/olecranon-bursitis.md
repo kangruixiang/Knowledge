@@ -23,6 +23,6 @@
 
 Mild septic bursitis in immunocompetent patients may be managed with oral antibiotics and close follow-up, but severe cases and patients with underlying immune compromise (as in this patient) should be admitted to the hospital for intravenous antibiotics.
 
-![20200909203145_4](https://photos.thisispiggy.com/file/wikiFiles/20200909203145_4.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200909203145_4.png)
 
-![20200909203145_5](https://photos.thisispiggy.com/file/wikiFiles/20200909203145_5.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200909203145_5.png)

@@ -9,7 +9,7 @@
 
 <!-- peripartum cardiomyopathy risks, sx, management, recurrence -->
 
-![image-20200809065132704](https://photos.thisispiggy.com/file/wikiFiles/image-20200809065132704.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200809065132704.png)
 
 - population:
 	- age > 30

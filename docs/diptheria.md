@@ -6,7 +6,7 @@
 
 <!-- diptheria age, cause, symptoms, diagnosis, treatment, complication -->
 
-![image-20191205161407684](https://photos.thisispiggy.com/file/wikiFiles/image-20191205161407684.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20191205161407684.png)
 
 This young patient who did not receive  age-appropriate vaccinations has fever, sore throat, and pharyngeal grey patches coalescing into a pseudomembrane, suggesting **diphtheria** infection.
 

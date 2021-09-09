@@ -25,7 +25,7 @@ Diagnosis
 - Alk phos elevated
   Alkaline phosphatase may be elevated in other conditions, including vitamin D deficiency, other metabolic bone disease (such as osteomalacia), or recent fracture. Therefore, all patients with suspected Paget disease of bone require assessment of **serum calcium, 25-hydroxyvitamin D, and a whole-body radionuclide bone scan**.
 
-![20210208161023](https://photos.thisispiggy.com/file/wikiFiles/20210208161023.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210208161023.png)
 
 ## Management
 
@@ -41,9 +41,9 @@ Diagnosis
 
 <!-- ignore -->
 
-![img](https://www.uworld.com/media/L10869.jpg)
+![](https://www.uworld.com/media/L10869.jpg)
 
-![image-20191201193250704](https://photos.thisispiggy.com/file/wikiFiles/image-20191201193250704.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20191201193250704.png)
 
 This patient likely has Paget disease of bone (PDB), a common condition in older adults that is due to **increased bone turnover**.  His head computed tomography (CT) scan shows a thickened calvarium with an inhomogeneous bone density or "cotton wool" appearance that is  typical of this condition. Most patients with PDB are asymptomatic, and diagnosis is made incidentally on radiographic findings or abnormal  laboratory studies. The next step in management of this patient is to  obtain **calcium** and **alkaline phosphatase** levels; patients with PDB have an elevated alkaline phosphatase and a  normal calcium level. If necessary, the elevated alkaline phosphatase  of PDB may be differentiated from hepatobiliary disease by measuring the bone-specific fraction. Patients with PDB should also have a **radionuclide bone scan** to identify other involved sites.  **Bisphosphonates** are the mainstay of treatment for PDB as they reduce bone turnover.  Most patients, including those with bone pain or involvement of  high-risk locations (such as this patient with skull involvement),  should be considered for treatment.
 

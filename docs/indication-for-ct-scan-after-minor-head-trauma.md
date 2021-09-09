@@ -12,4 +12,4 @@ Patients **age >65** are frequently under-triaged and are at increased risk for 
 
 Hospital observation (typically for at least 24 hours) is recommended for patients at risk for complications (eg, decreased level of consciousness, seizure, bleeding disorder or anticoagulant therapy, significant abnormalities discovered on imaging) after imaging is performed.
 
-![20200909203145_8](https://photos.thisispiggy.com/file/wikiFiles/20200909203145_8.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20200909203145_8.png)

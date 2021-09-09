@@ -6,7 +6,7 @@
 
 <!-- scoliosis management -->
 
-![image-20200303162723094](https://photos.thisispiggy.com/file/wikiFiles/image-20200303162723094.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200303162723094.png)
 
 Although scoliometry helps to predict patients with clinically significant **scoliosis**, the results are user-dependent and nonspecific. Therefore, concerning scoliometer findings require further evaluation with posteroanterior and lateral **x-rays**. **Cobb angle** measures spine curvature on x-ray and is the gold standard for determining diagnosis and treatment of scoliosis. A Cobb angle **<10 degrees**, as seen in this patient, is considered a variant of **normal**. Therefore, no follow-up is needed unless new findings (eg, significant pain, neurologic symptoms) develop.
 

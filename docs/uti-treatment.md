@@ -8,9 +8,9 @@
 
 <!-- acute cystitis, complicated cystitis, pyelo treatment. Rx if pregnant -->
 
-![image-20200831101200542](https://photos.thisispiggy.com/file/wikiFiles/image-20200831101200542.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200831101200542.png)
 
-![image-20200831101405575](https://photos.thisispiggy.com/file/wikiFiles/image-20200831101405575.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200831101405575.png)
 
 **Empiric antibiotic** therapy is initiated in pregnant patients who have dysuria, urinary frequency, and a urinalysis consistent with acute cystitis.  A **urine culture** is performed for all pregnant patients with acute cystitis and is repeated a week after completion of antibiotics to ensure infection resolution (eg, test of cure).  Urine cultures are repeated as bacteriuria during pregnancy is associated with an increased risk for complications such as acute pyelonephritis and acute respiratory distress syndrome.
 

@@ -190,7 +190,7 @@ Diagnosis: cortisol and ACTH levels.
 
 Cosyntropin (synthetic ACTH) should result in a brisk increase in cortisol levels. An **abnormal cosyntropin (ACTH) stimulation test** implies a subnormal response of plasma cortisol following cosyntropin administration, and it is **definitive and diagnostic** of primary adrenocortical insufficiency..
 
-![image-20200827070514632](https://photos.thisispiggy.com/file/wikiFiles/image-20200827070514632.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200827070514632.png)
 
 ## Symptoms
 

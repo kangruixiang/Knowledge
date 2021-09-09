@@ -15,7 +15,7 @@
 		- Healthy: no vaccine
 		- Chronic disease: 23 => 13 => 23
 
-![image-20191029153404089](https://photos.thisispiggy.com/file/wikiFiles/image-20191029153404089.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20191029153404089.png)
 
 The dashed line represents the interval between the two PPSV23 doses. PCV13 = 13-valent pneumococcal conjugate vaccine; PPSV23 = 23-valent  pneumococcal polysaccharide vaccine.
 

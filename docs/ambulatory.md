@@ -47,9 +47,9 @@ always US at 6 wks, at risk for hip dysplasia
 
 Layers of scalp:
 
-![_](https://i.imgur.com/AG8Wgux.png)
+![](https://i.imgur.com/AG8Wgux.png)
 
-![_](https://i.imgur.com/W44i9IA.png)
+![](https://i.imgur.com/W44i9IA.png)
 
 - Caput succedaneum: between skin and galea aponeurosis
 - subgaleal hemorrhage: between galea aponeurosis and periosteum

@@ -7,7 +7,7 @@
 - related: [[Hemeonc]], [[essential thrombocytosis]]
 ---
 
-![20210602143437](https://photos.thisispiggy.com/file/wikiFiles/20210602143437.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210602143437.png)
 
 - erythrocytosis
 - questions to ask
@@ -30,7 +30,7 @@
 	- EPO
 	- JAK2: both mutations
 	- can have both leukocytosis and thrombocytosis
-    ![20210602144817](https://photos.thisispiggy.com/file/wikiFiles/20210602144817.png)
+    ![](https://photos.thisispiggy.com/file/wikiFiles/20210602144817.png)
 
 ## Diagnosis
 
@@ -49,8 +49,8 @@
 - high risk
 	- > 60
 	- hx of thrombosis
-    ![20210602145230](https://photos.thisispiggy.com/file/wikiFiles/20210602145230.png)
-    ![20210602145706](https://photos.thisispiggy.com/file/wikiFiles/20210602145706.png)
+    ![](https://photos.thisispiggy.com/file/wikiFiles/20210602145230.png)
+    ![](https://photos.thisispiggy.com/file/wikiFiles/20210602145706.png)
 - Ruxolitinib
 
 ## Prognosis

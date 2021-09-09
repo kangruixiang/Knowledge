@@ -11,7 +11,7 @@
 
 <!-- prehepatic, posthepatic, intrahepatic type of bilirubin and causes -->
 
-![_](https://i.imgur.com/q4QxE0B.png)
+![](https://i.imgur.com/q4QxE0B.png)
 
 - Prehepatic: mostly unconjugated
 	- Hemolysis: coombs, G6PD, pyruvate etc.
@@ -84,13 +84,13 @@ Only works for unconjugated bilirubin. For physiologic jaundice, help baby move 
 
 <!-- jaundice baby workup.. -->
 
-![_](https://i.imgur.com/dObZeXo.png)
+![](https://i.imgur.com/dObZeXo.png)
 
 ## Breast Feeding
 
 <!-- breast feeding vs breast milk jaundice. Management -->
 
-![image-20200822091656157](https://photos.thisispiggy.com/file/wikiFiles/image-20200822091656157.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200822091656157.png)
 
 Breast feeding jaundice:
 

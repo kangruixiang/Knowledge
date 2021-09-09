@@ -11,7 +11,7 @@
 
 <!-- ACL injury cause, sx, dx, rx, vs meniscus tear -->
 
-![image-20200831081803760](https://photos.thisispiggy.com/file/wikiFiles/image-20200831081803760.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200831081803760.png)
 
 Injuries to the anterior cruciate ligament (ACL) are common in young athletes, especially women who participate in noncontact sports requiring rapid direction changes or pivots on the lower extremity (eg, soccer, basketball, tennis).  **ACL tears** can also occur in high-contact sports or injuries involving a blow to the knee or significant twisting force.  Patients with partial- or full-thickness tears of the ACL complain of a "popping" sensation in the knee at the time of injury, followed by development of **rapid-onset hemarthrosis** and a **feeling of joint instability** with weight bearing.
 

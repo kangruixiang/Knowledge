@@ -6,7 +6,7 @@
 
 <!-- infant born to mothers requiring GBS prophylaxis management -->
 
-![img](https://www.uworld.com/media/L34447.png)
+![](https://www.uworld.com/media/L34447.png)
 
 **Intrapartum antibiotic prophylaxis** can prevent transmission of **group B Streptococcus (GBS)** to the infant and minimize the risk for early-onset sepsis. Indications for prophylaxis include maternal GBS bacteriuria, a positive rectovaginal culture for GBS (obtained at 35-37 weeks gestation), or a previous infant with invasive GBS disease. A positive rectovaginal culture for GBS during a previous pregnancy is not an indication for prophylaxis in subsequent pregnancies.
 

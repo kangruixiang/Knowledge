@@ -11,7 +11,7 @@
 - rx: post exposure prophylaxis
 - prognosis: Post-exposure prophylaxis is effective only in preventing disease prior to manifestation of symptoms.  After disease onset, treatment is primarily palliative, and most patients suffer from **coma** and **death** within weeks of illness onset.  Family members should be advised to expect long-term neurologic deficits in the rare chance that the patient does survive.
 
-![image-20200831093257550](https://photos.thisispiggy.com/file/wikiFiles/image-20200831093257550.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200831093257550.png)
 
 This patient's dysphagia, drool, and history of cave exposure are concerning for rabies transmitted by bats.  **Hydrophobia** is pathognomonic for rabies; water triggers **pharyngeal spasms** that cause the patient to be frightened of drinking.  The illness usually starts with a few days of nonspecific prodromal symptoms, including fever and malaise.  Neurologic symptoms (eg, confusion, lethargy, paralysis, aphasia) develop later in the course of the disease.
 

@@ -13,11 +13,11 @@
 
 <!-- dermatomyositis sx, dx, management -->
 
-![image-20191224103401335](https://photos.thisispiggy.com/file/wikiFiles/image-20191224103401335.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20191224103401335.png)
 
-![image-20191224103434068](https://photos.thisispiggy.com/file/wikiFiles/image-20191224103434068.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20191224103434068.png)
 
-![image-20191224103501948](https://photos.thisispiggy.com/file/wikiFiles/image-20191224103501948.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20191224103501948.png)
 
 This patient has a proximal myopathy as evidenced by an elevated creatine  kinase level, and difficulty rising from a chair and climbing stairs.  Insidious onset of symmetric proximal myopathy associated with Gottron's papules or a heliotrope rash is highly characteristic of dermatomyositis (DM).
 

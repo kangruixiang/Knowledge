@@ -20,7 +20,7 @@ Management of IBS includes lifestyle and dietary modifications, and reassurance 
 
 The most common dietary intervention is an increase in fiber, either through diet or use of fiber supplements. Water-soluble fiber supplements such as psyllium are more effective than insoluble dietary fiber such as bran. Dietary restrictions can include avoidance of trigger foods, gluten (in the absence of celiac disease), dairy products, and FODMAPs (see **[Table 19](https://mksap18.acponline.org/app/topics/gi/tables/mk18_a_gi_t19)**). Randomized trials have shown that a low-FODMAP diet alleviates symptoms in patients with IBS. When these initial measures fail to relieve symptoms, medications, typically directed at the primary symptoms of IBS such constipation, diarrhea, or abdominal pain, are employed. The evidence supporting the use of the various agents is variable, with few rigorous studies showing long-term effectiveness.
 
-![20210412144813](https://photos.thisispiggy.com/file/wikiFiles/20210412144813.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210412144813.png)
 
 #### Therapy for Irritable Bowel Syndrome with Predominant Constipation
 

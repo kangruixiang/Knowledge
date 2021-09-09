@@ -619,7 +619,7 @@ A). Radiographs often show hyperinflation and infiltrates, and a CBC will reveal
 
 This patient has classic lichen planus, with pruritic, symmetrically distributed papular lesions. The violaceous flat-topped papules, usually 3–6 mm in size, are distinct and so characteristic in appearance that a biopsy is usually not necessary to make the diagnosis. First-line treatment is with high-potency topical corticosteroids such as clobetasol, as mid-potency topical agents such as triamcinolone are ineffective. Topical calcineurin inhibitors, including tacrolimus, can be used in cases not responding to topical corticosteroids. While scabies can masquerade as a variety of other dermatoses, retreatment with a scabicide is not indicated in this patient.
 
-![Image result for lichen planus](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/08/26/10/40/ds00782_im00210_sn7_lichenplanusthu_jpg.jpg)
+![](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/08/26/10/40/ds00782_im00210_sn7_lichenplanusthu_jpg.jpg)
 
 # Hip Pain
 

@@ -31,7 +31,7 @@ Operative vaginal delivery (eg, vacuum, forceps) is an option for second-stage l
 
 <!-- preterm labor management by weeks -->
 
-![image-20200721211021777](https://photos.thisispiggy.com/file/wikiFiles/image-20200721211021777.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200721211021777.png)
 
 This patient presents with **preterm labor**, defined as regular uterine contractions resulting in cervical change (eg, dilation) at **<37 weeks gestation**. The majority of cases of preterm labor are spontaneous; however, associated risk factors include a history of prior preterm labor, extremes of maternal age, uterine malformations (eg, leiomyoma), and multifetal gestation.
 
@@ -41,19 +41,19 @@ The management of preterm labor involves inhibition of uterine contractions (eg,
 
 <!-- shoulder dystocia in delivery management -->
 
-![image-20200316202843640](https://photos.thisispiggy.com/file/wikiFiles/image-20200316202843640.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200316202843640.png)
 
 **Shoulder dystocia** occurs when the **anterior fetal shoulder does not deliver with the usual obstetric maneuvers** (eg, gentle downward traction). The typical presentation of shoulder dystocia is the retraction of the fetal head into the maternal perineum immediately after delivery ("turtle sign"). Shoulder dystocia is an **obstetric emergency** associated with fetal risk for brachial plexus injury, clavicular or humeral fracture, hypoxic encephalopathy, and death. Maternal complications of shoulder dystocia include pelvic injury (eg, fourth-degree perineal laceration) and postpartum hemorrhage. Risk factors for a shoulder dystocia include prior shoulder dystocia, diabetes mellitus, maternal obesity, fetal macrosomia, post-term pregnancy, and operative vaginal delivery.
 
 Shoulder dystocia is caused by impaction of the anterior fetal shoulder behind the maternal pubic symphysis. It is managed by the performance of maneuvers that work to disimpact the anterior shoulder. The first maneuver for shoulder dystocia is the **McRoberts maneuver**, during which the maternal **hips are hyperflexed**. This maneuver decreases obstruction through the bony pelvis by rotating the pubic symphysis cephalad and flattening the sacral promontory. The combination of McRoberts maneuver and **suprapubic pressure** frequently relieves the shoulder dystocia with no additional maneuvers required.
 
-![image-20200316202917203](https://photos.thisispiggy.com/file/wikiFiles/image-20200316202917203.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200316202917203.png)
 
 ## Twin delivery
 
 <!-- second twin delivery -->
 
-![image-20200224201003126](https://photos.thisispiggy.com/file/wikiFiles/image-20200224201003126.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200224201003126.png)
 
 The delivery of a second twin is associated with an increased risk of umbilical cord prolapse, abruptio placentae, malpresentation, and neonatal death. To minimize these risks, vaginal delivery of twin gestations is offered selectively. In patients with dichorionic/diamniotic twins, mode of delivery is dictated by fetal presentation. When dichorionic/diamniotic twins are in a vertex/vertex presentation, a **vaginal delivery** can be attempted.
 
@@ -65,7 +65,7 @@ Indications for cesarean delivery of twins include monoamnioticity, malpresentat
 
 <!-- amnionic fluid embolism risks, sx, rx -->
 
-![image-20200118104855922](https://photos.thisispiggy.com/file/wikiFiles/image-20200118104855922.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200118104855922.png)
 
 This patient has acute-onset **hypoxemia**, **hypotension**, and **disseminated intravascular coagulopathy** (eg, hematuria, hemorrhage), a presentation consistent with **amniotic fluid embolism syndrome** (AFES). AFES, a rare but catastrophic complication of pregnancy, typically occurs during **labor** or in the **immediate postpartum period**. Amniotic fluid enters the maternal circulation through the endocervical veins, the placental implantation site, or areas of uterine trauma (eg, cesarean incision site). The amniotic fluid triggers a massive anaphylactoid reaction that results in vasospasm, cardiogenic shock, pulmonary edema, respiratory failure, seizures, and disseminated intravascular coagulation. Risk factors for AFES include cesarean/operative delivery, placenta previa, and abruptio placentae. **Treatment is supportive**, focused on correcting hypoxemia (eg, oxygen, intubation) and hypotension (eg, vasopressors, transfusion). AFES is associated with a high risk of maternal and neonatal mortality and, among survivors, a high risk of significant neurological sequelae.
 

@@ -9,9 +9,9 @@
 
 <!-- Anti-D antibody administration when -->
 
-![image-20200215204407890](https://photos.thisispiggy.com/file/wikiFiles/image-20200215204407890.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200215204407890.png)
 
-![image-20200215203349326](https://photos.thisispiggy.com/file/wikiFiles/image-20200215203349326.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200215203349326.png)
 
 Rh(D) alloimmunization occurs when an Rh(D)-negative mother develops antibodies against Rh(D) antigen. Alloimmunization can lead to hemolytic disease of an Rh(D)-positive newborn and/or fetus; maternal IgG anti-D antibodies cross the placenta and destroy fetal red blood cells. When severe anemia develops in the fetus, it can lead to heart failure and subsequent hydrops fetalis (eg, pleural or pericardial effusion, ascites).
 

@@ -7,7 +7,7 @@
 
 <!-- urinary incontinence types, sx, rx -->
 
-![image-20200316201302122](https://photos.thisispiggy.com/file/wikiFiles/image-20200316201302122.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200316201302122.png)
 
 - pathogenesis
 	- stress: decreased urethral sphincter tone, urethral hypermobility
@@ -34,9 +34,9 @@ Patients who have no improvement in their urgency incontinence symptoms despite 
 
 <!-- pessary vs sling -->
 
-![image-20200721211742677](https://photos.thisispiggy.com/file/wikiFiles/image-20200721211742677.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200721211742677.png)
 
-![image-20200821053716183](https://photos.thisispiggy.com/file/wikiFiles/image-20200821053716183.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200821053716183.png)
 
 A mid-urethral sling procedure is indicated in the management of stress urinary incontinence, which presents with involuntary leakage of urine associated with increased intraabdominal pressure. Patients with stress incontinence have a positive cough-stress test (ie, leakage with coughing).
 

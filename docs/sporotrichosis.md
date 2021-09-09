@@ -6,7 +6,7 @@
 
 <!-- sporotrichosis cause, symptoms, diagnosis, treatment -->
 
-![image-20191201102557244](https://photos.thisispiggy.com/file/wikiFiles/image-20191201102557244.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20191201102557244.png)
 
 _Sporothrix schenckii_ is a low-virulence,  dimorphic fungus found in soil and decaying plant matter. Humans  acquire the infection when the organism is inoculated into the skin or  subcutaneous tissue. As such, sporotrichosis typically occurs in those  who engage in **outdoor** vocational or recreational activities such as landscaping or gardening.
 

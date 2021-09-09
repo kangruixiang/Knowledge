@@ -6,7 +6,7 @@
 
 <!-- gestational trophoblastic neoplasia risks, sx, dx, rx -->
 
-![image-20200601203013899](https://photos.thisispiggy.com/file/wikiFiles/image-20200601203013899.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200601203013899.png)
 
 After a term vaginal delivery, this patient has **abnormal vaginal bleeding**, an **enlarged uterus**, a vascular **vaginal lesion**, and a **positive urine pregnancy test**, a presentation consistent with **gestational trophoblastic neoplasia** (GTN). Choriocarcinoma is the most aggressive form of GTN, and metastasis to the lungs, vagina, central nervous system, or liver often occurs. Abnormal vaginal bleeding is common and can be from either metastatic disease (eg, vaginal lesion) or the primary tumor itself (eg, enlarged uterus).
 

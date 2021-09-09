@@ -10,4 +10,4 @@ Treatment of acute **multiple sclerosis** (MS) **exacerbation** is indicated whe
 
 Disease-modifying drugs (eg, **beta-interferon, glatiramer acetate**) are indicated for chronic maintenance therapy in patients with  relapsing-remitting multiple sclerosis (MS) as they can decrease the  frequency of relapses and reduce the development of brain lesions.
 
-![image-20200307140554380](https://photos.thisispiggy.com/file/wikiFiles/image-20200307140554380.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/image-20200307140554380.png)

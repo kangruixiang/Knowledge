@@ -52,7 +52,7 @@
 	- visualize cherry red swollen epiglotitis
 - treatment: ET tube, antibiotics.,
 
-![_](https://i.imgur.com/qJMvjLn.png)
+![](https://i.imgur.com/qJMvjLn.png)
 
 # Retropharyngeal Abscess
 
@@ -67,7 +67,7 @@
 	- I & D
 	- IV antibiotics.,
 
-![_](https://i.imgur.com/u1c8OY2.png)
+![](https://i.imgur.com/u1c8OY2.png)
 
 # Peritonsilar Abscess
 
