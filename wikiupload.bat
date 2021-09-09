@@ -1,6 +1,6 @@
 D:
 cd D:\Git\my-wiki\ 
-node build2
+node build
 git add .
 git commit -am "updates"
 git push
