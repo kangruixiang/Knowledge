@@ -26,9 +26,9 @@
 
 - 6 points need to classify as RA
 
-![20210829203346](https://photos.thisispiggy.com/file/wikiFiles/20210829203346.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210829203346.png)
 
-![20210829203417](https://photos.thisispiggy.com/file/wikiFiles/20210829203417.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20210829203417.png)
 
 ## Symptoms
 
@@ -47,32 +47,34 @@
 	- joint swelling, palpable on exam, bogginess
 	- morning stiffness lasting hours
 	- stiffness better with activity
-- extra-articular sx:
-	- skin:
-		- rheumatoid nodules: up to 30% pts, usually in olecranon areas but also in hands/feet/lungs
-		- neutrophilic dermatoses: [[Sweet syndrome]] or pyoderma gangrenosum
-		- plapable purpura from vasculitis
-	- eye
-		- dry eye (keratoconjunctivitis sicca)
-		- dry mouth (secondary sjogren)
-		- <1% episcleritis and scleritis
-		- keratitis: corneal inflammation
-		- scleritis and keratitis require immediate ophthalmology referral
-	- lung
-		- air trapping disease in up to 50% people
-		- pleural disease in up to 5%
 
-Air trapping reflecting small airway disease occurs in up to 50% of patients with RA. Pleural disease occurs in up to 5%; pleural effusions are exudative and can be large. RA pleural effusions are characterized by low glucose and pH (mimicking bacterial or tubercular infection and malignancy) and low complement levels, as well as elevated levels of total protein, rheumatoid factor, and lactate dehydrogenase. Inflammatory cells in the RA effusion are characteristically mononuclear; a neutrophil-predominant effusion suggests infection. Interstitial lung disease contributes to excess mortality in RA and may develop in 50% of patients, but clinically significant disease is seen in 10%. Bronchiectasis and bronchiolitis occur, and the bronchiolitis can be obliterative/constrictive. Upper airway involvement from cricoarytenoid arthritis occurs rarely; symptoms include hoarseness, sore throat, dysphagia, and stridor. Cricoarytenoid arthritis can pose problems for endotracheal intubation.
+### extra-articular 
+- skin:
+	- rheumatoid nodules: up to 30% pts, usually in olecranon areas but also in hands/feet/lungs
+	- neutrophilic dermatoses: [[Sweet syndrome]] or pyoderma gangrenosum
+	- palpable purpura from vasculitis
+- eye
+	- dry eye (keratoconjunctivitis sicca)
+	- dry mouth (secondary sjogren)
+	- <1% episcleritis and scleritis
+	- keratitis: corneal inflammation
+	- scleritis and keratitis require immediate ophthalmology referral
+- lung
+	- air trapping disease in up to 50% people
+	- pleural disease in up to 5%
+	- bronchiectasis, bronchiolitis
+	- large exudative pleural effusion
+		- low glucose
+		- low pH
+		- mimicks bacterial, TB, malignancy
+		- low complement levels
+		- elevated protein, RF, LDH
+		- mononuclear inflammatory cells: lymphocytes, monocytes
+- heart
+	- mostly atherosclerosis
+- 
 
-### Heart
 
-Atherosclerotic heart disease remains the major cause of excess death in patients with RA, although recent data suggest that cardiovascular disease risk may be decreasing toward that of the general population. Nonetheless, patients with RA should be considered at high cardiovascular risk for purposes of perioperative evaluation, and cardiovascular disease risk factors such as dyslipidemia and hypertension should be addressed. Clinically significant pericarditis is rare. Granulomatous myocarditis, valvular disease (mainly mitral), conduction block, and aortitis are reported to occur in RA but are very rare.
-
-### Hematologic
-
-#### Related Question
-
-- Question 15
 
 Anemia of inflammation is the most common RA hematologic abnormality. Felty syndrome consists of neutropenia and splenomegaly and occurs in patients with long-standing, severe, seropositive RA. These patients are at risk for serious bacterial infection, lower extremity ulceration, lymphoma, and vasculitis. With current treatment, Felty syndrome has become rare. Patients with RA can also have a large granular lymphocyte syndrome that can progress to large granular lymphocyte leukemia. Findings overlap with Felty syndrome and include neutropenia, anemia, thrombocytopenia, splenomegaly, and recurrent infections. Patients with RA are at increased risk for lymphomas (particularly large B-cell lymphomas), and risk is correlated with disease activity.
 
