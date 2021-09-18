@@ -1,5 +1,5 @@
 ---
-- date: 2020-09-07
+date: 2020-09-07
 ---
 
 # Hypertension
@@ -8,6 +8,7 @@
 - [[elderly patients have lower blood pressure goal]]
 - [[nsaid use can increase blood pressure]]
 - [[secondary HTN]]
+- [[inpatient hypertension]]
 
 ## BP lowering
 

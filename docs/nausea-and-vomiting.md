@@ -1,6 +1,6 @@
 ---
 
-- date: 2020-10-24
+date: 2020-10-24
 ---
 
 # nausea and vomiting

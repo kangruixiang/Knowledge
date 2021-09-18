@@ -1,5 +1,5 @@
 ---
-- date: 2020-09-10
+date: 2020-09-10
 ---
 
 ## Secondary Hypertension

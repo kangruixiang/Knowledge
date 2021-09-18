@@ -1,5 +1,5 @@
 ---
-- date: 2021-08-30
+date: 2021-08-30
 ---
 
 # bowel regimens

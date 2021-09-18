@@ -1,5 +1,5 @@
 ---
-- date: 2021-02-19
+date: 2021-02-19
 ---
 
 # amitriptyline and metanephrine

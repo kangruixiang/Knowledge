@@ -1,5 +1,5 @@
 ---
-- date: 2020-09-09
+date: 2020-09-09
 ---
 
 # parvo b19 in pregnancy

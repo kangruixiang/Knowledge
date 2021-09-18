@@ -1,5 +1,5 @@
 ---
-- date: 2021-02-08
+date: 2021-02-08
 ---
 
 # subacute thyroiditis

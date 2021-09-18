@@ -1,5 +1,5 @@
 ---
-- date: 2021-08-29
+date: 2021-08-29
 ---
 
 # rheumatoid arthritis

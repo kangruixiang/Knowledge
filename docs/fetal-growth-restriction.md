@@ -1,5 +1,5 @@
 ---
-- date: 2020-09-06
+date: 2020-09-06
 ---
 
 # fetal growth restriction

@@ -1,5 +1,5 @@
 ---
-- date: 2020-09-07
+date: 2020-09-07
 ---
 
 # 03 Hemoglobin
@@ -10,7 +10,7 @@
 
 - component of RBC, carries O2
 - blue and red: globin chains---
-- date: 2021-03-20
+  date: 2021-03-20
 ---
 
 # 03 Hemoglobin

@@ -1,5 +1,5 @@
 ---
-- date: 2020-09-07
+date: 2020-09-07
 ---
 
 # Acute mitral regurgitation can cause acute heart failure

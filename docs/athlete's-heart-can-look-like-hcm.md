@@ -1,5 +1,5 @@
 ---
-- date: 2020-09-09
+date: 2020-09-09
 ---
 
 # athlete's heart can look like HCM

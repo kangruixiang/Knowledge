@@ -1,5 +1,5 @@
 ---
-- date: 2021-02-12
+date: 2021-02-12
 ---
 
 # steroids and cortisol

@@ -1,5 +1,5 @@
 ---
-- date: 2020-09-11
+date: 2020-09-11
 ---
 
 # comparison tests in statistics

@@ -1,5 +1,5 @@
 ---
-- date: 2020-09-07
+date: 2020-09-07
 ---
 
 # Medicine
@@ -35,6 +35,7 @@
 - [[Pediatric]]
 - [[pharmacology]]
 - [[major trials]]
+- [[ebm]]
 - [[emergency medicine]]
 - [[Perioperative]]
 - [[ICU]]

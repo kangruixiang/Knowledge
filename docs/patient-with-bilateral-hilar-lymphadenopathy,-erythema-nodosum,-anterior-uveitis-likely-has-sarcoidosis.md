@@ -1,5 +1,5 @@
 ---
-- date: 2020-09-07
+date: 2020-09-07
 ---
 
 # Patient with bilateral hilar lymphadenopathy, erythema nodosum, anterior uveitis likely has sarcoidosis

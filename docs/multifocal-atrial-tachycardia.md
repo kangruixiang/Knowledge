@@ -1,8 +1,11 @@
 ---
-- date: 2020-09-07
+date: 2020-09-07
 ---
 
-## Multifocal Atrial Tachycardia
+# Multifocal Atrial Tachycardia
+
+- related: [[Medicine]], [[Cardiology]], [[tachycardia]]
+- tag: #note
 
 Multifocal atrial tachycardia (MAT) is an **_irregularly-irregular_ supraventricular tachycardia (SVT)** characterized by the presence of **3 or more ectopic atrial pacemaking foci**.
 

@@ -1,10 +1,9 @@
 ---
-- date: 2021-08-26
+date: 2021-08-26
 ---
 ---
 
-- date: 2021-08-24
----
+## date: 2021-08-24
 
 # transfusion products
 

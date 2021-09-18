@@ -1,5 +1,5 @@
 ---
-- date: 2020-12-16
+date: 2020-12-16
 ---
 
 # depression and anxiety 12 16 note

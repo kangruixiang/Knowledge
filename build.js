@@ -3,7 +3,7 @@ const path = require("path");
 const fs = require("fs");
 const glob = require("glob");
 
-const sourceFolder = "D:\\Drive\\My-Notes\\03 Resources\\Medicine";
+const sourceFolder = "D:\\Git\\My-Notes\\03 Resources\\Medicine";
 const sourceFiles = glob.sync(sourceFolder + "/**/*.md");
 const files = glob.sync(path.join(__dirname, "docs", "**", "*.md"));
 const readMe = glob.sync(sourceFolder + "/medicine.md");

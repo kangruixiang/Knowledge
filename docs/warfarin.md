@@ -1,8 +1,11 @@
 ---
-- date: 2020-09-07
+date: 2020-09-07
 ---
 
 # Warfarin
+
+- related: [[Hemeonc]], [[INR goals]]
+---
 
 <!-- warfarin reversal how -->
 

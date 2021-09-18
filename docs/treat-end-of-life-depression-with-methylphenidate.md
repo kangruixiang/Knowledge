@@ -1,5 +1,5 @@
 ---
-- date: 2021-07-24
+date: 2021-07-24
 ---
 
 # treat end of life depression with methylphenidate

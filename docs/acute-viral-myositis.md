@@ -1,5 +1,5 @@
 ---
-- date: 2020-09-08
+date: 2020-09-08
 ---
 
 # acute viral myositis

@@ -1,5 +1,5 @@
 ---
-- date: 2021-02-17
+date: 2021-02-17
 ---
 
 # seronegative spondyloarthropathy

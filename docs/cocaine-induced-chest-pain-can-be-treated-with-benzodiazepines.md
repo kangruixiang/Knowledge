@@ -1,5 +1,5 @@
 ---
-- date: 2020-09-07
+date: 2020-09-07
 ---
 
 # cocaine induced chest pain can be treated with benzodiazepines

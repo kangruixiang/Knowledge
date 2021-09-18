@@ -1,5 +1,5 @@
 ---
-- date: 2020-10-27
+date: 2020-10-27
 ---
 
 ## Recurrent UTI in young women

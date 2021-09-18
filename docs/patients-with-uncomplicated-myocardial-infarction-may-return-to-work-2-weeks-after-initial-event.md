@@ -1,5 +1,5 @@
 ---
-- date: 2020-09-07
+date: 2020-09-07
 ---
 
 # Patients with uncomplicated myocardial infarction may return to work 2 weeks after initial event
