@@ -5,7 +5,7 @@ date: 2021-02-12
 # diabetes inpatient management
 
 - related: [[Endocrine]]
-- \#note
+- tag: #note
 ---
 
 - Discontinue oral hypoglycemics, especially metformin & sulfonylureas

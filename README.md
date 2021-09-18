@@ -34,7 +34,6 @@ date: 2020-09-07
 - [[OBGYN]]
 - [[Pediatric]]
 - [[pharmacology]]
-- [[major trials]]
 - [[ebm]]
 - [[emergency medicine]]
 - [[Perioperative]]

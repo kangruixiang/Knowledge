@@ -5,7 +5,7 @@ date: 2021-09-17
 # ebm
 
 - related: [[Medicine]]
-- \#ebm
+- tag: #ebm
 ---
 
 - ARRIVE: ASA doesn't work for primary prevention

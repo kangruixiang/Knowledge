@@ -5,7 +5,7 @@ date: 2021-09-17
 # NICE-SUGAR trial
 
 - related: [[diabetes inpatient management]], [[Endocrine]], [[ebm]]
-- \#ebm
+- tag: #ebm
 ---
 
 - clinical question: in icu patients, does intensive glycemic control reduce mortality compared to conventional control
