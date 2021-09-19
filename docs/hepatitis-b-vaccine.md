@@ -5,7 +5,7 @@ date: 2020-10-21
 # hepatitis b vaccine
 
 - related: [[GI]], [[Hepatitis B]], [[notes]]
-- tag: #perma
+- tag: #note
 - source: https://www.uptodate.com/contents/hepatitis-b-virus-immunization-in-adults
 
 ## Vaccine types
